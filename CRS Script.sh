@@ -13,9 +13,6 @@ curl -d "orderBy=Date&pageNumber=0" https://crsreports.congress.gov/Search/GetCs
 # function, so the reports are viewable in the browser
 sed -i '' -e 's,/download/,/,g' CRS_POST_Output.csv
 
-# These search and replace functions fixe potentially problematic characters
-sed -i '' -e 's,&,(ampersand),g' CRS_POST_Output.csv
-
 # To work correctly in rss feeds, the dates need to be formatted in a certain way.
 # Dates are, by default, sorted in the following way: MM/DD/YYYY.
 # However we need to format them according to the RFC 822 Date and Time Specification.
