@@ -24,6 +24,7 @@ for i in range(1, array_length):
 	print('\t\t<description>' + data[i][3] + '</description>', file = rss_feed)
 	print('\t\t<pubDate>' + data[i][2] + '-0600' + '</pubDate>', file = rss_feed)
 	print('\t\t<link>' + data[i][4] + '</link>', file = rss_feed)
+	print('\t\t<guid>' + data[i][4] + '</guid>', file = rss_feed)
 	print('\t</item>', file = rss_feed)
 
 print('</channel>', file = rss_feed)
