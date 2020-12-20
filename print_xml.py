@@ -20,8 +20,8 @@ print('\t<description>This feed contains a listing of reports published by the C
 
 for i in range(1, array_length):
 	print('\t<item>', file = rss_feed)
-	print('\t\t<title>' + data[i][3] + '</title>', file = rss_feed)
-	print('\t\t<description>' + data[i][3] + '</description>', file = rss_feed)
+	print('\t\t<title>' + data[i][3] + ' (V' + data[i][5] + ')</title>', file = rss_feed)
+	print('\t\t<description>' + data[i][3] + ' (V' + data[i][5] + ')</description>', file = rss_feed)
 	print('\t\t<pubDate>' + data[i][2] + '-0600' + '</pubDate>', file = rss_feed)
 	print('\t\t<link>' + data[i][4] + '</link>', file = rss_feed)
 	print('\t\t<guid>' + data[i][4] + '</guid>', file = rss_feed)
