@@ -30,8 +30,8 @@ link.text = "https://crsreports.congress.gov/"
 description = SubElement(channel, 'description')
 description.text = "RSS Feed for reports published by the Congressional Research Service."
 
-# Loop through each row of the dataframe
-for _, row in df.iterrows():
+# Loop through the first 500 rows of the dataframe
+for _, row in df.head(500).iterrows():
     # Create an item element for each row
     item = SubElement(channel, 'item')
     
