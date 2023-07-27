@@ -5,6 +5,27 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Electric Bicycles (E-Bikes) on Federal Lands</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12459</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12459</guid>
+      <description>Electric Bicycles (E-Bikes) on Federal Lands</description>
+    </item>
+    <item>
+      <title>House-Passed FAA Bill Leaves Existing Reagan National Airport Slot and Perimeter Rules Intact</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12206</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12206</guid>
+      <description>House-Passed FAA Bill Leaves Existing Reagan National Airport Slot and Perimeter Rules Intact</description>
+    </item>
+    <item>
+      <title>The Congressional Budget Process Timeline</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47235</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47235</guid>
+      <description>The Congressional Budget Process Timeline</description>
+    </item>
+    <item>
       <title>Belts and Suspenders: Analysis of Large Bank Capital Standards</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47634</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
@@ -3482,27 +3503,6 @@
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">97-1011</guid>
       <description>Salaries of Members of Congress: Recent Actions and Historical Tables</description>
-    </item>
-    <item>
-      <title>The Federal Role in Addressing the Adderall Drug Shortage</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12156</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12156</guid>
-      <description>The Federal Role in Addressing the Adderall Drug Shortage</description>
-    </item>
-    <item>
-      <title>African Continental Free Trade Area (AfCFTA): Overview and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47197</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47197</guid>
-      <description>African Continental Free Trade Area (AfCFTA): Overview and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Connecting Older Adults and Individuals with Disabilities to Health Services: Resources for Congressional Offices</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11694</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11694</guid>
-      <description>Connecting Older Adults and Individuals with Disabilities to Health Services: Resources for Congressional Offices</description>
     </item>
   </channel>
 </rss>
