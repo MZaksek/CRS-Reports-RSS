@@ -5,6 +5,20 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Iran and Nuclear Weapons Production</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12106</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12106</guid>
+      <description>Iran and Nuclear Weapons Production</description>
+    </item>
+    <item>
+      <title>National Oceanic and Atmospheric Administration (NOAA): Overview and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47636</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47636</guid>
+      <description>National Oceanic and Atmospheric Administration (NOAA): Overview and Issues for Congress</description>
+    </item>
+    <item>
       <title>Electric Bicycles (E-Bikes) on Federal Lands</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12459</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
@@ -19,6 +33,20 @@
       <description>House-Passed FAA Bill Leaves Existing Reagan National Airport Slot and Perimeter Rules Intact</description>
     </item>
     <item>
+      <title>Mountain Valley Pipeline Litigation Tests Congress's Power to Limit Federal Court Jurisdiction</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11010</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11010</guid>
+      <description>Mountain Valley Pipeline Litigation Tests Congress's Power to Limit Federal Court Jurisdiction</description>
+    </item>
+    <item>
+      <title>Somalia</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10155</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10155</guid>
+      <description>Somalia</description>
+    </item>
+    <item>
       <title>The Congressional Budget Process Timeline</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47235</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
@@ -26,11 +54,25 @@
       <description>The Congressional Budget Process Timeline</description>
     </item>
     <item>
+      <title>Tribal Disaster Risk and Selected Federal Resources</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12460</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12460</guid>
+      <description>Tribal Disaster Risk and Selected Federal Resources</description>
+    </item>
+    <item>
       <title>Belts and Suspenders: Analysis of Large Bank Capital Standards</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47634</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47634</guid>
       <description>Belts and Suspenders: Analysis of Large Bank Capital Standards</description>
+    </item>
+    <item>
+      <title>Casino Gambling and Economic Development</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12461</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12461</guid>
+      <description>Casino Gambling and Economic Development</description>
     </item>
     <item>
       <title>Chile: An Overview</title>
@@ -45,6 +87,13 @@
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12457</guid>
       <description>Federal Employee Travel: Per Diem Reimbursement Rates</description>
+    </item>
+    <item>
+      <title>Federal Small Business Contracting Goals</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12018</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12018</guid>
+      <description>Federal Small Business Contracting Goals</description>
     </item>
     <item>
       <title>Legislative Changes to the EB-5 Immigrant Investor Program</title>
@@ -185,13 +234,6 @@
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11614</guid>
       <description>Long-Term Care Insurance: Overview</description>
-    </item>
-    <item>
-      <title>Mountain Valley Pipeline Litigation Tests Congress's Power to Limit Federal Court Jurisdiction</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11010</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11010</guid>
-      <description>Mountain Valley Pipeline Litigation Tests Congress's Power to Limit Federal Court Jurisdiction</description>
     </item>
     <item>
       <title>North Korea's Nuclear Weapons and Missile Programs</title>
@@ -3461,48 +3503,6 @@
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R43744</guid>
       <description>Monuments and Memorials Authorized Under the Commemorative Works Act in the District of Columbia: Current Development of In Progress and Lapsed Works</description>
-    </item>
-    <item>
-      <title>The DOJ's Ad Tech Antitrust Case Against Google: A Brief Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10956</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10956</guid>
-      <description>The DOJ's Ad Tech Antitrust Case Against Google: A Brief Overview</description>
-    </item>
-    <item>
-      <title>Asian Infrastructure Investment Bank</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10154</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10154</guid>
-      <description>Asian Infrastructure Investment Bank</description>
-    </item>
-    <item>
-      <title>Internships in Congressional Offices: Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44491</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44491</guid>
-      <description>Internships in Congressional Offices: Frequently Asked Questions</description>
-    </item>
-    <item>
-      <title>Login.gov: Administration and Identity Authentication</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12395</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12395</guid>
-      <description>Login.gov: Administration and Identity Authentication</description>
-    </item>
-    <item>
-      <title>Salaries of Members of Congress: Congressional Votes, 1990-2023</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/97-615</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">97-615</guid>
-      <description>Salaries of Members of Congress: Congressional Votes, 1990-2023</description>
-    </item>
-    <item>
-      <title>Salaries of Members of Congress: Recent Actions and Historical Tables</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/97-1011</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">97-1011</guid>
-      <description>Salaries of Members of Congress: Recent Actions and Historical Tables</description>
     </item>
   </channel>
 </rss>
