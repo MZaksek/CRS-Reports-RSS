@@ -5,6 +5,34 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>HSA@20 Episode Companion: Border Enforcement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12216</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12216</guid>
+      <description>HSA@20 Episode Companion: Border Enforcement</description>
+    </item>
+    <item>
+      <title>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43546</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43546</guid>
+      <description>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>The Legal Framework for Federal Methane Regulation</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12217</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12217</guid>
+      <description>The Legal Framework for Federal Methane Regulation</description>
+    </item>
+    <item>
+      <title>Venezuela: Political Crisis and U.S. Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10230</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10230</guid>
+      <description>Venezuela: Political Crisis and U.S. Policy</description>
+    </item>
+    <item>
       <title>Artificial Intelligence (AI) in Federal Election Campaigns: Legal Background and Constitutional Considerations for Legislation</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12468</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
@@ -24,6 +52,27 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12469</guid>
       <description>China and the Middle East and North Africa (MENA)</description>
+    </item>
+    <item>
+      <title>Defense Primer: Department of the Navy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10484</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10484</guid>
+      <description>Defense Primer: Department of the Navy</description>
+    </item>
+    <item>
+      <title>Defense Primer: Geography, Strategy, and U.S. Force Design</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10485</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10485</guid>
+      <description>Defense Primer: Geography, Strategy, and U.S. Force Design</description>
+    </item>
+    <item>
+      <title>Defense Primer: Naval Forces</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10486</guid>
+      <description>Defense Primer: Naval Forces</description>
     </item>
     <item>
       <title>FY2024 NDAA: TRICARE for Reservists</title>
@@ -47,6 +96,13 @@
       <description>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</description>
     </item>
     <item>
+      <title>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11838</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11838</guid>
+      <description>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</description>
+    </item>
+    <item>
       <title>PEPFAR Extension Act of 2018: Expiring Authorities</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12463</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
@@ -59,6 +115,13 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11017</guid>
       <description>Supreme Court Rules Bankruptcy Code Abrogates Tribal Sovereign Immunity</description>
+    </item>
+    <item>
+      <title>U.S. Regional Fishery Management Councils</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47645</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47645</guid>
+      <description>U.S. Regional Fishery Management Councils</description>
     </item>
     <item>
       <title>USDA's SECURE Rule to Regulate Agricultural Biotechnology</title>
@@ -549,6 +612,13 @@
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11012</guid>
       <description>Louisiana Court Rules on Government Communications with Social Media Companies</description>
+    </item>
+    <item>
+      <title>Stafford Act Cost Shares: History, Trends, Analysis</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47646</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47646</guid>
+      <description>Stafford Act Cost Shares: History, Trends, Analysis</description>
     </item>
     <item>
       <title>The SBA's 8(a) Business Development Program</title>
@@ -2875,13 +2945,6 @@
       <description>Debt Limit Policy Questions: What Are the Potential Economic Effects of a Binding Federal Debt Limit?</description>
     </item>
     <item>
-      <title>Defense Primer: Naval Forces</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10486</guid>
-      <description>Defense Primer: Naval Forces</description>
-    </item>
-    <item>
       <title>Offshore Energy: Vessel and Crew Nationality Requirements</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12413</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
@@ -3218,13 +3281,6 @@
       <description>National Forest System Management: Overview and Issues for Congress</description>
     </item>
     <item>
-      <title>Navy TAGOS-25 (Previously TAGOS[X]) Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11838</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11838</guid>
-      <description>Navy TAGOS-25 (Previously TAGOS[X]) Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Overview of FY2024 Appropriations for Commerce, Justice, Science, and Related Agencies (CJS)</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47566</link>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
@@ -3447,62 +3503,6 @@
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10964</guid>
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 8-May 14, 2023)</description>
-    </item>
-    <item>
-      <title>Defense Primer: U.S. Policy on Lethal Autonomous Weapon Systems</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11150</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11150</guid>
-      <description>Defense Primer: U.S. Policy on Lethal Autonomous Weapon Systems</description>
-    </item>
-    <item>
-      <title>Disaster Survivor FAQ: FEMA Individuals and Households Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47297</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47297</guid>
-      <description>Disaster Survivor FAQ: FEMA Individuals and Households Program</description>
-    </item>
-    <item>
-      <title>FEMA's Emergency Food and Shelter Program (EFSP)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12026</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12026</guid>
-      <description>FEMA's Emergency Food and Shelter Program (EFSP)</description>
-    </item>
-    <item>
-      <title>FEMA's Individuals and Households Program (IHP)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12049</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12049</guid>
-      <description>FEMA's Individuals and Households Program (IHP)</description>
-    </item>
-    <item>
-      <title>Guyana: An Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11381</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11381</guid>
-      <description>Guyana: An Overview</description>
-    </item>
-    <item>
-      <title>HSA@20 Episode Companion: Intelligence</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12160</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12160</guid>
-      <description>HSA@20 Episode Companion: Intelligence</description>
-    </item>
-    <item>
-      <title>NLRB Reinstates 'Overwhelming Community of Interest' Collective Bargaining Unit Standard</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10963</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10963</guid>
-      <description>NLRB Reinstates 'Overwhelming Community of Interest' Collective Bargaining Unit Standard</description>
-    </item>
-    <item>
-      <title>Post-Title 42: U.S. Foreign Policy Initiatives to Manage Regional Migration</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12159</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12159</guid>
-      <description>Post-Title 42: U.S. Foreign Policy Initiatives to Manage Regional Migration</description>
     </item>
   </channel>
 </rss>
