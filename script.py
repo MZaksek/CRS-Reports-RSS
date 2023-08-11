@@ -48,7 +48,7 @@ def create_item(row):
     # Add the product number of the report to the item, as a guid (globally unique identifier)
     guid = SubElement(item, 'guid')
     guid.set('isPermaLink', 'false')  # The guid is not a permalink
-    guid.text = row['ProductNumber']
+    guid.text = row['ProductNumber'] + "-" + str(row['Version'])  # Append version number to ProductNumber
     
     # Add the title of the report to the item, as a description
     description = SubElement(item, 'description')
