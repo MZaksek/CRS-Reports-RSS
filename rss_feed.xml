@@ -5,11 +5,53 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>August 2023 Wildfires in Hawaii</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12218</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12218-1</guid>
+      <description>August 2023 Wildfires in Hawaii</description>
+    </item>
+    <item>
+      <title>Clinical Fentanyl Testing</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12219</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12219-6</guid>
+      <description>Clinical Fentanyl Testing</description>
+    </item>
+    <item>
+      <title>Federal Assistance for Wildfire Response and Recovery</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10732</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10732-10</guid>
+      <description>Federal Assistance for Wildfire Response and Recovery</description>
+    </item>
+    <item>
+      <title>National Park Service: FY2024 Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12436</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12436-3</guid>
+      <description>National Park Service: FY2024 Appropriations</description>
+    </item>
+    <item>
+      <title>2023 Hurricane Outlooks and 2022 Hurricane Season Review</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12167</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12167-2</guid>
+      <description>2023 Hurricane Outlooks and 2022 Hurricane Season Review</description>
+    </item>
+    <item>
       <title>Federal Student Loans: Return to Repayment</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12472</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12472-1</guid>
+      <guid isPermaLink="false">IF12472-2</guid>
       <description>Federal Student Loans: Return to Repayment</description>
+    </item>
+    <item>
+      <title>How to Develop and Write a Grant Proposal</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32159</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32159-28</guid>
+      <description>How to Develop and Write a Grant Proposal</description>
     </item>
     <item>
       <title>Indo-Pacific Economic Framework for Prosperity (IPEF)</title>
@@ -17,6 +59,13 @@
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12373-7</guid>
       <description>Indo-Pacific Economic Framework for Prosperity (IPEF)</description>
+    </item>
+    <item>
+      <title>Malaysia</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10316</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10316-14</guid>
+      <description>Malaysia</description>
     </item>
     <item>
       <title>Procedures for Declassifying Intelligence of Public Interest</title>
@@ -29,7 +78,7 @@
       <title>Turkey (Türkiye): Major Issues and U.S. Relations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44000</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44000-114</guid>
+      <guid isPermaLink="false">R44000-115</guid>
       <description>Turkey (Türkiye): Major Issues and U.S. Relations</description>
     </item>
     <item>
@@ -64,7 +113,7 @@
       <title>Medicare Secondary Payer: Coordination of Benefits</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL33587</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL33587-17</guid>
+      <guid isPermaLink="false">RL33587-18</guid>
       <description>Medicare Secondary Payer: Coordination of Benefits</description>
     </item>
     <item>
@@ -85,7 +134,7 @@
       <title>Deferred Maintenance of Federal Land Management Agencies: FY2013-FY2022 Estimates and Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R43997</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43997-14</guid>
+      <guid isPermaLink="false">R43997-15</guid>
       <description>Deferred Maintenance of Federal Land Management Agencies: FY2013-FY2022 Estimates and Issues</description>
     </item>
     <item>
@@ -185,6 +234,13 @@
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46374-57</guid>
       <description>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Protection of Undersea Telecommunication Cables: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47648</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47648-2</guid>
+      <description>Protection of Undersea Telecommunication Cables: Issues for Congress</description>
     </item>
     <item>
       <title>The Legal Framework for Federal Methane Regulation</title>
@@ -792,7 +848,7 @@
       <title>Stafford Act Cost Shares: History, Trends, Analysis</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47646</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47646-3</guid>
+      <guid isPermaLink="false">R47646-4</guid>
       <description>Stafford Act Cost Shares: History, Trends, Analysis</description>
     </item>
     <item>
@@ -1902,13 +1958,6 @@
       <description>National Park Service: FY2023 Appropriations</description>
     </item>
     <item>
-      <title>National Park Service: FY2024 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12436</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12436-2</guid>
-      <description>National Park Service: FY2024 Appropriations</description>
-    </item>
-    <item>
       <title>Regulating Gender in School Sports: An Overview of Legal Challenges to State Laws</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10993</link>
       <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
@@ -2966,13 +3015,6 @@
       <description>U.S. Farm Commodity Support: Base Acres and Payment Yields</description>
     </item>
     <item>
-      <title>2023 Hurricane Outlooks and 2022 Hurricane Season Review</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12167</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12167-1</guid>
-      <description>2023 Hurricane Outlooks and 2022 Hurricane Season Review</description>
-    </item>
-    <item>
       <title>CBP One Application: Evolution and Functionality </title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12166</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
@@ -3461,48 +3503,6 @@
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10966-1</guid>
       <description>Supreme Court Considers Religious Accommodations in the Workplace</description>
-    </item>
-    <item>
-      <title>The Foreign Sovereign Immunities Act: Prosecuting Foreign States After the Supreme Court's Decision in Halkbank</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10967</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10967-2</guid>
-      <description>The Foreign Sovereign Immunities Act: Prosecuting Foreign States After the Supreme Court's Decision in Halkbank</description>
-    </item>
-    <item>
-      <title>Tribal Co-management of Federal Lands: Overview and Selected Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47563</link>
-      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47563-3</guid>
-      <description>Tribal Co-management of Federal Lands: Overview and Selected Issues for Congress</description>
-    </item>
-    <item>
-      <title>Arctic National Wildlife Refuge: Status of Oil and Gas Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12006</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12006-3</guid>
-      <description>Arctic National Wildlife Refuge: Status of Oil and Gas Program</description>
-    </item>
-    <item>
-      <title>Campaign Finance Law: An Analysis of Key Issues, Recent Developments, and Constitutional Considerations for Legislation</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45320</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45320-6</guid>
-      <description>Campaign Finance Law: An Analysis of Key Issues, Recent Developments, and Constitutional Considerations for Legislation</description>
-    </item>
-    <item>
-      <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46336-32</guid>
-      <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
-    </item>
-    <item>
-      <title>Death in Custody Reporting Act: Background and Legislative Considerations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47559</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47559-2</guid>
-      <description>Death in Custody Reporting Act: Background and Legislative Considerations</description>
     </item>
   </channel>
 </rss>
