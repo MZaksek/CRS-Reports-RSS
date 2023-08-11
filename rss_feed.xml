@@ -5,6 +5,34 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Federal Student Loans: Return to Repayment</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12472</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12472</guid>
+      <description>Federal Student Loans: Return to Repayment</description>
+    </item>
+    <item>
+      <title>Indo-Pacific Economic Framework for Prosperity (IPEF)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12373</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12373</guid>
+      <description>Indo-Pacific Economic Framework for Prosperity (IPEF)</description>
+    </item>
+    <item>
+      <title>Procedures for Declassifying Intelligence of Public Interest</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12183</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12183</guid>
+      <description>Procedures for Declassifying Intelligence of Public Interest</description>
+    </item>
+    <item>
+      <title>Turkey (Türkiye): Major Issues and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44000</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44000</guid>
+      <description>Turkey (Türkiye): Major Issues and U.S. Relations</description>
+    </item>
+    <item>
       <title>Cybersecurity: Selected Cyberattacks, 2012-2022</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46974</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
@@ -31,6 +59,13 @@
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12217</guid>
       <description>FY2024 NDAA: Military Spouse Employment Matters</description>
+    </item>
+    <item>
+      <title>Medicare Secondary Payer: Coordination of Benefits</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL33587</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL33587</guid>
+      <description>Medicare Secondary Payer: Coordination of Benefits</description>
     </item>
     <item>
       <title>Tax Proposals and the PGA Tour-LIV Golf Merger</title>
@@ -950,13 +985,6 @@
       <description>FY2024 NDAA: TRICARE Coverage of Gender Affirming Care</description>
     </item>
     <item>
-      <title>Indo-Pacific Economic Framework for Prosperity (IPEF)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12373</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12373</guid>
-      <description>Indo-Pacific Economic Framework for Prosperity (IPEF)</description>
-    </item>
-    <item>
       <title>International Tax Proposals Addressing Profit Shifting: Pillars 1 and 2</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11874</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
@@ -1095,13 +1123,6 @@
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">TE10084</guid>
       <description>Strategic Competition in the Arctic</description>
-    </item>
-    <item>
-      <title>Turkey (Türkiye): Major Issues and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44000</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44000</guid>
-      <description>Turkey (Türkiye): Major Issues and U.S. Relations</description>
     </item>
     <item>
       <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 10, 2023-July 16, 2023)</title>
@@ -3482,27 +3503,6 @@
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47559</guid>
       <description>Death in Custody Reporting Act: Background and Legislative Considerations</description>
-    </item>
-    <item>
-      <title>Mexico: Background and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42917</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42917</guid>
-      <description>Mexico: Background and U.S. Relations</description>
-    </item>
-    <item>
-      <title>National Institutes of Health (NIH) Funding: FY1996-FY2024</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43341</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43341</guid>
-      <description>National Institutes of Health (NIH) Funding: FY1996-FY2024</description>
-    </item>
-    <item>
-      <title>Older Americans Act: Overview and Funding</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43414</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43414</guid>
-      <description>Older Americans Act: Overview and Funding</description>
     </item>
   </channel>
 </rss>
