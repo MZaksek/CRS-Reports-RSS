@@ -11,7 +11,7 @@ RSS_VERSION = '2.0'  # The RSS version to use
 FEED_TITLE = "Congressional Research Service Reports"  # The title of the RSS feed
 FEED_LINK = "https://crsreports.congress.gov/"  # The link associated with the RSS feed
 FEED_DESCRIPTION = "RSS Feed for reports published by the Congressional Research Service."  # A description of the RSS feed
-NUM_REPORTS = 500  # The number of reports to include in the RSS feed
+NUM_REPORTS = 1000  # The number of reports to include in the RSS feed
 
 # Function to prettify the XML
 def prettify(elem):
