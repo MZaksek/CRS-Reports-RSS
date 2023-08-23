@@ -5,10 +5,17 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>The Army's Multi-Domain Task Force (MDTF)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11797</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11797-7</guid>
+      <description>The Army's Multi-Domain Task Force (MDTF)</description>
+    </item>
+    <item>
       <title>Army Security Force Assistance Brigades (SFABs)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10675</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10675-17</guid>
+      <guid isPermaLink="false">IF10675-18</guid>
       <description>Army Security Force Assistance Brigades (SFABs)</description>
     </item>
     <item>
@@ -19,17 +26,45 @@
       <description>China Primer: South China Sea Disputes</description>
     </item>
     <item>
+      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (August 14, 2023-August 20, 2023)</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11026</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11026-1</guid>
+      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (August 14, 2023-August 20, 2023)</description>
+    </item>
+    <item>
       <title>Copyright in Standards Incorporated by Reference into Law and the Pro Codes Act</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47656</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47656-1</guid>
+      <guid isPermaLink="false">R47656-2</guid>
       <description>Copyright in Standards Incorporated by Reference into Law and the Pro Codes Act</description>
+    </item>
+    <item>
+      <title>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47657</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47657-1</guid>
+      <description>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</description>
+    </item>
+    <item>
+      <title>Expiration of the Farm Bill</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47659</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47659-1</guid>
+      <description>Expiration of the Farm Bill</description>
+    </item>
+    <item>
+      <title>Financial Institution Insolvency and the Federal Response to the Regional Bank Failures of 2023</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47658</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47658-1</guid>
+      <description>Financial Institution Insolvency and the Federal Response to the Regional Bank Failures of 2023</description>
     </item>
     <item>
       <title>Haiti: Recent Developments and U.S. Policy</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47394</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47394-7</guid>
+      <guid isPermaLink="false">R47394-8</guid>
       <description>Haiti: Recent Developments and U.S. Policy</description>
     </item>
     <item>
@@ -43,7 +78,7 @@
       <title>Meme Stock MMTLP and FINRA Trading Halt</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12228</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12228-1</guid>
+      <guid isPermaLink="false">IN12228-2</guid>
       <description>Meme Stock MMTLP and FINRA Trading Halt</description>
     </item>
     <item>
@@ -673,7 +708,7 @@
       <title>Protection of Undersea Telecommunication Cables: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47648</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47648-2</guid>
+      <guid isPermaLink="false">R47648-3</guid>
       <description>Protection of Undersea Telecommunication Cables: Issues for Congress</description>
     </item>
     <item>
@@ -6417,13 +6452,6 @@
       <description>Repurposing 3.1-3.55 GHz Spectrum: Issues for Congress</description>
     </item>
     <item>
-      <title>The Army's Multi-Domain Task Force (MDTF)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11797</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11797-6</guid>
-      <description>The Army's Multi-Domain Task Force (MDTF)</description>
-    </item>
-    <item>
       <title>The Federal Employees' Compensation Act (FECA): Workers' Compensation for Federal Employees</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R42107</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
@@ -6975,34 +7003,6 @@
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10216-14</guid>
       <description>Nepal</description>
-    </item>
-    <item>
-      <title>SBA Disaster Loan Interest Rates: Overview and Policy Options</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46963</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46963-5</guid>
-      <description>SBA Disaster Loan Interest Rates: Overview and Policy Options</description>
-    </item>
-    <item>
-      <title>SBA Disaster Loan Limits: Policy Options and Considerations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47245</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47245-4</guid>
-      <description>SBA Disaster Loan Limits: Policy Options and Considerations</description>
-    </item>
-    <item>
-      <title>SEC-Proposed Regulations to Reform Stock Trading</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12336</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12336-2</guid>
-      <description>SEC-Proposed Regulations to Reform Stock Trading</description>
-    </item>
-    <item>
-      <title>Selected Issues in Pharmaceutical Drug Pricing</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12272</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12272-3</guid>
-      <description>Selected Issues in Pharmaceutical Drug Pricing</description>
     </item>
   </channel>
 </rss>
