@@ -5,10 +5,59 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>DOE Office of Energy Efficiency and Renewable Energy FY2024 Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12376</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12376-3</guid>
+      <description>DOE Office of Energy Efficiency and Renewable Energy FY2024 Appropriations</description>
+    </item>
+    <item>
+      <title>FY2024 NDAA: Military Construction and Housing Authorizations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12229</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12229-1</guid>
+      <description>FY2024 NDAA: Military Construction and Housing Authorizations</description>
+    </item>
+    <item>
+      <title>Project AWARE</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12478</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12478-1</guid>
+      <description>Project AWARE</description>
+    </item>
+    <item>
+      <title>Tracking Federal Awards: USAspending.gov and Other Data Sources</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44027</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44027-71</guid>
+      <description>Tracking Federal Awards: USAspending.gov and Other Data Sources</description>
+    </item>
+    <item>
+      <title>Cambodia</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10238</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10238-12</guid>
+      <description>Cambodia</description>
+    </item>
+    <item>
+      <title>Department of Defense Directed Energy Weapons: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46925</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46925-6</guid>
+      <description>Department of Defense Directed Energy Weapons: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Law Enforcement and Technology: Use of Unmanned Aircraft Systems</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47660</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47660-1</guid>
+      <description>Law Enforcement and Technology: Use of Unmanned Aircraft Systems</description>
+    </item>
+    <item>
       <title>The Army's Multi-Domain Task Force (MDTF)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11797</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11797-7</guid>
+      <guid isPermaLink="false">IF11797-8</guid>
       <description>The Army's Multi-Domain Task Force (MDTF)</description>
     </item>
     <item>
@@ -43,21 +92,21 @@
       <title>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47657</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47657-1</guid>
+      <guid isPermaLink="false">R47657-2</guid>
       <description>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</description>
     </item>
     <item>
       <title>Expiration of the Farm Bill</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47659</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47659-1</guid>
+      <guid isPermaLink="false">R47659-2</guid>
       <description>Expiration of the Farm Bill</description>
     </item>
     <item>
       <title>Financial Institution Insolvency and the Federal Response to the Regional Bank Failures of 2023</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47658</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47658-1</guid>
+      <guid isPermaLink="false">R47658-2</guid>
       <description>Financial Institution Insolvency and the Federal Response to the Regional Bank Failures of 2023</description>
     </item>
     <item>
@@ -1016,7 +1065,7 @@
       <title>Russia's Wagner Private Military Company (PMC)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12344</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12344-4</guid>
+      <guid isPermaLink="false">IF12344-6</guid>
       <description>Russia's Wagner Private Military Company (PMC)</description>
     </item>
     <item>
@@ -1179,13 +1228,6 @@
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10914-7</guid>
       <description>Trinidad and Tobago</description>
-    </item>
-    <item>
-      <title>Cambodia</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10238</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10238-11</guid>
-      <description>Cambodia</description>
     </item>
     <item>
       <title>Electric Bicycles (E-Bikes) on Federal Lands</title>
@@ -4261,13 +4303,6 @@
       <description>Automation, Artificial Intelligence, and Machine Learning in Consumer Lending</description>
     </item>
     <item>
-      <title>DOE Office of Energy Efficiency and Renewable Energy FY2024 Appropriations </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12376</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12376-2</guid>
-      <description>DOE Office of Energy Efficiency and Renewable Energy FY2024 Appropriations </description>
-    </item>
-    <item>
       <title>Five-Year Offshore Oil and Gas Leasing Program: Status and Issues in Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44692</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
@@ -6968,41 +7003,6 @@
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10926-1</guid>
       <description>Federal Statutory Bankruptcy Alternatives: A Roadmap</description>
-    </item>
-    <item>
-      <title>Oman: Politics, Security, and U.S. Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS21534</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS21534-118</guid>
-      <description>Oman: Politics, Security, and U.S. Policy</description>
-    </item>
-    <item>
-      <title>State Minimum Wages: An Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43792</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43792-23</guid>
-      <description>State Minimum Wages: An Overview</description>
-    </item>
-    <item>
-      <title>Airline Deregulation Act of 1978: Preemption of State Consumer Protection Laws </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10925</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10925-2</guid>
-      <description>Airline Deregulation Act of 1978: Preemption of State Consumer Protection Laws </description>
-    </item>
-    <item>
-      <title>COVID-19 Relief Assistance to Small Businesses: Issues and Policy Options</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46284</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46284-62</guid>
-      <description>COVID-19 Relief Assistance to Small Businesses: Issues and Policy Options</description>
-    </item>
-    <item>
-      <title>Nepal</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10216</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10216-14</guid>
-      <description>Nepal</description>
     </item>
   </channel>
 </rss>
