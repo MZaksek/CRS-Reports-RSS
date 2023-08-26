@@ -5,6 +5,34 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Navy Large Unmanned Surface and Undersea Vehicles: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45757</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45757-66</guid>
+      <description>Navy Large Unmanned Surface and Undersea Vehicles: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>The Section 45Q Tax Credit for Carbon Sequestration</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11455</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11455-3</guid>
+      <description>The Section 45Q Tax Credit for Carbon Sequestration</description>
+    </item>
+    <item>
+      <title>U.S. Security Assistance to Ukraine</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12040</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12040-26</guid>
+      <description>U.S. Security Assistance to Ukraine</description>
+    </item>
+    <item>
+      <title>U.S. Special Operations Forces (SOF): Background and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS21048</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS21048-74</guid>
+      <description>U.S. Special Operations Forces (SOF): Background and Considerations for Congress</description>
+    </item>
+    <item>
       <title>Antitrust Agencies Release Draft Merger Guidelines and Propose HSR Rule Changes</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11027</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
@@ -38,13 +66,6 @@
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11830-3</guid>
       <description>Medicaid and Incarcerated Individuals</description>
-    </item>
-    <item>
-      <title>Navy Large Unmanned Surface and Undersea Vehicles: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45757</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45757-65</guid>
-      <description>Navy Large Unmanned Surface and Undersea Vehicles: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Navy Shipboard Lasers: Background and Issues for Congress</title>
@@ -92,7 +113,7 @@
       <title>The UPS-Teamsters Labor Dispute and Taft-Hartley's National Emergency Provisions</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12474</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12474-2</guid>
+      <guid isPermaLink="false">IF12474-3</guid>
       <description>The UPS-Teamsters Labor Dispute and Taft-Hartley's National Emergency Provisions</description>
     </item>
     <item>
@@ -106,8 +127,15 @@
       <title>Building Resilience: FEMA's Building Codes Policies and Considerations for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47612</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47612-7</guid>
+      <guid isPermaLink="false">R47612-8</guid>
       <description>Building Resilience: FEMA's Building Codes Policies and Considerations for Congress</description>
+    </item>
+    <item>
+      <title>Department of Homeland Security Appropriations: FY2024 Provisions</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47663</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47663-2</guid>
+      <description>Department of Homeland Security Appropriations: FY2024 Provisions</description>
     </item>
     <item>
       <title>DOE Office of Energy Efficiency and Renewable Energy FY2024 Appropriations</title>
@@ -493,13 +521,6 @@
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11024-2</guid>
       <description>The Georgia Indictment of Former President Trump: A Snapshot</description>
-    </item>
-    <item>
-      <title>U.S. Special Operations Forces (SOF): Background and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS21048</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS21048-73</guid>
-      <description>U.S. Special Operations Forces (SOF): Background and Considerations for Congress</description>
     </item>
     <item>
       <title>Crisis in Mali</title>
@@ -2985,13 +3006,6 @@
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12428-2</guid>
       <description>The SBA's Historically Underutilized Business Zone (HUBZone) Program</description>
-    </item>
-    <item>
-      <title>U.S. Security Assistance to Ukraine</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12040</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12040-25</guid>
-      <description>U.S. Security Assistance to Ukraine</description>
     </item>
     <item>
       <title>Colombia: Issues for the 118th Congress</title>
@@ -6989,20 +7003,6 @@
       <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11140-9</guid>
       <description>Federal Regional Commissions and Authorities: Overview of Structure and Activities</description>
-    </item>
-    <item>
-      <title>Forming a Funded Federal Regional Commission</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11744</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11744-7</guid>
-      <description>Forming a Funded Federal Regional Commission</description>
-    </item>
-    <item>
-      <title>FY2023 NDAA: Cyber Personnel Policies</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47270</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47270-4</guid>
-      <description>FY2023 NDAA: Cyber Personnel Policies</description>
     </item>
   </channel>
 </rss>
