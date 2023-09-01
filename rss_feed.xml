@@ -5,10 +5,31 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Controlled Environment Agriculture (CEA) Production</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12485</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12485-1</guid>
+      <description>Controlled Environment Agriculture (CEA) Production</description>
+    </item>
+    <item>
+      <title>Supreme Court Narrows Dormant Commerce Clause and Upholds State Animal Welfare Law</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11031</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11031-1</guid>
+      <description>Supreme Court Narrows Dormant Commerce Clause and Upholds State Animal Welfare Law</description>
+    </item>
+    <item>
+      <title>Taylor v. McDonough: Veterans Disability Benefits and Secret Military Programs</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11030</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11030-1</guid>
+      <description>Taylor v. McDonough: Veterans Disability Benefits and Secret Military Programs</description>
+    </item>
+    <item>
       <title>Immigration Crimes: Improper Entry and Reentry</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47667</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47667-1</guid>
+      <guid isPermaLink="false">R47667-2</guid>
       <description>Immigration Crimes: Improper Entry and Reentry</description>
     </item>
     <item>
@@ -71,7 +92,7 @@
       <title>Maternal, Infant, and Early Childhood Home Visiting Program</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10595</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10595-4</guid>
+      <guid isPermaLink="false">IF10595-5</guid>
       <description>Maternal, Infant, and Early Childhood Home Visiting Program</description>
     </item>
     <item>
@@ -122,6 +143,13 @@
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47239-15</guid>
       <description>Department of Homeland Security Appropriations: FY2023 State of Play</description>
+    </item>
+    <item>
+      <title>Federal Policies to Expand Electric Vehicle Charging Infrastructure </title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47675</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47675-1</guid>
+      <description>Federal Policies to Expand Electric Vehicle Charging Infrastructure </description>
     </item>
     <item>
       <title>FY2024 NDAA: TRICARE Coverage of Gender-Affirming Care</title>
@@ -358,7 +386,7 @@
       <title>Navy LPD-17 Flight II and LHA Amphibious Ship Programs: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R43543</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43543-128</guid>
+      <guid isPermaLink="false">R43543-129</guid>
       <description>Navy LPD-17 Flight II and LHA Amphibious Ship Programs: Background and Issues for Congress</description>
     </item>
     <item>
@@ -848,7 +876,7 @@
       <title>The Temporary Assistance for Needy Families (TANF) Block Grant: A Primer on TANF Financing and Federal Requirements</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL32748</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32748-44</guid>
+      <guid isPermaLink="false">RL32748-45</guid>
       <description>The Temporary Assistance for Needy Families (TANF) Block Grant: A Primer on TANF Financing and Federal Requirements</description>
     </item>
     <item>
@@ -6975,34 +7003,6 @@
       <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47469-2</guid>
       <description>Diesel and Fuel Oil: Distillate Supply Issues</description>
-    </item>
-    <item>
-      <title>Drought in the United States: Science, Policy, and Selected Federal Authorities</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46911</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46911-6</guid>
-      <description>Drought in the United States: Science, Policy, and Selected Federal Authorities</description>
-    </item>
-    <item>
-      <title>Federal Requirements on Private Health Insurance Plans</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45146</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45146-9</guid>
-      <description>Federal Requirements on Private Health Insurance Plans</description>
-    </item>
-    <item>
-      <title>Fifth Circuit: CFPB's Funding Authority is Unconstitutional</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10891</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10891-2</guid>
-      <description>Fifth Circuit: CFPB's Funding Authority is Unconstitutional</description>
-    </item>
-    <item>
-      <title>Foreign Agents Registration Act (FARA): A Legal Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11439</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11439-4</guid>
-      <description>Foreign Agents Registration Act (FARA): A Legal Overview</description>
     </item>
   </channel>
 </rss>
