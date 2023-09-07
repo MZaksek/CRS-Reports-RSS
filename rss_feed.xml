@@ -5,6 +5,34 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Federal Funding Gaps: A Brief Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS20348</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS20348-44</guid>
+      <description>Federal Funding Gaps: A Brief Overview</description>
+    </item>
+    <item>
+      <title>Overview of Select No Surprises Act Litigation</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11036</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11036-1</guid>
+      <description>Overview of Select No Surprises Act Litigation</description>
+    </item>
+    <item>
+      <title>Role of the U.S. Environmental Protection Agency in Environmental Justice</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10529</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10529-9</guid>
+      <description>Role of the U.S. Environmental Protection Agency in Environmental Justice</description>
+    </item>
+    <item>
+      <title>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41542</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41542-65</guid>
+      <description>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</description>
+    </item>
+    <item>
       <title>Central America: Expiration of Targeted Sanctions Authority</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12486</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
@@ -15,7 +43,7 @@
       <title>Cluster Munitions: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/RS/RS22907</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22907-34</guid>
+      <guid isPermaLink="false">RS22907-35</guid>
       <description>Cluster Munitions: Background and Issues for Congress</description>
     </item>
     <item>
@@ -29,7 +57,7 @@
       <title>Constitutional Challenges to the Medicare Drug Price Negotiation Program</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47682</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47682-1</guid>
+      <guid isPermaLink="false">R47682-2</guid>
       <description>Constitutional Challenges to the Medicare Drug Price Negotiation Program</description>
     </item>
     <item>
@@ -43,7 +71,7 @@
       <title>FY2024 NDAA: Reproductive Health Care Provisions</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12236</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12236-1</guid>
+      <guid isPermaLink="false">IN12236-2</guid>
       <description>FY2024 NDAA: Reproductive Health Care Provisions</description>
     </item>
     <item>
@@ -64,8 +92,22 @@
       <title>National Security Review Bodies (Part II): Creating New Review Systems</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11035</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11035-1</guid>
+      <guid isPermaLink="false">LSB11035-2</guid>
       <description>National Security Review Bodies (Part II): Creating New Review Systems</description>
+    </item>
+    <item>
+      <title>The Kingdom of Bhutan</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10660</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10660-7</guid>
+      <description>The Kingdom of Bhutan</description>
+    </item>
+    <item>
+      <title>Unemployment Insurance: Legislative Issues in the 118th Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47575</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47575-3</guid>
+      <description>Unemployment Insurance: Legislative Issues in the 118th Congress</description>
     </item>
     <item>
       <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (August 28, 2023-September 4, 2023)</title>
@@ -78,7 +120,7 @@
       <title>Energy and Water Development: FY2024 Appropriations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47553</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47553-3</guid>
+      <guid isPermaLink="false">R47553-4</guid>
       <description>Energy and Water Development: FY2024 Appropriations</description>
     </item>
     <item>
@@ -92,7 +134,7 @@
       <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R41129</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41129-241</guid>
+      <guid isPermaLink="false">R41129-242</guid>
       <description>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</description>
     </item>
     <item>
@@ -4191,13 +4233,6 @@
       <description>The Palestinians: Overview, Aid, and U.S. Policy Issues</description>
     </item>
     <item>
-      <title>Unemployment Insurance: Legislative Issues in the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47575</link>
-      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47575-2</guid>
-      <description>Unemployment Insurance: Legislative Issues in the 118th Congress</description>
-    </item>
-    <item>
       <title>What Is Place-Based Economic Development?</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12409</link>
       <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
@@ -6968,41 +7003,6 @@
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11741-10</guid>
       <description>The Army's Armored Multi-Purpose Vehicle (AMPV)</description>
-    </item>
-    <item>
-      <title>Women, Peace, and Security: Global Context and U.S. Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12346</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12346-2</guid>
-      <description>Women, Peace, and Security: Global Context and U.S. Policy</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (Mar. 6, 2023-Mar. 12, 2023)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10936</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10936-2</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (Mar. 6, 2023-Mar. 12, 2023)</description>
-    </item>
-    <item>
-      <title>Defense Health Primer: TRICARE Comprehensive Autism Care Demonstration </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12345</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12345-3</guid>
-      <description>Defense Health Primer: TRICARE Comprehensive Autism Care Demonstration </description>
-    </item>
-    <item>
-      <title>National Security Implications of Fifth Generation (5G) Mobile Technologies </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11251</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11251-20</guid>
-      <description>National Security Implications of Fifth Generation (5G) Mobile Technologies </description>
-    </item>
-    <item>
-      <title>The Constitution and Race-Conscious Government Action: Narrow Tailoring Requirements</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47471</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47471-2</guid>
-      <description>The Constitution and Race-Conscious Government Action: Narrow Tailoring Requirements</description>
     </item>
   </channel>
 </rss>
