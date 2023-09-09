@@ -5,11 +5,81 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Election Administration: Overview of FY2024 Financial Services and General Government (FSGG) Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12489</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12489-1</guid>
+      <description>Election Administration: Overview of FY2024 Financial Services and General Government (FSGG) Appropriations</description>
+    </item>
+    <item>
+      <title>Export Controls-International Coordination: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47684</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47684-1</guid>
+      <description>Export Controls-International Coordination: Issues for Congress</description>
+    </item>
+    <item>
+      <title>Financial Intelligence Units (FIUs), the U.S. Financial Crimes Enforcement Network, and FIU Operational Independence</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12488</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12488-1</guid>
+      <description>Financial Intelligence Units (FIUs), the U.S. Financial Crimes Enforcement Network, and FIU Operational Independence</description>
+    </item>
+    <item>
+      <title>FY2024 Military Construction Appropriations: A Summary</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12238</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12238-1</guid>
+      <description>FY2024 Military Construction Appropriations: A Summary</description>
+    </item>
+    <item>
+      <title>Iran: Background and U.S. Policy </title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47321</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47321-6</guid>
+      <description>Iran: Background and U.S. Policy </description>
+    </item>
+    <item>
+      <title>The Use of Acquitted Conduct to Enhance Federal Sentences</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11037</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11037-1</guid>
+      <description>The Use of Acquitted Conduct to Enhance Federal Sentences</description>
+    </item>
+    <item>
+      <title>United Nations Issues: Congressional Representatives to the U.N. General Assembly</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10464</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10464-20</guid>
+      <description>United Nations Issues: Congressional Representatives to the U.N. General Assembly</description>
+    </item>
+    <item>
       <title>Federal Funding Gaps: A Brief Overview</title>
       <link>https://crsreports.congress.gov/product/pdf/RS/RS20348</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS20348-44</guid>
+      <guid isPermaLink="false">RS20348-45</guid>
       <description>Federal Funding Gaps: A Brief Overview</description>
+    </item>
+    <item>
+      <title>FY2024 Defense Appropriations: Status of Legislative Activity</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12237</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12237-1</guid>
+      <description>FY2024 Defense Appropriations: Status of Legislative Activity</description>
+    </item>
+    <item>
+      <title>Gene-Edited Plants: Regulation and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47683</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47683-1</guid>
+      <description>Gene-Edited Plants: Regulation and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Office of the Special Presidential Envoy for Climate</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12487</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12487-1</guid>
+      <description>Office of the Special Presidential Envoy for Climate</description>
     </item>
     <item>
       <title>Overview of Select No Surprises Act Litigation</title>
@@ -17,6 +87,20 @@
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11036-1</guid>
       <description>Overview of Select No Surprises Act Litigation</description>
+    </item>
+    <item>
+      <title>Patriot Day: Fact Sheet</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44178</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44178-24</guid>
+      <description>Patriot Day: Fact Sheet</description>
+    </item>
+    <item>
+      <title>Quantum Computing: Concepts, Current State, and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47685</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47685-1</guid>
+      <description>Quantum Computing: Concepts, Current State, and Considerations for Congress</description>
     </item>
     <item>
       <title>Role of the U.S. Environmental Protection Agency in Environmental Justice</title>
@@ -29,7 +113,7 @@
       <title>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R41542</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41542-65</guid>
+      <guid isPermaLink="false">R41542-66</guid>
       <description>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</description>
     </item>
     <item>
@@ -99,14 +183,14 @@
       <title>The Kingdom of Bhutan</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10660</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10660-7</guid>
+      <guid isPermaLink="false">IF10660-8</guid>
       <description>The Kingdom of Bhutan</description>
     </item>
     <item>
       <title>Unemployment Insurance: Legislative Issues in the 118th Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47575</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47575-3</guid>
+      <guid isPermaLink="false">R47575-4</guid>
       <description>Unemployment Insurance: Legislative Issues in the 118th Congress</description>
     </item>
     <item>
@@ -115,6 +199,13 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11032-1</guid>
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (August 28, 2023-September 4, 2023)</description>
+    </item>
+    <item>
+      <title>Electricity Transmission Permitting Reform Proposals</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47627</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47627-3</guid>
+      <description>Electricity Transmission Permitting Reform Proposals</description>
     </item>
     <item>
       <title>Energy and Water Development: FY2024 Appropriations</title>
@@ -157,6 +248,13 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">RL32418-251</guid>
       <description>Navy Virginia (SSN-774) Class Attack Submarine Procurement: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>The CFATS Sunset and Its Implications for Chemical Security </title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12235</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12235-2</guid>
+      <description>The CFATS Sunset and Its Implications for Chemical Security </description>
     </item>
     <item>
       <title>The Executive Budget Process: An Overview</title>
@@ -218,7 +316,7 @@
       <title>Comparing DHS Component Funding, FY2024: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47678</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47678-3</guid>
+      <guid isPermaLink="false">R47678-7</guid>
       <description>Comparing DHS Component Funding, FY2024: In Brief</description>
     </item>
     <item>
@@ -318,13 +416,6 @@
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11030-1</guid>
       <description>Taylor v. McDonough: Veterans Disability Benefits and Secret Military Programs</description>
-    </item>
-    <item>
-      <title>United Nations Issues: Congressional Representatives to the U.N. General Assembly</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10464</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10464-19</guid>
-      <description>United Nations Issues: Congressional Representatives to the U.N. General Assembly</description>
     </item>
     <item>
       <title>FEMA's Emergency Food and Shelter Program-Humanitarian Relief (EFSP-H) and the New Shelter and Services Program (SSP)</title>
@@ -500,13 +591,6 @@
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IG10041-1</guid>
       <description>Removal Proceedings and the Immigration Court Backlog</description>
-    </item>
-    <item>
-      <title>The CFATS Sunset and Its Implications for Chemical Security </title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12235</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12235-1</guid>
-      <description>The CFATS Sunset and Its Implications for Chemical Security </description>
     </item>
     <item>
       <title>U.S. Arms Transfer Restrictions and AUKUS Cooperation</title>
@@ -722,7 +806,7 @@
       <title>Tracking Federal Awards: USAspending.gov and Other Data Sources</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44027</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44027-71</guid>
+      <guid isPermaLink="false">R44027-72</guid>
       <description>Tracking Federal Awards: USAspending.gov and Other Data Sources</description>
     </item>
     <item>
@@ -1326,6 +1410,13 @@
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11714-4</guid>
       <description>Introduction to Financial Services: The Securities and Exchange Commission (SEC)</description>
+    </item>
+    <item>
+      <title>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44972</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44972-104</guid>
+      <description>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress</title>
@@ -2327,13 +2418,6 @@
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47629-2</guid>
       <description>Department of Defense Community Support Programs</description>
-    </item>
-    <item>
-      <title>Electricity Transmission Permitting Reform Proposals</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47627</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47627-2</guid>
-      <description>Electricity Transmission Permitting Reform Proposals</description>
     </item>
     <item>
       <title>Gun Control, Veterans' Benefits, and Mental Incompetency Determinations</title>
@@ -6543,13 +6627,6 @@
       <description>Introduction to the Farm Bill: Videos</description>
     </item>
     <item>
-      <title>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44972</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44972-103</guid>
-      <description>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Social Security Taxable Earnings Base: An Overview</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12360</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
@@ -6667,13 +6744,6 @@
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47260-6</guid>
       <description>Intercity Passenger Rail: Federal Policy and Programs</description>
-    </item>
-    <item>
-      <title>Iran: Background and U.S. Policy </title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47321</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47321-5</guid>
-      <description>Iran: Background and U.S. Policy </description>
     </item>
     <item>
       <title>Labor Enforcement Issues in U.S. FTAs</title>
@@ -6933,76 +7003,6 @@
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12347-4</guid>
       <description>Digital Trade and Data Policy: Select Key Issues</description>
-    </item>
-    <item>
-      <title>Repurposing 3.1-3.55 GHz Spectrum: Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12350</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12350-3</guid>
-      <description>Repurposing 3.1-3.55 GHz Spectrum: Issues for Congress</description>
-    </item>
-    <item>
-      <title>The Federal Employees' Compensation Act (FECA): Workers' Compensation for Federal Employees</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42107</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42107-37</guid>
-      <description>The Federal Employees' Compensation Act (FECA): Workers' Compensation for Federal Employees</description>
-    </item>
-    <item>
-      <title>U.S. Environmental Protection Agency FY2023 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12349</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12349-3</guid>
-      <description>U.S. Environmental Protection Agency FY2023 Appropriations</description>
-    </item>
-    <item>
-      <title>Veterans-Related Education Legislation Enacted in the 117th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47301</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47301-4</guid>
-      <description>Veterans-Related Education Legislation Enacted in the 117th Congress</description>
-    </item>
-    <item>
-      <title>Army Corps of Engineers: Continuing Authorities Programs</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11106</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11106-11</guid>
-      <description>Army Corps of Engineers: Continuing Authorities Programs</description>
-    </item>
-    <item>
-      <title>Clean Water State Revolving Fund Allotment Formula: Background and Options</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47474</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47474-2</guid>
-      <description>Clean Water State Revolving Fund Allotment Formula: Background and Options</description>
-    </item>
-    <item>
-      <title>Consumer Finance and Financial Technology (Fintech)</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47475</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47475-2</guid>
-      <description>Consumer Finance and Financial Technology (Fintech)</description>
-    </item>
-    <item>
-      <title>Defense Primer: The United States Space Force</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11495</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11495-8</guid>
-      <description>Defense Primer: The United States Space Force</description>
-    </item>
-    <item>
-      <title>Regulating Big Tech: CRS Legal Products for the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10889</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10889-5</guid>
-      <description>Regulating Big Tech: CRS Legal Products for the 118th Congress</description>
-    </item>
-    <item>
-      <title>The Army's Armored Multi-Purpose Vehicle (AMPV)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11741</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11741-10</guid>
-      <description>The Army's Armored Multi-Purpose Vehicle (AMPV)</description>
     </item>
   </channel>
 </rss>
