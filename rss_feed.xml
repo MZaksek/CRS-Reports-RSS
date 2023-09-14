@@ -5,10 +5,38 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>China-Russia Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12100</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12100-11</guid>
+      <description>China-Russia Relations</description>
+    </item>
+    <item>
+      <title>Department of Health and Human Services Recommendation to Reschedule Marijuana: Implications for Federal Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12240</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12240-1</guid>
+      <description>Department of Health and Human Services Recommendation to Reschedule Marijuana: Implications for Federal Policy</description>
+    </item>
+    <item>
+      <title>Past Government Shutdowns: Key Resources</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41759</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41759-32</guid>
+      <description>Past Government Shutdowns: Key Resources</description>
+    </item>
+    <item>
+      <title>The United Arab Emirates (UAE): Issues for U.S. Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS21852</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS21852-147</guid>
+      <description>The United Arab Emirates (UAE): Issues for U.S. Policy</description>
+    </item>
+    <item>
       <title>Defense Primer: Military Service Academies</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11788</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11788-6</guid>
+      <guid isPermaLink="false">IF11788-7</guid>
       <description>Defense Primer: Military Service Academies</description>
     </item>
     <item>
@@ -19,32 +47,60 @@
       <description>Federal Election Commission Administrative Fine Program</description>
     </item>
     <item>
+      <title>Preventive Services Access on the Docket in Braidwood v. Becerra </title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11040</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11040-1</guid>
+      <description>Preventive Services Access on the Docket in Braidwood v. Becerra </description>
+    </item>
+    <item>
       <title>Supreme Court Term October 2022: A Review of Selected Major Rulings</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47689</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47689-1</guid>
+      <guid isPermaLink="false">R47689-2</guid>
       <description>Supreme Court Term October 2022: A Review of Selected Major Rulings</description>
+    </item>
+    <item>
+      <title>The Federal Communications Commission's Spectrum Auction Authority: History and Options for Reinstatement</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47578</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47578-7</guid>
+      <description>The Federal Communications Commission's Spectrum Auction Authority: History and Options for Reinstatement</description>
     </item>
     <item>
       <title>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R41542</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41542-67</guid>
+      <guid isPermaLink="false">R41542-68</guid>
       <description>The State of Campaign Finance Policy: Recent Developments and Issues for Congress</description>
     </item>
     <item>
       <title>Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations for FY2024 </title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47687</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47687-1</guid>
+      <guid isPermaLink="false">R47687-2</guid>
       <description>Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations for FY2024 </description>
+    </item>
+    <item>
+      <title>U.S.-Japan Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10199</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10199-33</guid>
+      <description>U.S.-Japan Relations</description>
     </item>
     <item>
       <title>Vessel Construction for Offshore Wind Power Generation</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12491</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12491-1</guid>
+      <guid isPermaLink="false">IF12491-2</guid>
       <description>Vessel Construction for Offshore Wind Power Generation</description>
+    </item>
+    <item>
+      <title>Cambodia: Background and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47311</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47311-4</guid>
+      <description>Cambodia: Background and U.S. Relations</description>
     </item>
     <item>
       <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (September 5, 2023-September 10, 2023)</title>
@@ -57,7 +113,7 @@
       <title>Department of Homeland Security Appropriations: FY2024 State of Play</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47688</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47688-2</guid>
+      <guid isPermaLink="false">R47688-3</guid>
       <description>Department of Homeland Security Appropriations: FY2024 State of Play</description>
     </item>
     <item>
@@ -78,7 +134,7 @@
       <title>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL32418</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32418-252</guid>
+      <guid isPermaLink="false">RL32418-253</guid>
       <description>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</description>
     </item>
     <item>
@@ -127,7 +183,7 @@
       <title>Supplemental Nutrition Assistance Program (SNAP): A Primer on Eligibility and Benefits</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R42505</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42505-27</guid>
+      <guid isPermaLink="false">R42505-28</guid>
       <description>Supplemental Nutrition Assistance Program (SNAP): A Primer on Eligibility and Benefits</description>
     </item>
     <item>
@@ -302,7 +358,7 @@
       <title>Energy and Water Development: FY2024 Appropriations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47553</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47553-4</guid>
+      <guid isPermaLink="false">R47553-5</guid>
       <description>Energy and Water Development: FY2024 Appropriations</description>
     </item>
     <item>
@@ -2285,13 +2341,6 @@
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R45428-11</guid>
       <description>Sub-Saharan Africa: Overview and U.S. Engagement</description>
-    </item>
-    <item>
-      <title>The Federal Communications Commission's Spectrum Auction Authority: History and Options for Reinstatement</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47578</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47578-4</guid>
-      <description>The Federal Communications Commission's Spectrum Auction Authority: History and Options for Reinstatement</description>
     </item>
     <item>
       <title>The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy</title>
@@ -4898,13 +4947,6 @@
       <description>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum</description>
     </item>
     <item>
-      <title>U.S.-Japan Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10199</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10199-25</guid>
-      <description>U.S.-Japan Relations</description>
-    </item>
-    <item>
       <title>Defense Primer: Intelligence Support to Military Operations</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10574</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
@@ -6961,48 +7003,6 @@
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47478-2</guid>
       <description>Agricultural Conservation and the Next Farm Bill</description>
-    </item>
-    <item>
-      <title>Coins and Medals Celebrating the Anniversary of the Declaration of Independence</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11926</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11926-3</guid>
-      <description>Coins and Medals Celebrating the Anniversary of the Declaration of Independence</description>
-    </item>
-    <item>
-      <title>Department of Veterans Affairs: Abortion Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47191</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47191-6</guid>
-      <description>Department of Veterans Affairs: Abortion Policy</description>
-    </item>
-    <item>
-      <title>Energy and Water Development: FY2023 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47293</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47293-6</guid>
-      <description>Energy and Water Development: FY2023 Appropriations</description>
-    </item>
-    <item>
-      <title>EPA's Greenhouse Gas Reporting Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11754</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11754-6</guid>
-      <description>EPA's Greenhouse Gas Reporting Program</description>
-    </item>
-    <item>
-      <title>Judiciary Budget Request, FY2024</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12353</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12353-1</guid>
-      <description>Judiciary Budget Request, FY2024</description>
-    </item>
-    <item>
-      <title>Supreme Court Rules Against IRS on Foreign Account Reporting Penalties </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10938</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10938-1</guid>
-      <description>Supreme Court Rules Against IRS on Foreign Account Reporting Penalties </description>
     </item>
   </channel>
 </rss>
