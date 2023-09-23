@@ -5,6 +5,90 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Current Federal Civilian Employment by State and Congressional District</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47716</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47716-1</guid>
+      <description>Current Federal Civilian Employment by State and Congressional District</description>
+    </item>
+    <item>
+      <title>Economic Effects of Government Shutdowns</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12248</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12248-1</guid>
+      <description>Economic Effects of Government Shutdowns</description>
+    </item>
+    <item>
+      <title>Financial Services and General Government (FSGG) FY2024 Appropriations Bill: CFPB's Funding and Structure Provisions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12247</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12247-1</guid>
+      <description>Financial Services and General Government (FSGG) FY2024 Appropriations Bill: CFPB's Funding and Structure Provisions</description>
+    </item>
+    <item>
+      <title>National Park Service: Government Shutdown Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11079</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11079-8</guid>
+      <description>National Park Service: Government Shutdown Issues</description>
+    </item>
+    <item>
+      <title>Past Government Shutdowns: Key Resources</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41759</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41759-33</guid>
+      <description>Past Government Shutdowns: Key Resources</description>
+    </item>
+    <item>
+      <title>Section 301 of the Trade Act of 1974</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11346</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11346-19</guid>
+      <description>Section 301 of the Trade Act of 1974</description>
+    </item>
+    <item>
+      <title>Section 301 Tariff Exclusions on U.S. Imports from China</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11582</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11582-18</guid>
+      <description>Section 301 Tariff Exclusions on U.S. Imports from China</description>
+    </item>
+    <item>
+      <title>The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47174</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47174-18</guid>
+      <description>The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy</description>
+    </item>
+    <item>
+      <title>The United Nations System: Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47715</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47715-1</guid>
+      <description>The United Nations System: Frequently Asked Questions</description>
+    </item>
+    <item>
+      <title>Tracking Federal Awards in States and Congressional Districts Using USAspending.gov</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10231</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10231-18</guid>
+      <description>Tracking Federal Awards in States and Congressional Districts Using USAspending.gov</description>
+    </item>
+    <item>
+      <title>U.S. Government Procurement and International Trade</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11580</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11580-14</guid>
+      <description>U.S. Government Procurement and International Trade</description>
+    </item>
+    <item>
+      <title>WTO Agreement on Government Procurement (GPA)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11651</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11651-22</guid>
+      <description>WTO Agreement on Government Procurement (GPA)</description>
+    </item>
+    <item>
       <title>Armed Forces Compensation During a Lapse in Appropriations</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12244</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
@@ -15,35 +99,35 @@
       <title>Congressional Rules Pertaining to Changes in Mandatory Program Spending in Appropriations Bills (CHIMPs)</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47705</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47705-1</guid>
+      <guid isPermaLink="false">R47705-2</guid>
       <description>Congressional Rules Pertaining to Changes in Mandatory Program Spending in Appropriations Bills (CHIMPs)</description>
     </item>
     <item>
       <title>International Tax Proposals Addressing Profit Shifting: Pillars 1 and 2</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11874</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11874-8</guid>
+      <guid isPermaLink="false">IF11874-9</guid>
       <description>International Tax Proposals Addressing Profit Shifting: Pillars 1 and 2</description>
     </item>
     <item>
       <title>IRS Processing and Examination of COVID Employee Retention Credit Claims</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12246</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12246-1</guid>
+      <guid isPermaLink="false">IN12246-2</guid>
       <description>IRS Processing and Examination of COVID Employee Retention Credit Claims</description>
     </item>
     <item>
       <title>Israel: Major Issues and U.S. Relations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44245</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44245-135</guid>
+      <guid isPermaLink="false">R44245-136</guid>
       <description>Israel: Major Issues and U.S. Relations</description>
     </item>
     <item>
       <title>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum (Part One)</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11044</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11044-1</guid>
+      <guid isPermaLink="false">LSB11044-2</guid>
       <description>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum (Part One)</description>
     </item>
     <item>
@@ -52,6 +136,13 @@
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11045-1</guid>
       <description>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum (Part Two)</description>
+    </item>
+    <item>
+      <title>A Bar Too High: Concerns with CEQ's Proposed Regulatory Hurdle for Federal Contracting</title>
+      <link>https://crsreports.congress.gov/product/pdf/TE/TE10085</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">TE10085-1</guid>
+      <description>A Bar Too High: Concerns with CEQ's Proposed Regulatory Hurdle for Federal Contracting</description>
     </item>
     <item>
       <title>China Primer: Human Rights</title>
@@ -120,7 +211,7 @@
       <title>ESEA Title I-A Formulas: A Primer</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47702</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47702-1</guid>
+      <guid isPermaLink="false">R47702-2</guid>
       <description>ESEA Title I-A Formulas: A Primer</description>
     </item>
     <item>
@@ -148,7 +239,7 @@
       <title>Taiwan: Defense and Military Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12481</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12481-6</guid>
+      <guid isPermaLink="false">IF12481-7</guid>
       <description>Taiwan: Defense and Military Issues</description>
     </item>
     <item>
@@ -409,13 +500,6 @@
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12496-1</guid>
       <description>NIST Update on Champlain Towers Collapse Investigation</description>
-    </item>
-    <item>
-      <title>Past Government Shutdowns: Key Resources</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41759</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41759-32</guid>
-      <description>Past Government Shutdowns: Key Resources</description>
     </item>
     <item>
       <title>The United Arab Emirates (UAE): Issues for U.S. Policy</title>
@@ -2721,13 +2805,6 @@
       <description>Sub-Saharan Africa: Overview and U.S. Engagement</description>
     </item>
     <item>
-      <title>The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47174</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47174-17</guid>
-      <description>The Pillar 2 Global Minimum Tax: Implications for U.S. Tax Policy</description>
-    </item>
-    <item>
       <title>The PREP Act and COVID-19, Part 2: The PREP Act Declaration for COVID-19 Countermeasures</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10730</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
@@ -3090,20 +3167,6 @@
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47621-2</guid>
       <description>The Future of the Universal Service Fund and Related Broadband Programs</description>
-    </item>
-    <item>
-      <title>U.S. Government Procurement and International Trade</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11580</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11580-13</guid>
-      <description>U.S. Government Procurement and International Trade</description>
-    </item>
-    <item>
-      <title>WTO Agreement on Government Procurement (GPA)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11651</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11651-21</guid>
-      <description>WTO Agreement on Government Procurement (GPA)</description>
     </item>
     <item>
       <title>Central American Migration: Root Causes and U.S. Policy</title>
@@ -4021,20 +4084,6 @@
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47593-4</guid>
       <description>Pandemic Oversight: The Biden Administration's New Anti-Fraud Proposal</description>
-    </item>
-    <item>
-      <title>Section 301 of the Trade Act of 1974</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11346</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11346-18</guid>
-      <description>Section 301 of the Trade Act of 1974</description>
-    </item>
-    <item>
-      <title>Section 301 Tariff Exclusions on U.S. Imports from China</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11582</link>
-      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11582-17</guid>
-      <description>Section 301 Tariff Exclusions on U.S. Imports from China</description>
     </item>
     <item>
       <title>The EU's MIFID II, Broker Research, and the SEC's No-Action Letters</title>
@@ -6954,55 +7003,6 @@
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12131-1</guid>
       <description>TikTok: Recent Data Privacy and National Security Concerns</description>
-    </item>
-    <item>
-      <title>Centers for Disease Control and Prevention (CDC) Funding Overview </title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47207</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47207-6</guid>
-      <description>Centers for Disease Control and Prevention (CDC) Funding Overview </description>
-    </item>
-    <item>
-      <title>Indian Water Rights Settlements</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44148</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44148-28</guid>
-      <description>Indian Water Rights Settlements</description>
-    </item>
-    <item>
-      <title>Restricting TikTok (Part II): Legislative Proposals and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10942</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10942-1</guid>
-      <description>Restricting TikTok (Part II): Legislative Proposals and Considerations for Congress</description>
-    </item>
-    <item>
-      <title>Senate Sergeant at Arms and Doorkeeper: A Primer</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11728</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11728-3</guid>
-      <description>Senate Sergeant at Arms and Doorkeeper: A Primer</description>
-    </item>
-    <item>
-      <title>Sponsorship and Cosponsorship of Senate Bills</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/98-279</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">98-279-20</guid>
-      <description>Sponsorship and Cosponsorship of Senate Bills</description>
-    </item>
-    <item>
-      <title>The Dietary Guidelines for Americans: Development, Implementation, and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47488</link>
-      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47488-2</guid>
-      <description>The Dietary Guidelines for Americans: Development, Implementation, and Considerations for Congress</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (Mar. 20, 2023-Mar. 26, 2023)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10941</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10941-1</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (Mar. 20, 2023-Mar. 26, 2023)</description>
     </item>
   </channel>
 </rss>
