@@ -5,6 +5,55 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>An Overview of H.R. 4766, Clarity for Payment Stablecoins Act</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12249</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12249-1</guid>
+      <description>An Overview of H.R. 4766, Clarity for Payment Stablecoins Act</description>
+    </item>
+    <item>
+      <title>Bureau of Land Management: FY2024 Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12499</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12499-1</guid>
+      <description>Bureau of Land Management: FY2024 Appropriations</description>
+    </item>
+    <item>
+      <title>Climate Change and Extreme Heat</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12250</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12250-2</guid>
+      <description>Climate Change and Extreme Heat</description>
+    </item>
+    <item>
+      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (September 18, 2023-September 24, 2023)</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11046</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11046-1</guid>
+      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (September 18, 2023-September 24, 2023)</description>
+    </item>
+    <item>
+      <title>Lead Service Lines (LSLs) Replacement: Funding Developments</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47717</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47717-1</guid>
+      <description>Lead Service Lines (LSLs) Replacement: Funding Developments</description>
+    </item>
+    <item>
+      <title>Major Functions of the U.S. Department of Labor</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10975</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10975-5</guid>
+      <description>Major Functions of the U.S. Department of Labor</description>
+    </item>
+    <item>
+      <title>China Primer: Uyghurs</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10281</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10281-47</guid>
+      <description>China Primer: Uyghurs</description>
+    </item>
+    <item>
       <title>Current Federal Civilian Employment by State and Congressional District</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47716</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
@@ -15,21 +64,21 @@
       <title>Economic Effects of Government Shutdowns</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12248</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12248-1</guid>
+      <guid isPermaLink="false">IN12248-2</guid>
       <description>Economic Effects of Government Shutdowns</description>
     </item>
     <item>
       <title>Financial Services and General Government (FSGG) FY2024 Appropriations Bill: CFPB's Funding and Structure Provisions</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12247</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12247-1</guid>
+      <guid isPermaLink="false">IN12247-2</guid>
       <description>Financial Services and General Government (FSGG) FY2024 Appropriations Bill: CFPB's Funding and Structure Provisions</description>
     </item>
     <item>
       <title>National Park Service: Government Shutdown Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11079</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11079-8</guid>
+      <guid isPermaLink="false">IF11079-9</guid>
       <description>National Park Service: Government Shutdown Issues</description>
     </item>
     <item>
@@ -64,21 +113,21 @@
       <title>The United Nations System: Frequently Asked Questions</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47715</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47715-1</guid>
+      <guid isPermaLink="false">R47715-2</guid>
       <description>The United Nations System: Frequently Asked Questions</description>
     </item>
     <item>
       <title>Tracking Federal Awards in States and Congressional Districts Using USAspending.gov</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10231</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10231-18</guid>
+      <guid isPermaLink="false">IF10231-19</guid>
       <description>Tracking Federal Awards in States and Congressional Districts Using USAspending.gov</description>
     </item>
     <item>
       <title>U.S. Government Procurement and International Trade</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11580</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11580-14</guid>
+      <guid isPermaLink="false">IF11580-15</guid>
       <description>U.S. Government Procurement and International Trade</description>
     </item>
     <item>
@@ -157,6 +206,13 @@
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10625-5</guid>
       <description>The Legality of DACA: Recent Litigation Developments</description>
+    </item>
+    <item>
+      <title>The Temporary Assistance for Needy Families (TANF) Block Grant: A Legislative History</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44668</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44668-21</guid>
+      <description>The Temporary Assistance for Needy Families (TANF) Block Grant: A Legislative History</description>
     </item>
     <item>
       <title>U.S. Retirement Assets: Data in Brief</title>
@@ -325,6 +381,13 @@
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12492-1</guid>
       <description>Conflict of Interest in Investment Advice Within Retirement Plans: An Overview</description>
+    </item>
+    <item>
+      <title>EB-5 Immigrant Investor Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44475</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44475-12</guid>
+      <description>EB-5 Immigrant Investor Program</description>
     </item>
     <item>
       <title>Ecuador: Country Overview and U.S. Relations</title>
@@ -6940,69 +7003,6 @@
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47490-2</guid>
       <description>House Rules Changes Affecting Floor Proceedings in the 118th Congress (2023-2024)</description>
-    </item>
-    <item>
-      <title>Introducing a Senate Bill or Resolution</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44195</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44195-6</guid>
-      <description>Introducing a Senate Bill or Resolution</description>
-    </item>
-    <item>
-      <title>Reasonable Accommodations for Employees with Disabilities</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12366</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12366-1</guid>
-      <description>Reasonable Accommodations for Employees with Disabilities</description>
-    </item>
-    <item>
-      <title>Reclamation Water Storage Projects: Section 4007 of the Water Infrastructure Improvements for the Nation (WIIN) Act</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10626</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10626-17</guid>
-      <description>Reclamation Water Storage Projects: Section 4007 of the Water Infrastructure Improvements for the Nation (WIIN) Act</description>
-    </item>
-    <item>
-      <title>Safe Drinking Water Act: Proposed National Primary Drinking Water Regulation for Specified PFAS</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12367</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12367-1</guid>
-      <description>Safe Drinking Water Act: Proposed National Primary Drinking Water Regulation for Specified PFAS</description>
-    </item>
-    <item>
-      <title>The Railway Labor Act and Congressional Action</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10861</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10861-4</guid>
-      <description>The Railway Labor Act and Congressional Action</description>
-    </item>
-    <item>
-      <title>War Crimes: A Primer</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10709</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10709-5</guid>
-      <description>War Crimes: A Primer</description>
-    </item>
-    <item>
-      <title>Import Monitoring Systems: Steel and Aluminum</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12363</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12363-2</guid>
-      <description>Import Monitoring Systems: Steel and Aluminum</description>
-    </item>
-    <item>
-      <title>Lebanon	</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11617</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11617-11</guid>
-      <description>Lebanon	</description>
-    </item>
-    <item>
-      <title>TikTok: Recent Data Privacy and National Security Concerns</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12131</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12131-1</guid>
-      <description>TikTok: Recent Data Privacy and National Security Concerns</description>
     </item>
   </channel>
 </rss>
