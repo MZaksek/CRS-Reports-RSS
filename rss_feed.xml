@@ -5,17 +5,94 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
-      <title> Overview of the General Service Administration: Acquisition Services and Real Property Management</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47722</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47722-1</guid>
-      <description> Overview of the General Service Administration: Acquisition Services and Real Property Management</description>
+      <title>Areas of Economic Distress for EDA Activities and Programs</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12074</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12074-5</guid>
+      <description>Areas of Economic Distress for EDA Activities and Programs</description>
+    </item>
+    <item>
+      <title>Burkina Faso: Conflict and Military Rule</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10434</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10434-15</guid>
+      <description>Burkina Faso: Conflict and Military Rule</description>
+    </item>
+    <item>
+      <title>China Primer: Illicit Fentanyl and China's Role</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10890</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10890-13</guid>
+      <description>China Primer: Illicit Fentanyl and China's Role</description>
+    </item>
+    <item>
+      <title>China Primer: U.S.-China Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10119</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10119-69</guid>
+      <description>China Primer: U.S.-China Relations</description>
+    </item>
+    <item>
+      <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46336-33</guid>
+      <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
+    </item>
+    <item>
+      <title>Emergency Relief Program for Disaster-Damaged Highways and Bridges</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47724</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47724-1</guid>
+      <description>Emergency Relief Program for Disaster-Damaged Highways and Bridges</description>
+    </item>
+    <item>
+      <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41129</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41129-243</guid>
+      <description>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Prospects for U.S.-Saudi Nuclear Energy Cooperation</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10799</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10799-21</guid>
+      <description>Prospects for U.S.-Saudi Nuclear Energy Cooperation</description>
+    </item>
+    <item>
+      <title>Restricting TikTok (Part I): Legal History and Background</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10940</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB10940-9</guid>
+      <description>Restricting TikTok (Part I): Legal History and Background</description>
+    </item>
+    <item>
+      <title>Restricting TikTok (Part II): Legislative Proposals and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10942</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB10942-2</guid>
+      <description>Restricting TikTok (Part II): Legislative Proposals and Considerations for Congress</description>
+    </item>
+    <item>
+      <title>Taiwan: The Origins of the U.S. One-China Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12503</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12503-2</guid>
+      <description>Taiwan: The Origins of the U.S. One-China Policy</description>
+    </item>
+    <item>
+      <title>U.S.-Singapore Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10228</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10228-15</guid>
+      <description>U.S.-Singapore Relations</description>
     </item>
     <item>
       <title>Afro-descendants of Latin America: Selected Resources</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN11790</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11790-4</guid>
+      <guid isPermaLink="false">IN11790-5</guid>
       <description>Afro-descendants of Latin America: Selected Resources</description>
     </item>
     <item>
@@ -29,49 +106,49 @@
       <title>Bureau of Indian Affairs: Overview of Budget Issues and Options for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47723</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47723-1</guid>
+      <guid isPermaLink="false">R47723-2</guid>
       <description>Bureau of Indian Affairs: Overview of Budget Issues and Options for Congress</description>
     </item>
     <item>
       <title>Campaign Finance Policy and a Lapse in Federal Appropriations: Frequently Asked Questions</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12255</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12255-1</guid>
+      <guid isPermaLink="false">IN12255-2</guid>
       <description>Campaign Finance Policy and a Lapse in Federal Appropriations: Frequently Asked Questions</description>
     </item>
     <item>
       <title>China's Economy: Current Trends and Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11667</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11667-11</guid>
+      <guid isPermaLink="false">IF11667-13</guid>
       <description>China's Economy: Current Trends and Issues</description>
     </item>
     <item>
       <title>China's 'One Belt, One Road' Initiative: Economic Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11735</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11735-4</guid>
+      <guid isPermaLink="false">IF11735-5</guid>
       <description>China's 'One Belt, One Road' Initiative: Economic Issues</description>
     </item>
     <item>
       <title>Converting Office Space to Residential Housing</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12257</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12257-1</guid>
+      <guid isPermaLink="false">IN12257-2</guid>
       <description>Converting Office Space to Residential Housing</description>
     </item>
     <item>
       <title>Democracy in Latin America and the Caribbean: A Compilation of Selected Indices</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46016</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46016-9</guid>
+      <guid isPermaLink="false">R46016-10</guid>
       <description>Democracy in Latin America and the Caribbean: A Compilation of Selected Indices</description>
     </item>
     <item>
       <title>Employment Eligibility for Migrants Released from DHS Custody at the Southwest Border </title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12258</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12258-1</guid>
+      <guid isPermaLink="false">IN12258-2</guid>
       <description>Employment Eligibility for Migrants Released from DHS Custody at the Southwest Border </description>
     </item>
     <item>
@@ -92,42 +169,56 @@
       <title>FY2024 NDAA: Security Cooperation</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12256</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12256-1</guid>
+      <guid isPermaLink="false">IN12256-2</guid>
       <description>FY2024 NDAA: Security Cooperation</description>
+    </item>
+    <item>
+      <title>Government Shutdowns and Legislative Branch Operations: Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12259</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12259-1</guid>
+      <description>Government Shutdowns and Legislative Branch Operations: Frequently Asked Questions</description>
     </item>
     <item>
       <title>Israel: Major Issues and U.S. Relations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44245</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44245-139</guid>
+      <guid isPermaLink="false">R44245-140</guid>
       <description>Israel: Major Issues and U.S. Relations</description>
     </item>
     <item>
       <title>Legal Standards for Government Dismissal of Qui Tam Cases Under the False Claims Act</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11047</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11047-1</guid>
+      <guid isPermaLink="false">LSB11047-2</guid>
       <description>Legal Standards for Government Dismissal of Qui Tam Cases Under the False Claims Act</description>
     </item>
     <item>
-      <title>Taiwan: The Origins of the U.S. One-China Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12503</link>
+      <title>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32665</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12503-1</guid>
-      <description>Taiwan: The Origins of the U.S. One-China Policy</description>
+      <guid isPermaLink="false">RL32665-390</guid>
+      <description>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Overview of the General Services Administration: Acquisition Services and Real Property Management</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47722</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47722-3</guid>
+      <description>Overview of the General Services Administration: Acquisition Services and Real Property Management</description>
     </item>
     <item>
       <title>The Section 45Z Clean Fuel Production Credit </title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12502</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12502-1</guid>
+      <guid isPermaLink="false">IF12502-2</guid>
       <description>The Section 45Z Clean Fuel Production Credit </description>
     </item>
     <item>
       <title>U.S. Foreign Assistance to Latin America and the Caribbean: FY2024 Appropriations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47721</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47721-1</guid>
+      <guid isPermaLink="false">R47721-3</guid>
       <description>U.S. Foreign Assistance to Latin America and the Caribbean: FY2024 Appropriations</description>
     </item>
     <item>
@@ -267,7 +358,7 @@
       <title>Paid Family and Medical Leave in the United States</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44835</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44835-26</guid>
+      <guid isPermaLink="false">R44835-27</guid>
       <description>Paid Family and Medical Leave in the United States</description>
     </item>
     <item>
@@ -1130,20 +1221,6 @@
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12193-3</guid>
       <description>Farm and Food Support Under USDA's Section 32 Account</description>
-    </item>
-    <item>
-      <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41129</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41129-242</guid>
-      <description>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL32665</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32665-389</guid>
-      <description>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Navy Large Unmanned Surface and Undersea Vehicles: Background and Issues for Congress</title>
@@ -4086,13 +4163,6 @@
       <description>Older Americans Act: COVID-19 Response </description>
     </item>
     <item>
-      <title>Restricting TikTok (Part I): Legal History and Background</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10940</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10940-8</guid>
-      <description>Restricting TikTok (Part I): Legal History and Background</description>
-    </item>
-    <item>
       <title>Secondary Cockpit Barriers for Airline Aircraft</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12435</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
@@ -4229,7 +4299,7 @@
       <title>Dynamic Scoring for Tax Legislation: A Review of Models</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R43381</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43381-11</guid>
+      <guid isPermaLink="false">R43381-12</guid>
       <description>Dynamic Scoring for Tax Legislation: A Review of Models</description>
     </item>
     <item>
@@ -4518,13 +4588,6 @@
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12426-3</guid>
       <description>Generative Artificial Intelligence: Overview, Issues, and Questions for Congress </description>
-    </item>
-    <item>
-      <title>Prospects for U.S.-Saudi Nuclear Energy Cooperation</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10799</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10799-20</guid>
-      <description>Prospects for U.S.-Saudi Nuclear Energy Cooperation</description>
     </item>
     <item>
       <title>The European Parliament and U.S. Interests</title>
@@ -5379,13 +5442,6 @@
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R45320-6</guid>
       <description>Campaign Finance Law: An Analysis of Key Issues, Recent Developments, and Constitutional Considerations for Legislation</description>
-    </item>
-    <item>
-      <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
-      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46336-32</guid>
-      <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
     </item>
     <item>
       <title>Death in Custody Reporting Act: Background and Legislative Considerations</title>
@@ -6947,62 +7003,6 @@
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10944-2</guid>
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (March 27-March 31, 2023)</description>
-    </item>
-    <item>
-      <title>Military Jurisdiction over Retired Servicemembers </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10945</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10945-1</guid>
-      <description>Military Jurisdiction over Retired Servicemembers </description>
-    </item>
-    <item>
-      <title>Nicaragua</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12247</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12247-5</guid>
-      <description>Nicaragua</description>
-    </item>
-    <item>
-      <title>Recommendation for New U.S. Circuit and District Court Judgeships by the Judicial Conference of the United States (118th Congress)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12140</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12140-1</guid>
-      <description>Recommendation for New U.S. Circuit and District Court Judgeships by the Judicial Conference of the United States (118th Congress)</description>
-    </item>
-    <item>
-      <title>The Feres Doctrine: Congress, the Courts, and Military Servicemember Lawsuits Against the United States </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10305</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10305-2</guid>
-      <description>The Feres Doctrine: Congress, the Courts, and Military Servicemember Lawsuits Against the United States </description>
-    </item>
-    <item>
-      <title>Tornadoes: Background and Forecasting</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11826</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11826-8</guid>
-      <description>Tornadoes: Background and Forecasting</description>
-    </item>
-    <item>
-      <title>U.S.-Singapore Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10228</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10228-14</guid>
-      <description>U.S.-Singapore Relations</description>
-    </item>
-    <item>
-      <title>Data on State and Local Public Sector Employment Not Covered Under Social Security</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47499</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47499-2</guid>
-      <description>Data on State and Local Public Sector Employment Not Covered Under Social Security</description>
-    </item>
-    <item>
-      <title>DHS Budget Request Analysis: FY2024</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47496</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47496-3</guid>
-      <description>DHS Budget Request Analysis: FY2024</description>
     </item>
   </channel>
 </rss>
