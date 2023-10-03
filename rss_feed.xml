@@ -5,11 +5,67 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Commonly Used Motions and Requests in the House of Representatives</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32207</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32207-11</guid>
+      <description>Commonly Used Motions and Requests in the House of Representatives</description>
+    </item>
+    <item>
+      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (September 25, 2023-October 1, 2023)</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11053</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11053-1</guid>
+      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (September 25, 2023-October 1, 2023)</description>
+    </item>
+    <item>
+      <title>Overview of Long-Term Services and Supports</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10427</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10427-7</guid>
+      <description>Overview of Long-Term Services and Supports</description>
+    </item>
+    <item>
+      <title>Questions of Privilege in the House</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/98-411</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">98-411-10</guid>
+      <description>Questions of Privilege in the House</description>
+    </item>
+    <item>
+      <title>Social Security Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10426</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10426-17</guid>
+      <description>Social Security Overview</description>
+    </item>
+    <item>
+      <title>Social Security Primer</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R42035</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R42035-43</guid>
+      <description>Social Security Primer</description>
+    </item>
+    <item>
+      <title>The UAW-Automakers Labor Dispute and Taft-Hartley's National Emergency Provisions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12506</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12506-1</guid>
+      <description>The UAW-Automakers Labor Dispute and Taft-Hartley's National Emergency Provisions</description>
+    </item>
+    <item>
       <title>Allen v. Milligan: Supreme Court Holds That Alabama Redistricting Map Likely Violated Section 2 of the Voting Rights Act</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11002</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11002-2</guid>
       <description>Allen v. Milligan: Supreme Court Holds That Alabama Redistricting Map Likely Violated Section 2 of the Voting Rights Act</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence Prompts Renewed Consideration of a Federal Right of Publicity</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11052</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11052-1</guid>
+      <description>Artificial Intelligence Prompts Renewed Consideration of a Federal Right of Publicity</description>
     </item>
     <item>
       <title>China Primer: China's Political System</title>
@@ -22,7 +78,7 @@
       <title>Community Development Financial Institutions (CDFIs): Overview and Selected Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47217</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47217-3</guid>
+      <guid isPermaLink="false">R47217-4</guid>
       <description>Community Development Financial Institutions (CDFIs): Overview and Selected Issues</description>
     </item>
     <item>
@@ -40,24 +96,31 @@
       <description>Federal Workforce Statistics Sources: OPM and OMB</description>
     </item>
     <item>
+      <title>Federally Supported Projects and Programs for Wastewater, Drinking Water, and Water Supply Infrastructure</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46471</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46471-9</guid>
+      <description>Federally Supported Projects and Programs for Wastewater, Drinking Water, and Water Supply Infrastructure</description>
+    </item>
+    <item>
       <title>FY2024 Defense Appropriations: Status of Legislative Activity</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12237</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12237-3</guid>
+      <guid isPermaLink="false">IN12237-4</guid>
       <description>FY2024 Defense Appropriations: Status of Legislative Activity</description>
     </item>
     <item>
       <title>FY2024 NDAA: Military Spouse Employment Matters</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12217</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12217-2</guid>
+      <guid isPermaLink="false">IN12217-3</guid>
       <description>FY2024 NDAA: Military Spouse Employment Matters</description>
     </item>
     <item>
       <title>Generative Artificial Intelligence and Copyright Law</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10922</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10922-5</guid>
+      <guid isPermaLink="false">LSB10922-6</guid>
       <description>Generative Artificial Intelligence and Copyright Law</description>
     </item>
     <item>
@@ -99,14 +162,14 @@
       <title>Military Housing</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47728</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47728-1</guid>
+      <guid isPermaLink="false">R47728-2</guid>
       <description>Military Housing</description>
     </item>
     <item>
       <title>Offices of Inspector General and Government Shutdowns</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12260</link>
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12260-1</guid>
+      <guid isPermaLink="false">IN12260-2</guid>
       <description>Offices of Inspector General and Government Shutdowns</description>
     </item>
     <item>
@@ -122,6 +185,13 @@
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12504-1</guid>
       <description>The Cancer Moonshot: Overview and Issues</description>
+    </item>
+    <item>
+      <title>The United States-Mexico-Canada Agreement (USMCA)</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44981</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44981-22</guid>
+      <description>The United States-Mexico-Canada Agreement (USMCA)</description>
     </item>
     <item>
       <title>Areas of Economic Distress for EDA Activities and Programs</title>
@@ -218,14 +288,14 @@
       <title>The International Emergency Economic Powers Act: Origins, Evolution, and Use</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45618</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45618-10</guid>
+      <guid isPermaLink="false">R45618-11</guid>
       <description>The International Emergency Economic Powers Act: Origins, Evolution, and Use</description>
     </item>
     <item>
       <title>U.S.-Singapore Relations</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10228</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10228-15</guid>
+      <guid isPermaLink="false">IF10228-16</guid>
       <description>U.S.-Singapore Relations</description>
     </item>
     <item>
@@ -295,7 +365,7 @@
       <title>Estimated ESEA Title I-A FY2023 and FY2024 State Grants Under the House Appropriations Committee Subcommittee-Approved Bill</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47732</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47732-1</guid>
+      <guid isPermaLink="false">R47732-2</guid>
       <description>Estimated ESEA Title I-A FY2023 and FY2024 State Grants Under the House Appropriations Committee Subcommittee-Approved Bill</description>
     </item>
     <item>
@@ -372,7 +442,7 @@
       <title>Who Protects Whom? Federal Official and Judicial Security and Personal Protective Details</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47731</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47731-2</guid>
+      <guid isPermaLink="false">R47731-3</guid>
       <description>Who Protects Whom? Federal Official and Judicial Security and Personal Protective Details</description>
     </item>
     <item>
@@ -5654,20 +5724,6 @@
       <description>SCOTUS Rules That PROMESA Does Not Abrogate Puerto Rico Oversight Board's Sovereign Immunity-If It Has Any</description>
     </item>
     <item>
-      <title>Social Security Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10426</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10426-16</guid>
-      <description>Social Security Overview</description>
-    </item>
-    <item>
-      <title>Social Security Primer</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42035</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42035-42</guid>
-      <description>Social Security Primer</description>
-    </item>
-    <item>
       <title>Social Security: The Trust Funds</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL33028</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
@@ -6947,62 +7003,6 @@
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12143-1</guid>
       <description>Security for the Federal Judiciary: Recent Developments</description>
-    </item>
-    <item>
-      <title>Senate Committee Party Ratios: 98th-118th Congresses</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL34752</link>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL34752-18</guid>
-      <description>Senate Committee Party Ratios: 98th-118th Congresses</description>
-    </item>
-    <item>
-      <title>FY2024 Budget Request for the Military Health System</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12377</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12377-2</guid>
-      <description>FY2024 Budget Request for the Military Health System</description>
-    </item>
-    <item>
-      <title>Global Human Rights: International Religious Freedom Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10803</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10803-24</guid>
-      <description>Global Human Rights: International Religious Freedom Policy</description>
-    </item>
-    <item>
-      <title>Global Human Rights: The Department of State's Country Reports on Human Rights Practices</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10795</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10795-15</guid>
-      <description>Global Human Rights: The Department of State's Country Reports on Human Rights Practices</description>
-    </item>
-    <item>
-      <title>HSA@20 Episode Companion: Cybersecurity</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12142</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12142-8</guid>
-      <description>HSA@20 Episode Companion: Cybersecurity</description>
-    </item>
-    <item>
-      <title>Internal Revenue Service Appropriations, FY2023</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12098</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12098-6</guid>
-      <description>Internal Revenue Service Appropriations, FY2023</description>
-    </item>
-    <item>
-      <title>Temporary Assistance for Needy Families: The Decline in Assistance Receipt Among Eligible Individuals</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47503</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47503-3</guid>
-      <description>Temporary Assistance for Needy Families: The Decline in Assistance Receipt Among Eligible Individuals</description>
-    </item>
-    <item>
-      <title>The Higher Education Act (HEA): A Primer</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43351</link>
-      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43351-20</guid>
-      <description>The Higher Education Act (HEA): A Primer</description>
     </item>
   </channel>
 </rss>
