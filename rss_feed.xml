@@ -5,6 +5,27 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Commemorations in Congress: Options for Honoring Individuals, Groups, and Events</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43539</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43539-20</guid>
+      <description>Commemorations in Congress: Options for Honoring Individuals, Groups, and Events</description>
+    </item>
+    <item>
+      <title>Hedge Funds: Background and Policy Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12511</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12511-1</guid>
+      <description>Hedge Funds: Background and Policy Issues</description>
+    </item>
+    <item>
+      <title>Legislative Branch: FY2024 Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47624</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47624-3</guid>
+      <description>Legislative Branch: FY2024 Appropriations</description>
+    </item>
+    <item>
       <title>Church Tax Benefits</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12509</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
@@ -19,10 +40,17 @@
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (October 10, 2023-October 15, 2023)</description>
     </item>
     <item>
+      <title>Disaster Relief Fund State of Play: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47676</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47676-7</guid>
+      <description>Disaster Relief Fund State of Play: In Brief</description>
+    </item>
+    <item>
       <title>FY2024 NDAA: Junior Reserve Officer Training Corps (JROTC) Matters</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12205</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12205-2</guid>
+      <guid isPermaLink="false">IN12205-3</guid>
       <description>FY2024 NDAA: Junior Reserve Officer Training Corps (JROTC) Matters</description>
     </item>
     <item>
@@ -43,14 +71,14 @@
       <title>U.S.-China Science and Technology Cooperation Agreement</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12510</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12510-1</guid>
+      <guid isPermaLink="false">IF12510-2</guid>
       <description>U.S.-China Science and Technology Cooperation Agreement</description>
     </item>
     <item>
       <title>War Crimes in Ukraine</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47762</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47762-8</guid>
+      <guid isPermaLink="false">R47762-10</guid>
       <description>War Crimes in Ukraine</description>
     </item>
     <item>
@@ -85,7 +113,7 @@
       <title>Israel and Hamas October 2023 Conflict: Frequently Asked Questions (FAQs)</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47754</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47754-5</guid>
+      <guid isPermaLink="false">R47754-7</guid>
       <description>Israel and Hamas October 2023 Conflict: Frequently Asked Questions (FAQs)</description>
     </item>
     <item>
@@ -1251,13 +1279,6 @@
       <description>Congressional Salaries and Allowances: In Brief</description>
     </item>
     <item>
-      <title>Disaster Relief Fund State of Play: In Brief</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47676</link>
-      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47676-6</guid>
-      <description>Disaster Relief Fund State of Play: In Brief</description>
-    </item>
-    <item>
       <title>Environmental Reviews and the 118th Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12417</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
@@ -1783,13 +1804,6 @@
       <description>Cluster Munitions: Background and Issues for Congress</description>
     </item>
     <item>
-      <title>Commemorations in Congress: Options for Honoring Individuals, Groups, and Events</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43539</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43539-19</guid>
-      <description>Commemorations in Congress: Options for Honoring Individuals, Groups, and Events</description>
-    </item>
-    <item>
       <title>Constitutional Challenges to the Medicare Drug Price Negotiation Program</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47682</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
@@ -1842,7 +1856,7 @@
       <title>Unemployment Insurance: Legislative Issues in the 118th Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47575</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47575-4</guid>
+      <guid isPermaLink="false">R47575-5</guid>
       <description>Unemployment Insurance: Legislative Issues in the 118th Congress</description>
     </item>
     <item>
@@ -3993,13 +4007,6 @@
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47390-11</guid>
       <description>Kuwait: Issues for the 118th Congress</description>
-    </item>
-    <item>
-      <title>Legislative Branch: FY2024 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47624</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47624-2</guid>
-      <description>Legislative Branch: FY2024 Appropriations</description>
     </item>
     <item>
       <title>Stablecoin Policy Issues for the 118th Congress</title>
@@ -6996,13 +7003,6 @@
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10950-1</guid>
       <description>Congressional Investigation of the Trump Indictment</description>
-    </item>
-    <item>
-      <title>Earth Day: Fact Sheet</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46293</link>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46293-6</guid>
-      <description>Earth Day: Fact Sheet</description>
     </item>
   </channel>
 </rss>
