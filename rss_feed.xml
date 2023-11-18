@@ -5,24 +5,395 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Highlights of the 2023 Executive Order on Artificial Intelligence for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47843</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47843-2</guid>
+      <description>Highlights of the 2023 Executive Order on Artificial Intelligence for Congress</description>
+    </item>
+    <item>
+      <title>Parliamentary Reference Sources: Senate</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL30788</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL30788-13</guid>
+      <description>Parliamentary Reference Sources: Senate</description>
+    </item>
+    <item>
+      <title>Service-Contingent Federal Student Loan Forgiveness and Loan Repayment Programs </title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47837</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47837-2</guid>
+      <description>Service-Contingent Federal Student Loan Forgiveness and Loan Repayment Programs </description>
+    </item>
+    <item>
+      <title>The European Parliament and U.S. Interests</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11211</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11211-10</guid>
+      <description>The European Parliament and U.S. Interests</description>
+    </item>
+    <item>
+      <title>The Supreme Court Adopts a Code of Conduct</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11078</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11078-1</guid>
+      <description>The Supreme Court Adopts a Code of Conduct</description>
+    </item>
+    <item>
+      <title>U.S.-China Science and Technology Cooperation Agreement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12510</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12510-3</guid>
+      <description>U.S.-China Science and Technology Cooperation Agreement</description>
+    </item>
+    <item>
+      <title>Armed Career Criminal Act (ACCA): When Does a Prior Drug Offense Qualify? </title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11077</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11077-2</guid>
+      <description>Armed Career Criminal Act (ACCA): When Does a Prior Drug Offense Qualify? </description>
+    </item>
+    <item>
+      <title>Bank Exposure to Commercial Real Estate</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12278</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12278-2</guid>
+      <description>Bank Exposure to Commercial Real Estate</description>
+    </item>
+    <item>
+      <title>Federal Guidelines, Testing, and Certification for Electronic Poll Books (E-Poll Books)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12280</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12280-1</guid>
+      <description>Federal Guidelines, Testing, and Certification for Electronic Poll Books (E-Poll Books)</description>
+    </item>
+    <item>
+      <title>Growth in Electric Vehicle Manufacturing: A Factor in the 2023 United Auto Workers (UAW) Negotiations </title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12279</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12279-1</guid>
+      <description>Growth in Electric Vehicle Manufacturing: A Factor in the 2023 United Auto Workers (UAW) Negotiations </description>
+    </item>
+    <item>
+      <title>House Committee Funding: Process and Historical Appropriations and Authorizations</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32794</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32794-40</guid>
+      <description>House Committee Funding: Process and Historical Appropriations and Authorizations</description>
+    </item>
+    <item>
+      <title>Human Trafficking and U.S. Foreign Policy: An Introduction</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10587</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10587-11</guid>
+      <description>Human Trafficking and U.S. Foreign Policy: An Introduction</description>
+    </item>
+    <item>
+      <title>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32665</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32665-398</guid>
+      <description>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS20643</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS20643-279</guid>
+      <description>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46374</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46374-58</guid>
+      <description>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Ship Names: Background for Congress </title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS22478</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS22478-257</guid>
+      <description>Navy Ship Names: Background for Congress </description>
+    </item>
+    <item>
+      <title>USDA's Foreign Agricultural Service: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47836</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47836-3</guid>
+      <description>USDA's Foreign Agricultural Service: An Overview</description>
+    </item>
+    <item>
+      <title>AUKUS Nuclear Cooperation</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11999</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11999-4</guid>
+      <description>AUKUS Nuclear Cooperation</description>
+    </item>
+    <item>
+      <title>Marijuana Banking: Legal Issues and the SAFE(R) Banking Acts</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11076</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11076-1</guid>
+      <description>Marijuana Banking: Legal Issues and the SAFE(R) Banking Acts</description>
+    </item>
+    <item>
+      <title>National Park System: What Do the Different Park Titles Signify?</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41816</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41816-22</guid>
+      <description>National Park System: What Do the Different Park Titles Signify?</description>
+    </item>
+    <item>
+      <title>Syria and U.S. Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11930</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11930-8</guid>
+      <description>Syria and U.S. Policy</description>
+    </item>
+    <item>
+      <title>U.S. Arms Transfer Restrictions and AUKUS Cooperation</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12483</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12483-3</guid>
+      <description>U.S. Arms Transfer Restrictions and AUKUS Cooperation</description>
+    </item>
+    <item>
+      <title>U.S. Commercial Shipbuilding in a Global Context</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12534</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12534-2</guid>
+      <description>U.S. Commercial Shipbuilding in a Global Context</description>
+    </item>
+    <item>
+      <title>U.S.-China Strategic Competition in South and East China Seas: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R42784</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R42784-147</guid>
+      <description>U.S.-China Strategic Competition in South and East China Seas: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Debt Limit Suspensions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN11829</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN11829-6</guid>
+      <description>Debt Limit Suspensions</description>
+    </item>
+    <item>
+      <title>Defense Primer: Naval Forces</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10486-36</guid>
+      <description>Defense Primer: Naval Forces</description>
+    </item>
+    <item>
+      <title>Emergency Access to Strategic and Critical Materials: The National Defense Stockpile</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47833</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47833-2</guid>
+      <description>Emergency Access to Strategic and Critical Materials: The National Defense Stockpile</description>
+    </item>
+    <item>
+      <title>Israel and Hamas 2023 Conflict In Brief: Overview, U.S. Policy, and Options for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47828</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47828-8</guid>
+      <description>Israel and Hamas 2023 Conflict In Brief: Overview, U.S. Policy, and Options for Congress</description>
+    </item>
+    <item>
+      <title>Medicare and Budget Sequestration</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45106</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45106-19</guid>
+      <description>Medicare and Budget Sequestration</description>
+    </item>
+    <item>
+      <title>Medicare Part D Prescription Drug Benefit</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R40611</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R40611-21</guid>
+      <description>Medicare Part D Prescription Drug Benefit</description>
+    </item>
+    <item>
+      <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R41129</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R41129-253</guid>
+      <description>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44972</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44972-107</guid>
+      <description>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Overview of FY2024 Appropriations for Commerce, Justice, Science, and Related Agencies (CJS)</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47566</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47566-6</guid>
+      <description>Overview of FY2024 Appropriations for Commerce, Justice, Science, and Related Agencies (CJS)</description>
+    </item>
+    <item>
+      <title>The Earned Income Tax Credit (EITC): How It Works and Who Receives It</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43805</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43805-18</guid>
+      <description>The Earned Income Tax Credit (EITC): How It Works and Who Receives It</description>
+    </item>
+    <item>
+      <title>The Pacific Islands</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11208</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11208-11</guid>
+      <description>The Pacific Islands</description>
+    </item>
+    <item>
+      <title>5G Fund for Rural America: Current Status and Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12465</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12465-5</guid>
+      <description>5G Fund for Rural America: Current Status and Issues</description>
+    </item>
+    <item>
+      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (November 6-November 12, 2023)</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11075</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11075-1</guid>
+      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (November 6-November 12, 2023)</description>
+    </item>
+    <item>
+      <title>FBI Headquarters Site Selection Process</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12204</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12204-3</guid>
+      <description>FBI Headquarters Site Selection Process</description>
+    </item>
+    <item>
+      <title>Federally Funded Construction and the Payment of Locally Prevailing Wages</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11927</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11927-3</guid>
+      <description>Federally Funded Construction and the Payment of Locally Prevailing Wages</description>
+    </item>
+    <item>
+      <title>Free Speech Constraints on Public Officials' Social Media Pages</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11074</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11074-1</guid>
+      <description>Free Speech Constraints on Public Officials' Social Media Pages</description>
+    </item>
+    <item>
+      <title>HSA@20 Episode Companion: Emergency Management Post-PKEMRA</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12277</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12277-6</guid>
+      <description>HSA@20 Episode Companion: Emergency Management Post-PKEMRA</description>
+    </item>
+    <item>
+      <title>Meeting Locations of Congress and Predecessor Legislatures</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12533</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12533-3</guid>
+      <description>Meeting Locations of Congress and Predecessor Legislatures</description>
+    </item>
+    <item>
+      <title>Membership of the 118th Congress: A Profile</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47470</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47470-7</guid>
+      <description>Membership of the 118th Congress: A Profile</description>
+    </item>
+    <item>
+      <title>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11679</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11679-35</guid>
+      <description>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11826</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11826-25</guid>
+      <description>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32418</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32418-262</guid>
+      <description>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Statistics on Women in National Governments Around the Globe</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45483</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45483-24</guid>
+      <description>Statistics on Women in National Governments Around the Globe</description>
+    </item>
+    <item>
+      <title>Statutory Inspectors General in the Federal Government: A Primer</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45450</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45450-12</guid>
+      <description>Statutory Inspectors General in the Federal Government: A Primer</description>
+    </item>
+    <item>
+      <title>The Compacts of Free Association</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12194</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12194-43</guid>
+      <description>The Compacts of Free Association</description>
+    </item>
+    <item>
+      <title>The District of Columbia Courts: A Brief Introduction</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12531</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12531-1</guid>
+      <description>The District of Columbia Courts: A Brief Introduction</description>
+    </item>
+    <item>
+      <title>The Fair Labor Standards Act (FLSA) Exemption for Executive, Administrative, and Professional (EAP) Employees: 2023 Proposed Rule</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12532</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12532-3</guid>
+      <description>The Fair Labor Standards Act (FLSA) Exemption for Executive, Administrative, and Professional (EAP) Employees: 2023 Proposed Rule</description>
+    </item>
+    <item>
+      <title>TRICARE Cost-Sharing Changes in 2024</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN11532</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN11532-5</guid>
+      <description>TRICARE Cost-Sharing Changes in 2024</description>
+    </item>
+    <item>
+      <title>National Oceanic and Atmospheric Administration (NOAA) FY2024 Budget Request and Appropriations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12406</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12406-6</guid>
+      <description>National Oceanic and Atmospheric Administration (NOAA) FY2024 Budget Request and Appropriations</description>
+    </item>
+    <item>
       <title>Nigeria: Overview and U.S. Policy</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47052</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47052-3</guid>
+      <guid isPermaLink="false">R47052-5</guid>
       <description>Nigeria: Overview and U.S. Policy</description>
     </item>
     <item>
       <title>S.Res. 444: Providing for En Bloc Consideration of Military Nominations</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12276</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12276-1</guid>
+      <guid isPermaLink="false">IN12276-2</guid>
       <description>S.Res. 444: Providing for En Bloc Consideration of Military Nominations</description>
     </item>
     <item>
       <title>Veterans Day Speech Resources: Fact Sheet</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44263</link>
       <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44263-12</guid>
+      <guid isPermaLink="false">R44263-13</guid>
       <description>Veterans Day Speech Resources: Fact Sheet</description>
     </item>
     <item>
@@ -43,7 +414,7 @@
       <title>Federal Economic Assistance for Coal Communities</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47831</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47831-2</guid>
+      <guid isPermaLink="false">R47831-3</guid>
       <description>Federal Economic Assistance for Coal Communities</description>
     </item>
     <item>
@@ -96,11 +467,11 @@
       <description>Greenhouse Gas Emission Reduction Pledges by Selected Countries: Nationally Determined Contributions and Net-Zero Legislation</description>
     </item>
     <item>
-      <title>Israel and Hamas 2023 Conflict In Brief: Overview, U.S. Policy, and Options for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47828</link>
+      <title>Indonesia</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10247</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47828-7</guid>
-      <description>Israel and Hamas 2023 Conflict In Brief: Overview, U.S. Policy, and Options for Congress</description>
+      <guid isPermaLink="false">IF10247-50</guid>
+      <description>Indonesia</description>
     </item>
     <item>
       <title>Recreational Marijuana and Economic Development</title>
@@ -169,7 +540,7 @@
       <title>Sanctions Primer: How the United States Uses Restrictive Mechanisms to Advance Foreign Policy or National Security Objectives</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47829</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47829-2</guid>
+      <guid isPermaLink="false">R47829-3</guid>
       <description>Sanctions Primer: How the United States Uses Restrictive Mechanisms to Advance Foreign Policy or National Security Objectives</description>
     </item>
     <item>
@@ -726,20 +1097,6 @@
       <description>Iran's Petroleum Exports to China and U.S. Sanctions</description>
     </item>
     <item>
-      <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41129</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41129-246</guid>
-      <description>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL32418</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32418-260</guid>
-      <description>Navy Virginia-Class Submarine Program and AUKUS Submarine Proposal: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Nepal</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10216</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
@@ -929,13 +1286,6 @@
       <description>NASA Appropriations and Authorizations: A Fact Sheet</description>
     </item>
     <item>
-      <title>National Oceanic and Atmospheric Administration (NOAA) FY2024 Budget Request and Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12406</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12406-5</guid>
-      <description>National Oceanic and Atmospheric Administration (NOAA) FY2024 Budget Request and Appropriations</description>
-    </item>
-    <item>
       <title>Nonimmigrant and Immigrant Visa Categories: Data Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45938</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -950,13 +1300,6 @@
       <description>Section 1071: Small Business Lending Data Collection and Reporting</description>
     </item>
     <item>
-      <title>The Compacts of Free Association</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12194</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12194-25</guid>
-      <description>The Compacts of Free Association</description>
-    </item>
-    <item>
       <title>The U.S. Marine Corps Marine Littoral Regiment (MLR)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12200</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
@@ -967,7 +1310,7 @@
       <title>Uzbekistan: Background and Issues for Congress </title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47798</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47798-2</guid>
+      <guid isPermaLink="false">R47798-19</guid>
       <description>Uzbekistan: Background and Issues for Congress </description>
     </item>
     <item>
@@ -1048,25 +1391,11 @@
       <description>Introduction to the National Flood Insurance Program (NFIP)</description>
     </item>
     <item>
-      <title>Navy Ship Names: Background for Congress </title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS22478</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22478-256</guid>
-      <description>Navy Ship Names: Background for Congress </description>
-    </item>
-    <item>
       <title>The Disposal of Surplus Federal Property for Homeless Assistance and Housing Programs</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12264</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12264-1</guid>
       <description>The Disposal of Surplus Federal Property for Homeless Assistance and Housing Programs</description>
-    </item>
-    <item>
-      <title>U.S.-China Science and Technology Cooperation Agreement</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12510</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12510-2</guid>
-      <description>U.S.-China Science and Technology Cooperation Agreement</description>
     </item>
     <item>
       <title>War Crimes in Ukraine</title>
@@ -1251,20 +1580,6 @@
       <description>Defense Primer: National Security Space Launch</description>
     </item>
     <item>
-      <title>Defense Primer: Naval Forces</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10486-35</guid>
-      <description>Defense Primer: Naval Forces</description>
-    </item>
-    <item>
-      <title>House Committee Funding: Process and Historical Appropriations and Authorizations</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL32794</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32794-38</guid>
-      <description>House Committee Funding: Process and Historical Appropriations and Authorizations</description>
-    </item>
-    <item>
       <title>Israel and Hamas: Major Conflict After Surprise Attacks</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12262</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
@@ -1391,25 +1706,11 @@
       <description>U.S.-Papua New Guinea Relations: Issues for Congress</description>
     </item>
     <item>
-      <title>Membership of the 118th Congress: A Profile</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47470</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47470-5</guid>
-      <description>Membership of the 118th Congress: A Profile</description>
-    </item>
-    <item>
       <title>Mongolia</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10926</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10926-13</guid>
       <description>Mongolia</description>
-    </item>
-    <item>
-      <title>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL32665</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32665-394</guid>
-      <description>Navy Force Structure and Shipbuilding Plans: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Post-Title 42: U.S. Foreign Policy Initiatives to Manage Regional Migration</title>
@@ -1930,13 +2231,6 @@
       <description>Federal Employee Pay in the Context of a Government Shutdown</description>
     </item>
     <item>
-      <title>Medicare and Budget Sequestration</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45106</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45106-17</guid>
-      <description>Medicare and Budget Sequestration</description>
-    </item>
-    <item>
       <title>Private Funding for Election Administration</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12501</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
@@ -2446,13 +2740,6 @@
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47694-3</guid>
       <description>SBA as a Vehicle for Crisis Relief: Lessons from the COVID-19 Pandemic</description>
-    </item>
-    <item>
-      <title>U.S.-China Strategic Competition in South and East China Seas: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42784</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42784-145</guid>
-      <description>U.S.-China Strategic Competition in South and East China Seas: Background and Issues for Congress</description>
     </item>
     <item>
       <title>China-Russia Relations</title>
@@ -3113,13 +3400,6 @@
       <description>Removal Proceedings and the Immigration Court Backlog</description>
     </item>
     <item>
-      <title>U.S. Arms Transfer Restrictions and AUKUS Cooperation</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12483</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12483-2</guid>
-      <description>U.S. Arms Transfer Restrictions and AUKUS Cooperation</description>
-    </item>
-    <item>
       <title>Child Nutrition Reauthorization (CNR): An Overview</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10266</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
@@ -3347,7 +3627,7 @@
       <title>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47657</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47657-2</guid>
+      <guid isPermaLink="false">R47657-3</guid>
       <description>Energy and Water Development Appropriations for Nuclear Weapons Activities: In Brief</description>
     </item>
     <item>
@@ -3566,13 +3846,6 @@
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12222-2</guid>
       <description>Artificial Intelligence (AI) and Campaign Finance Policy: Recent Developments</description>
-    </item>
-    <item>
-      <title>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS20643</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS20643-278</guid>
-      <description>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Social Security: Future Financial Status and Accuracy of Projections</title>
@@ -3848,13 +4121,6 @@
       <description>Introduction to Financial Services: The Securities and Exchange Commission (SEC)</description>
     </item>
     <item>
-      <title>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44972</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44972-105</guid>
-      <description>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL32109</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
@@ -3911,13 +4177,6 @@
       <description>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</description>
     </item>
     <item>
-      <title>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46374</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46374-57</guid>
-      <description>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Protection of Undersea Telecommunication Cables: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47648</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
@@ -3951,13 +4210,6 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12214-2</guid>
       <description>Israel: Controversy over Judicial System Changes and Proposals</description>
-    </item>
-    <item>
-      <title>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11826</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11826-24</guid>
-      <description>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</description>
     </item>
     <item>
       <title>PEPFAR Extension Act of 2018: Expiring Authorities</title>
@@ -4021,20 +4273,6 @@
       <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12213-2</guid>
       <description>National Emergencies Act Expenditure Reports</description>
-    </item>
-    <item>
-      <title>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11679</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11679-34</guid>
-      <description>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Overview of FY2024 Appropriations for Commerce, Justice, Science, and Related Agencies (CJS)</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47566</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47566-4</guid>
-      <description>Overview of FY2024 Appropriations for Commerce, Justice, Science, and Related Agencies (CJS)</description>
     </item>
     <item>
       <title>Overview of the Indictment of Former President Trump Related to the 2020 Election</title>
@@ -4135,13 +4373,6 @@
       <description>Foreign Leaders Addressing Congress</description>
     </item>
     <item>
-      <title>Indonesia</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10247</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10247-18</guid>
-      <description>Indonesia</description>
-    </item>
-    <item>
       <title>Iraq</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10404</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
@@ -4175,13 +4406,6 @@
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12086-3</guid>
       <description>Xylazine: Considerations for Federal Control</description>
-    </item>
-    <item>
-      <title>5G Fund for Rural America: Current Status and Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12465</link>
-      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12465-4</guid>
-      <description>5G Fund for Rural America: Current Status and Issues</description>
     </item>
     <item>
       <title>Coast Guard Polar Security Cutter (Polar Icebreaker) Program: Background and Issues for Congress</title>
@@ -4476,13 +4700,6 @@
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11011-2</guid>
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 17, 2023-July 23, 2023)</description>
-    </item>
-    <item>
-      <title>FBI Headquarters Site Selection Process</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12204</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12204-1</guid>
-      <description>FBI Headquarters Site Selection Process</description>
     </item>
     <item>
       <title>Federal Reserve Launches FedNow</title>
@@ -4796,7 +5013,7 @@
       <title>International Law and Agreements: Their Effect upon U.S. Law</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL32528</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32528-24</guid>
+      <guid isPermaLink="false">RL32528-25</guid>
       <description>International Law and Agreements: Their Effect upon U.S. Law</description>
     </item>
     <item>
@@ -5885,13 +6102,6 @@
       <description>Generative Artificial Intelligence: Overview, Issues, and Questions for Congress </description>
     </item>
     <item>
-      <title>The European Parliament and U.S. Interests</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11211</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11211-9</guid>
-      <description>The European Parliament and U.S. Interests</description>
-    </item>
-    <item>
       <title>The Mar-a-Lago Indictment: A Legal Introduction</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10810</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
@@ -6501,13 +6711,6 @@
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 15-May 21, 2023), Part 2</description>
     </item>
     <item>
-      <title>Debt Limit Suspensions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11829</link>
-      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11829-5</guid>
-      <description>Debt Limit Suspensions</description>
-    </item>
-    <item>
       <title>Labor, Health and Human Services, and Education: FY2023 Appropriations</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47345</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
@@ -6800,209 +7003,6 @@
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB10964-2</guid>
       <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 8-May 14, 2023)</description>
-    </item>
-    <item>
-      <title>Defense Primer: U.S. Policy on Lethal Autonomous Weapon Systems</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11150</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11150-10</guid>
-      <description>Defense Primer: U.S. Policy on Lethal Autonomous Weapon Systems</description>
-    </item>
-    <item>
-      <title>Disaster Survivor FAQ: FEMA Individuals and Households Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47297</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47297-7</guid>
-      <description>Disaster Survivor FAQ: FEMA Individuals and Households Program</description>
-    </item>
-    <item>
-      <title>Guyana: An Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11381</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11381-17</guid>
-      <description>Guyana: An Overview</description>
-    </item>
-    <item>
-      <title>HSA@20 Episode Companion: Intelligence</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12160</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12160-6</guid>
-      <description>HSA@20 Episode Companion: Intelligence</description>
-    </item>
-    <item>
-      <title>NLRB Reinstates 'Overwhelming Community of Interest' Collective Bargaining Unit Standard</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10963</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10963-2</guid>
-      <description>NLRB Reinstates 'Overwhelming Community of Interest' Collective Bargaining Unit Standard</description>
-    </item>
-    <item>
-      <title>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10961</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10961-2</guid>
-      <description>The Biden Administration's Final Rule on Arriving Aliens Seeking Asylum</description>
-    </item>
-    <item>
-      <title>Defense Primer: Intelligence Support to Military Operations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10574</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10574-13</guid>
-      <description>Defense Primer: Intelligence Support to Military Operations</description>
-    </item>
-    <item>
-      <title>Medigap: Background and Statistics</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47552</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47552-2</guid>
-      <description>Medigap: Background and Statistics</description>
-    </item>
-    <item>
-      <title>Memorial Day Speech Resources: Fact Sheet</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43973</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43973-18</guid>
-      <description>Memorial Day Speech Resources: Fact Sheet</description>
-    </item>
-    <item>
-      <title>U.S. Intelligence Community Establishment Provisions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10527</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10527-8</guid>
-      <description>U.S. Intelligence Community Establishment Provisions</description>
-    </item>
-    <item>
-      <title>Criminal Prohibitions on Leaks and Other Disclosures of Classified Defense Information</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41404</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41404-33</guid>
-      <description>Criminal Prohibitions on Leaks and Other Disclosures of Classified Defense Information</description>
-    </item>
-    <item>
-      <title>H-2A and H-2B Temporary Worker Visas: Policy and Related Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44849</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44849-7</guid>
-      <description>H-2A and H-2B Temporary Worker Visas: Policy and Related Issues</description>
-    </item>
-    <item>
-      <title>Pipeline Physical Security: Federal Efforts</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12161</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12161-1</guid>
-      <description>Pipeline Physical Security: Federal Efforts</description>
-    </item>
-    <item>
-      <title>Railroad Retirement Board: Retirement, Survivor, Disability, Unemployment, and Sickness Benefits</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10481</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10481-12</guid>
-      <description>Railroad Retirement Board: Retirement, Survivor, Disability, Unemployment, and Sickness Benefits</description>
-    </item>
-    <item>
-      <title>Unemployment Insurance Overpayment and Fraud Recovery and H.R. 1163</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12127</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12127-2</guid>
-      <description>Unemployment Insurance Overpayment and Fraud Recovery and H.R. 1163</description>
-    </item>
-    <item>
-      <title>Automation, Artificial Intelligence, and Machine Learning in Consumer Lending</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12399</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12399-2</guid>
-      <description>Automation, Artificial Intelligence, and Machine Learning in Consumer Lending</description>
-    </item>
-    <item>
-      <title>Remittances: Background and Issues for the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43217</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43217-16</guid>
-      <description>Remittances: Background and Issues for the 118th Congress</description>
-    </item>
-    <item>
-      <title>Selecting the World Bank President</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42463</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42463-11</guid>
-      <description>Selecting the World Bank President</description>
-    </item>
-    <item>
-      <title>Social Security Retirement Earnings Test: How Earnings Affect Benefits</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41242</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41242-19</guid>
-      <description>Social Security Retirement Earnings Test: How Earnings Affect Benefits</description>
-    </item>
-    <item>
-      <title>Social Security Trust Fund Investment Practices</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10564</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10564-12</guid>
-      <description>Social Security Trust Fund Investment Practices</description>
-    </item>
-    <item>
-      <title>Social Security's Funding Shortfall</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10522</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10522-16</guid>
-      <description>Social Security's Funding Shortfall</description>
-    </item>
-    <item>
-      <title>Appeals Court Holds That Apple's 'Walled Garden' Does Not Violate Federal Antitrust Law</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10960</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10960-1</guid>
-      <description>Appeals Court Holds That Apple's 'Walled Garden' Does Not Violate Federal Antitrust Law</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 1, 2023-May 7, 2023)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10959</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10959-1</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 1, 2023-May 7, 2023)</description>
-    </item>
-    <item>
-      <title>Department of State, Foreign Operations, and Related Programs Appropriations: A Guide to Component Accounts</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R40482</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R40482-35</guid>
-      <description>Department of State, Foreign Operations, and Related Programs Appropriations: A Guide to Component Accounts</description>
-    </item>
-    <item>
-      <title>Enlisting Assistance or Intruding On Judicial Independence? Compelling Testimony by Supreme Court Justices</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10962</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10962-2</guid>
-      <description>Enlisting Assistance or Intruding On Judicial Independence? Compelling Testimony by Supreme Court Justices</description>
-    </item>
-    <item>
-      <title>House Rule XXI, Clause 10: The CUTGO Rule</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R41510</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R41510-5</guid>
-      <description>House Rule XXI, Clause 10: The CUTGO Rule</description>
-    </item>
-    <item>
-      <title>Interior, Environment, and Related Agencies: Overview of FY2023 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47253</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47253-8</guid>
-      <description>Interior, Environment, and Related Agencies: Overview of FY2023 Appropriations</description>
-    </item>
-    <item>
-      <title>Juvenile Delinquents and Federal Criminal Law: The Federal Juvenile Delinquency Act and Related Matters</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL30822</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL30822-10</guid>
-      <description>Juvenile Delinquents and Federal Criminal Law: The Federal Juvenile Delinquency Act and Related Matters</description>
-    </item>
-    <item>
-      <title>Juvenile Delinquents and Federal Criminal Law: The Federal Juvenile Delinquency Act and Related Matters in Short</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47548</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47548-2</guid>
-      <description>Juvenile Delinquents and Federal Criminal Law: The Federal Juvenile Delinquency Act and Related Matters in Short</description>
     </item>
   </channel>
 </rss>
