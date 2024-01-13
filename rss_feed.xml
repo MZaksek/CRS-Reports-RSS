@@ -5,6 +5,90 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Defense Primer: Command and Control of Nuclear Forces</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10521</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10521-12</guid>
+      <description>Defense Primer: Command and Control of Nuclear Forces</description>
+    </item>
+    <item>
+      <title>Defense Primer: Commanding U.S. Military Operations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10542</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10542-13</guid>
+      <description>Defense Primer: Commanding U.S. Military Operations</description>
+    </item>
+    <item>
+      <title>Election Policy Fundamentals: At-Large House Districts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12568</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12568-1</guid>
+      <description>Election Policy Fundamentals: At-Large House Districts</description>
+    </item>
+    <item>
+      <title>Election Policy Fundamentals: Single-Member House Districts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12567</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12567-2</guid>
+      <description>Election Policy Fundamentals: Single-Member House Districts</description>
+    </item>
+    <item>
+      <title>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12299</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12299-1</guid>
+      <description>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</description>
+    </item>
+    <item>
+      <title>FY2024 NDAA: Reproductive Health Care Provisions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12236</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12236-3</guid>
+      <description>FY2024 NDAA: Reproductive Health Care Provisions</description>
+    </item>
+    <item>
+      <title>Houthi Attacks in the Red Sea: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12301</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12301-1</guid>
+      <description>Houthi Attacks in the Red Sea: Issues for Congress</description>
+    </item>
+    <item>
+      <title>Temporary Assistance for Needy Families (TANF) and Pregnancy Centers</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12302</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12302-1</guid>
+      <description>Temporary Assistance for Needy Families (TANF) and Pregnancy Centers</description>
+    </item>
+    <item>
+      <title>The Second Amendment and the Federal Prohibition on Unlawful Drug Users from Possessing Firearms</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11104</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11104-1</guid>
+      <description>The Second Amendment and the Federal Prohibition on Unlawful Drug Users from Possessing Firearms</description>
+    </item>
+    <item>
+      <title>The United States Courts of Appeals: Background and Circuit Splits from 2023</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47899</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47899-2</guid>
+      <description>The United States Courts of Appeals: Background and Circuit Splits from 2023</description>
+    </item>
+    <item>
+      <title>University Liability Under Title IX for Off-Campus Sexual Harassment</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11103</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11103-1</guid>
+      <description>University Liability Under Title IX for Off-Campus Sexual Harassment</description>
+    </item>
+    <item>
+      <title>'Fast Track' Senate Procedures for Considering Human Rights and Security Assistance Resolutions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12300</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12300-1</guid>
+      <description>'Fast Track' Senate Procedures for Considering Human Rights and Security Assistance Resolutions</description>
+    </item>
+    <item>
       <title>Digital Accessibility: Agencies Receive New Guidance from OMB</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12298</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
@@ -15,14 +99,14 @@
       <title>Ethiopia: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47898</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47898-2</guid>
+      <guid isPermaLink="false">R47898-3</guid>
       <description>Ethiopia: In Brief</description>
     </item>
     <item>
       <title>Federal Traffic Safety Programs: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R43026</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43026-7</guid>
+      <guid isPermaLink="false">R43026-8</guid>
       <description>Federal Traffic Safety Programs: In Brief</description>
     </item>
     <item>
@@ -36,7 +120,7 @@
       <title>Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47828</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47828-15</guid>
+      <guid isPermaLink="false">R47828-16</guid>
       <description>Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress</description>
     </item>
     <item>
@@ -57,7 +141,7 @@
       <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46336-34</guid>
+      <guid isPermaLink="false">R46336-35</guid>
       <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
     </item>
     <item>
@@ -78,7 +162,7 @@
       <title>Great Power Competition: Implications for Defense-Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R43838</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43838-98</guid>
+      <guid isPermaLink="false">R43838-99</guid>
       <description>Great Power Competition: Implications for Defense-Issues for Congress</description>
     </item>
     <item>
@@ -4737,13 +4821,6 @@
       <description>FY2024 Defense Appropriations: Summary of Proposed Funding</description>
     </item>
     <item>
-      <title>FY2024 NDAA: Reproductive Health Care Provisions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12236</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12236-2</guid>
-      <description>FY2024 NDAA: Reproductive Health Care Provisions</description>
-    </item>
-    <item>
       <title>Jewish Holidays: Fact Sheet</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45002</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
@@ -6926,83 +7003,6 @@
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46797-11</guid>
       <description>Finding Medicare Fee-For-Service (FFS) Payment System Rules: Schedules and Resources</description>
-    </item>
-    <item>
-      <title>Increasing Numbers of Unaccompanied Children at the Southwest Border</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11638</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11638-6</guid>
-      <description>Increasing Numbers of Unaccompanied Children at the Southwest Border</description>
-    </item>
-    <item>
-      <title>Introduction to Veterans Health Care </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10555</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10555-6</guid>
-      <description>Introduction to Veterans Health Care </description>
-    </item>
-    <item>
-      <title>New Zealand-U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10389</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10389-17</guid>
-      <description>New Zealand-U.S. Relations</description>
-    </item>
-    <item>
-      <title>Uganda</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10325</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10325-9</guid>
-      <description>Uganda</description>
-    </item>
-    <item>
-      <title>Wagner Group Mutiny in Russia</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12186</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12186-2</guid>
-      <description>Wagner Group Mutiny in Russia</description>
-    </item>
-    <item>
-      <title>Bureau of Reclamation Funding in the Inflation Reduction Act (P.L. 117-169)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12437</link>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12437-1</guid>
-      <description>Bureau of Reclamation Funding in the Inflation Reduction Act (P.L. 117-169)</description>
-    </item>
-    <item>
-      <title>South Africa-Russia Ties: A U.S. Response?</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12185</link>
-      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12185-1</guid>
-      <description>South Africa-Russia Ties: A U.S. Response?</description>
-    </item>
-    <item>
-      <title>Accommodation and Contempt of Congress: Two Oversight Case Studies</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12184</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12184-1</guid>
-      <description>Accommodation and Contempt of Congress: Two Oversight Case Studies</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 19-June 25, 2023), Part 1</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10984</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10984-4</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 19-June 25, 2023), Part 1</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 19-June 25, 2023), Part 2</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10992</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10992-1</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 19-June 25, 2023), Part 2</description>
-    </item>
-    <item>
-      <title>Federal Grant Technical Assistance: Definition, Use, and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47607</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47607-2</guid>
-      <description>Federal Grant Technical Assistance: Definition, Use, and Considerations for Congress</description>
     </item>
   </channel>
 </rss>
