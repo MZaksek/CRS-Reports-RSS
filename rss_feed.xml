@@ -5,17 +5,80 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Economic Development Administration (EDA) Disaster Recovery Funding</title>
+      <link>https://crsreports.congress.gov/product/pdf/IG/IG10045</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IG10045-1</guid>
+      <description>Economic Development Administration (EDA) Disaster Recovery Funding</description>
+    </item>
+    <item>
+      <title>Farm Bill Primer: Support for the Dairy Industry</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12202</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12202-3</guid>
+      <description>Farm Bill Primer: Support for the Dairy Industry</description>
+    </item>
+    <item>
+      <title>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12299</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12299-2</guid>
+      <description>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</description>
+    </item>
+    <item>
+      <title>Iran: Background and U.S. Policy </title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47321</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47321-9</guid>
+      <description>Iran: Background and U.S. Policy </description>
+    </item>
+    <item>
+      <title>Iraq: Attacks and U.S. Strikes Reopen Discussion of U.S. Military Presence </title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12309</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12309-1</guid>
+      <description>Iraq: Attacks and U.S. Strikes Reopen Discussion of U.S. Military Presence </description>
+    </item>
+    <item>
+      <title>Status of FY2024 Labor, Health and Human Services, and Education Appropriations: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47622</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47622-11</guid>
+      <description>Status of FY2024 Labor, Health and Human Services, and Education Appropriations: In Brief</description>
+    </item>
+    <item>
+      <title>The European Union: Questions and Answers</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS21372</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS21372-64</guid>
+      <description>The European Union: Questions and Answers</description>
+    </item>
+    <item>
+      <title>U.S.-EU Trade and Technology Council: Background and Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12575</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12575-1</guid>
+      <description>U.S.-EU Trade and Technology Council: Background and Issues</description>
+    </item>
+    <item>
+      <title>Venezuela: Overview of U.S. Sanctions Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10715</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10715-45</guid>
+      <description>Venezuela: Overview of U.S. Sanctions Policy</description>
+    </item>
+    <item>
       <title>Coast Guard Waterways Commerce Cutter (WCC) Program: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11672</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11672-34</guid>
+      <guid isPermaLink="false">IF11672-36</guid>
       <description>Coast Guard Waterways Commerce Cutter (WCC) Program: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Debt Limit Policy Questions: How Long Do Extraordinary Measures Last?</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12147</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12147-4</guid>
+      <guid isPermaLink="false">IN12147-5</guid>
       <description>Debt Limit Policy Questions: How Long Do Extraordinary Measures Last?</description>
     </item>
     <item>
@@ -36,14 +99,14 @@
       <title>The AI Executive Order and Considerations for Federal Privacy Policy</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12308</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12308-1</guid>
+      <guid isPermaLink="false">IN12308-2</guid>
       <description>The AI Executive Order and Considerations for Federal Privacy Policy</description>
     </item>
     <item>
       <title>The Impeachment Process in the House of Representatives</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45769</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45769-11</guid>
+      <guid isPermaLink="false">R45769-12</guid>
       <description>The Impeachment Process in the House of Representatives</description>
     </item>
     <item>
@@ -234,6 +297,13 @@
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47688-12</guid>
       <description>Department of Homeland Security Appropriations: FY2024 State of Play</description>
+    </item>
+    <item>
+      <title>EDA's Disaster Economic Recovery and Resiliency Roles </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12576</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12576-2</guid>
+      <description>EDA's Disaster Economic Recovery and Resiliency Roles </description>
     </item>
     <item>
       <title>Membership of the 118th Congress: A Profile</title>
@@ -600,13 +670,6 @@
       <description>The American Community Survey</description>
     </item>
     <item>
-      <title>Venezuela: Overview of U.S. Sanctions Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10715</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10715-44</guid>
-      <description>Venezuela: Overview of U.S. Sanctions Policy</description>
-    </item>
-    <item>
       <title>Defense Primer: Command and Control of Nuclear Forces</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10521</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
@@ -633,13 +696,6 @@
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12567-3</guid>
       <description>Election Policy Fundamentals: Single-Member House Districts</description>
-    </item>
-    <item>
-      <title>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12299</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12299-1</guid>
-      <description>Foreign Country Actions to Place the Israel-Hamas Conflict Before International Courts</description>
     </item>
     <item>
       <title>Houthi Attacks in the Red Sea: Issues for Congress</title>
@@ -1585,13 +1641,6 @@
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10472-32</guid>
       <description>North Korea's Nuclear Weapons and Missile Programs</description>
-    </item>
-    <item>
-      <title>Status of FY2024 Labor, Health and Human Services, and Education Appropriations: In Brief</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47622</link>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47622-10</guid>
-      <description>Status of FY2024 Labor, Health and Human Services, and Education Appropriations: In Brief</description>
     </item>
     <item>
       <title>'Who Says It's a Disaster?': Podcast Companion</title>
@@ -4189,13 +4238,6 @@
       <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11050-2</guid>
       <description>International Agreements (Part III): Transparency Measures</description>
-    </item>
-    <item>
-      <title>Iran: Background and U.S. Policy </title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47321</link>
-      <pubDate>Fri, 29 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47321-8</guid>
-      <description>Iran: Background and U.S. Policy </description>
     </item>
     <item>
       <title>Legal Issues in Impeachment Investigations, Part I: Authorization</title>
@@ -6961,48 +7003,6 @@
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12449-2</guid>
       <description>Connecting Constituents with Federal Assistance for Businesses</description>
-    </item>
-    <item>
-      <title>Frequently Asked Questions: Mapping of U.S. Ocean and Coastal Waters</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47623</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47623-2</guid>
-      <description>Frequently Asked Questions: Mapping of U.S. Ocean and Coastal Waters</description>
-    </item>
-    <item>
-      <title>Supreme Court Holds That Federal Labor Relations Authority Has Jurisdiction to Regulate State National Guards</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11005</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11005-1</guid>
-      <description>Supreme Court Holds That Federal Labor Relations Authority Has Jurisdiction to Regulate State National Guards</description>
-    </item>
-    <item>
-      <title>The Equal Rights Amendment: Background and Recent Legal Developments</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47619</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47619-1</guid>
-      <description>The Equal Rights Amendment: Background and Recent Legal Developments</description>
-    </item>
-    <item>
-      <title>The Future of the Universal Service Fund and Related Broadband Programs</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47621</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47621-2</guid>
-      <description>The Future of the Universal Service Fund and Related Broadband Programs</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 3, 2023-July 9, 2023)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11004</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11004-3</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 3, 2023-July 9, 2023)</description>
-    </item>
-    <item>
-      <title>Covert Action and Clandestine Activities of the Intelligence Community: Selected Congressional Notification Requirements</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45191</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45191-9</guid>
-      <description>Covert Action and Clandestine Activities of the Intelligence Community: Selected Congressional Notification Requirements</description>
     </item>
   </channel>
 </rss>
