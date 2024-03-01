@@ -5,6 +5,69 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Army Security Force Assistance Brigades (SFABs)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10675</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10675-21</guid>
+      <description>Army Security Force Assistance Brigades (SFABs)</description>
+    </item>
+    <item>
+      <title>Can the President 'Close the Border'? Relevant Laws and Considerations</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10283</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB10283-3</guid>
+      <description>Can the President 'Close the Border'? Relevant Laws and Considerations</description>
+    </item>
+    <item>
+      <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46336-36</guid>
+      <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
+    </item>
+    <item>
+      <title>ESEA: Charter Schools Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12601</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12601-1</guid>
+      <description>ESEA: Charter Schools Program</description>
+    </item>
+    <item>
+      <title>Farm Bill Primer: Budget Dynamics</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12233</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12233-8</guid>
+      <description>Farm Bill Primer: Budget Dynamics</description>
+    </item>
+    <item>
+      <title>Farm Bill Primer: What Is the Farm Bill?</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12047</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12047-8</guid>
+      <description>Farm Bill Primer: What Is the Farm Bill?</description>
+    </item>
+    <item>
+      <title>Overview of Public and Private School Choice Options</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10713</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10713-8</guid>
+      <description>Overview of Public and Private School Choice Options</description>
+    </item>
+    <item>
+      <title>U.S. Arms Sales and Human Rights: Legislative Basis and Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11197</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11197-11</guid>
+      <description>U.S. Arms Sales and Human Rights: Legislative Basis and Frequently Asked Questions</description>
+    </item>
+    <item>
+      <title>U.S.-Japan Critical Minerals Agreement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12517</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12517-5</guid>
+      <description>U.S.-Japan Critical Minerals Agreement</description>
+    </item>
+    <item>
       <title>Congressional Membership and Appointment Authority to Advisory Commissions, Boards, and Groups</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL33313</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
@@ -26,18 +89,32 @@
       <description>Foreign Entity of Concern Requirements in the Section 30D Clean Vehicle Credit</description>
     </item>
     <item>
+      <title>Great Power Competition: Implications for Defense-Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43838</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43838-100</guid>
+      <description>Great Power Competition: Implications for Defense-Issues for Congress</description>
+    </item>
+    <item>
       <title>House Office of Congressional Ethics: History, Authority, and Procedures</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R40760</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R40760-36</guid>
+      <guid isPermaLink="false">R40760-37</guid>
       <description>House Office of Congressional Ethics: History, Authority, and Procedures</description>
     </item>
     <item>
       <title>Iran's Petroleum Exports to China and U.S. Sanctions</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12267</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12267-3</guid>
+      <guid isPermaLink="false">IN12267-5</guid>
       <description>Iran's Petroleum Exports to China and U.S. Sanctions</description>
+    </item>
+    <item>
+      <title>Measuring Job Openings in the U.S. Labor Market</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11054</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11054-5</guid>
+      <description>Measuring Job Openings in the U.S. Labor Market</description>
     </item>
     <item>
       <title>Section 199A Deduction: Economic Effects and Policy Issues</title>
@@ -64,7 +141,7 @@
       <title>Social Security: The Windfall Elimination Provision (WEP) and the Government Pension Offset (GPO)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10203</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10203-17</guid>
+      <guid isPermaLink="false">IF10203-18</guid>
       <description>Social Security: The Windfall Elimination Provision (WEP) and the Government Pension Offset (GPO)</description>
     </item>
     <item>
@@ -92,7 +169,7 @@
       <title>Navy Ship Names: Background for Congress </title>
       <link>https://crsreports.congress.gov/product/pdf/RS/RS22478</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22478-261</guid>
+      <guid isPermaLink="false">RS22478-262</guid>
       <description>Navy Ship Names: Background for Congress </description>
     </item>
     <item>
@@ -141,7 +218,7 @@
       <title>Energy Tax Provisions: Overview and Budgetary Cost</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46865</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46865-3</guid>
+      <guid isPermaLink="false">R46865-4</guid>
       <description>Energy Tax Provisions: Overview and Budgetary Cost</description>
     </item>
     <item>
@@ -253,7 +330,7 @@
       <title>Taiwan: Background and U.S. Relations</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10275</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10275-78</guid>
+      <guid isPermaLink="false">IF10275-79</guid>
       <description>Taiwan: Background and U.S. Relations</description>
     </item>
     <item>
@@ -1734,13 +1811,6 @@
       <description>The Internal Revenue Service's Free File Program (FFP): Current Status and Policy Issues</description>
     </item>
     <item>
-      <title>U.S. Arms Sales and Human Rights: Legislative Basis and Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11197</link>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11197-10</guid>
-      <description>U.S. Arms Sales and Human Rights: Legislative Basis and Frequently Asked Questions</description>
-    </item>
-    <item>
       <title>U.S.-Papua New Guinea Relations: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11255</link>
       <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
@@ -2091,13 +2161,6 @@
       <description>Abolishing a Federal Agency: The Interstate Commerce Commission</description>
     </item>
     <item>
-      <title>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46336</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46336-35</guid>
-      <description>COVID-19: Potential Implications for International Security Environment-Overview of Issues and Further Reading for Congress</description>
-    </item>
-    <item>
       <title>Disqualification of a Candidate for the Presidency, Part II: Examining Section 3 of the Fourteenth Amendment as It Applies to Ballot Access</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11096</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
@@ -2110,13 +2173,6 @@
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46671-7</guid>
       <description>Federal Support for Law Enforcement: Selected Department of Justice Programs</description>
-    </item>
-    <item>
-      <title>Great Power Competition: Implications for Defense-Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43838</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43838-99</guid>
-      <description>Great Power Competition: Implications for Defense-Issues for Congress</description>
     </item>
     <item>
       <title>Peru: Country Overview and U.S. Relations</title>
@@ -3015,13 +3071,6 @@
       <description>The Retirement Savings Contribution Credit and the Saver's Match</description>
     </item>
     <item>
-      <title>U.S.-Japan Critical Minerals Agreement</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12517</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12517-4</guid>
-      <description>U.S.-Japan Critical Minerals Agreement</description>
-    </item>
-    <item>
       <title>Defense Primer: Cyberspace Operations</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10537</link>
       <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
@@ -3470,13 +3519,6 @@
       <description>Electricity Transmission: What Is the Role of the Federal Government?</description>
     </item>
     <item>
-      <title>Farm Bill Primer: Budget Dynamics</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12233</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12233-7</guid>
-      <description>Farm Bill Primer: Budget Dynamics</description>
-    </item>
-    <item>
       <title>Is ATF's Bump-Stock Ban Lawful? The Supreme Court Will Review</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10920</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
@@ -3608,13 +3650,6 @@
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12115-8</guid>
       <description>Farm Bill Primer: Programs Without Baseline Beyond FY2024</description>
-    </item>
-    <item>
-      <title>Farm Bill Primer: What Is the Farm Bill?</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12047</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12047-7</guid>
-      <description>Farm Bill Primer: What Is the Farm Bill?</description>
     </item>
     <item>
       <title>Federal Election Commission Administrative Fine Program</title>
@@ -6368,13 +6403,6 @@
       <description>Law Enforcement and Technology: Use of Unmanned Aircraft Systems</description>
     </item>
     <item>
-      <title>Army Security Force Assistance Brigades (SFABs)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10675</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10675-19</guid>
-      <description>Army Security Force Assistance Brigades (SFABs)</description>
-    </item>
-    <item>
       <title>China Primer: South China Sea Disputes</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10607</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
@@ -6732,13 +6760,6 @@
       <description>Deferred Maintenance of Federal Land Management Agencies: FY2013-FY2022 Estimates and Issues</description>
     </item>
     <item>
-      <title>Defining Active Ingredient: The U.S. Food and Drug Administration's Legal Interpretation of Regulatory Exclusivities</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46110</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46110-3</guid>
-      <description>Defining Active Ingredient: The U.S. Food and Drug Administration's Legal Interpretation of Regulatory Exclusivities</description>
-    </item>
-    <item>
       <title>Family Office Regulation in Light of the Archegos Fallout</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11825</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
@@ -6982,27 +7003,6 @@
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R43325-50</guid>
       <description>The Renewable Fuel Standard (RFS): An Overview</description>
-    </item>
-    <item>
-      <title>Experimental Populations Under the Endangered Species Act and Gray Wolves</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47581</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47581-5</guid>
-      <description>Experimental Populations Under the Endangered Species Act and Gray Wolves</description>
-    </item>
-    <item>
-      <title>Immigration Judge Hiring and Projected Impact on the Immigration Courts Backlog</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47637</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47637-2</guid>
-      <description>Immigration Judge Hiring and Projected Impact on the Immigration Courts Backlog</description>
-    </item>
-    <item>
-      <title>National Oceanic and Atmospheric Administration (NOAA): Overview and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47636</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47636-3</guid>
-      <description>National Oceanic and Atmospheric Administration (NOAA): Overview and Issues for Congress</description>
     </item>
   </channel>
 </rss>
