@@ -5,24 +5,80 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Central Valley Project: Issues and Legislation</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45342</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45342-40</guid>
+      <description>Central Valley Project: Issues and Legislation</description>
+    </item>
+    <item>
+      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (February 26-March 3, 2024)</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11123</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11123-1</guid>
+      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (February 26-March 3, 2024)</description>
+    </item>
+    <item>
+      <title>Indonesia</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10247</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10247-51</guid>
+      <description>Indonesia</description>
+    </item>
+    <item>
+      <title>The Federal Employee Paid Parental Leave Benefit</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12420</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12420-3</guid>
+      <description>The Federal Employee Paid Parental Leave Benefit</description>
+    </item>
+    <item>
+      <title>The Orphan Drug Act: Legal Overview and Policy Considerations </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12605</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12605-1</guid>
+      <description>The Orphan Drug Act: Legal Overview and Policy Considerations </description>
+    </item>
+    <item>
+      <title>U.S. Capital Markets and China: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11803</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11803-3</guid>
+      <description>U.S. Capital Markets and China: Issues for Congress</description>
+    </item>
+    <item>
+      <title>U.S. Indo-Pacific Command (INDOPACOM)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12604</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12604-1</guid>
+      <description>U.S. Indo-Pacific Command (INDOPACOM)</description>
+    </item>
+    <item>
+      <title>U.S.-Mexico-Canada (USMCA) Trade Agreement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10997</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10997-22</guid>
+      <description>U.S.-Mexico-Canada (USMCA) Trade Agreement</description>
+    </item>
+    <item>
       <title>Connecting Older Adults to Information on Benefits and Services</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47605</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47605-12</guid>
+      <guid isPermaLink="false">R47605-13</guid>
       <description>Connecting Older Adults to Information on Benefits and Services</description>
     </item>
     <item>
       <title>Defense Primer: Military Health System</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10530</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10530-13</guid>
+      <guid isPermaLink="false">IF10530-14</guid>
       <description>Defense Primer: Military Health System</description>
     </item>
     <item>
       <title>Foreign Ownership of U.S. Real Property: Developments in Shen v. Simpson</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11120</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11120-1</guid>
+      <guid isPermaLink="false">LSB11120-2</guid>
       <description>Foreign Ownership of U.S. Real Property: Developments in Shen v. Simpson</description>
     </item>
     <item>
@@ -31,6 +87,13 @@
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47943-1</guid>
       <description>Joint Employment and the National Labor Relations Act</description>
+    </item>
+    <item>
+      <title>K-12 Teacher Recruitment and Retention Policies in the Higher Education Act: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45914</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45914-3</guid>
+      <description>K-12 Teacher Recruitment and Retention Policies in the Higher Education Act: In Brief</description>
     </item>
     <item>
       <title>Presidential Immunity, Criminal Liability, and the Impeachment Judgment Clause</title>
@@ -92,7 +155,7 @@
       <title>Nuclear Cooperation with Other Countries: A Primer</title>
       <link>https://crsreports.congress.gov/product/pdf/RS/RS22937</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22937-79</guid>
+      <guid isPermaLink="false">RS22937-80</guid>
       <description>Nuclear Cooperation with Other Countries: A Primer</description>
     </item>
     <item>
@@ -127,7 +190,7 @@
       <title>The Future of the Universal Service Fund and Related Broadband Programs</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47621</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47621-3</guid>
+      <guid isPermaLink="false">R47621-4</guid>
       <description>The Future of the Universal Service Fund and Related Broadband Programs</description>
     </item>
     <item>
@@ -4380,13 +4443,6 @@
       <description>Greenhouse Gas Emission Reduction Pledges by Selected Countries: Nationally Determined Contributions and Net-Zero Legislation</description>
     </item>
     <item>
-      <title>Indonesia</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10247</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10247-50</guid>
-      <description>Indonesia</description>
-    </item>
-    <item>
       <title>Recreational Marijuana and Economic Development</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12529</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
@@ -6200,13 +6256,6 @@
       <description>Turkey (Türkiye): Possible U.S. Sale of F-16 Aircraft</description>
     </item>
     <item>
-      <title>U.S.-Mexico-Canada (USMCA) Trade Agreement</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10997</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10997-21</guid>
-      <description>U.S.-Mexico-Canada (USMCA) Trade Agreement</description>
-    </item>
-    <item>
       <title>Congressional and Executive Authority Over Foreign Trade Agreements</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47679</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
@@ -6954,55 +7003,6 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47645-3</guid>
       <description>U.S. Regional Fishery Management Councils</description>
-    </item>
-    <item>
-      <title>USDA's SECURE Rule to Regulate Agricultural Biotechnology</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11573</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11573-4</guid>
-      <description>USDA's SECURE Rule to Regulate Agricultural Biotechnology</description>
-    </item>
-    <item>
-      <title>Guam: Defense Infrastructure and Readiness</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47643</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47643-3</guid>
-      <description>Guam: Defense Infrastructure and Readiness</description>
-    </item>
-    <item>
-      <title>Independence of Federal Financial Regulators: Structure, Funding, and Other Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43391</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43391-17</guid>
-      <description>Independence of Federal Financial Regulators: Structure, Funding, and Other Issues</description>
-    </item>
-    <item>
-      <title>Overview of the Indictment of Former President Trump Related to the 2020 Election</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11016</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11016-1</guid>
-      <description>Overview of the Indictment of Former President Trump Related to the 2020 Election</description>
-    </item>
-    <item>
-      <title>Russia's Wagner Group in Africa: Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12389</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12389-5</guid>
-      <description>Russia's Wagner Group in Africa: Issues for Congress</description>
-    </item>
-    <item>
-      <title>Syria Conflict Overview: 2011-2021</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11080</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11080-6</guid>
-      <description>Syria Conflict Overview: 2011-2021</description>
-    </item>
-    <item>
-      <title>The Committee on Foreign Investment in the United States</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10177</link>
-      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10177-28</guid>
-      <description>The Committee on Foreign Investment in the United States</description>
     </item>
   </channel>
 </rss>
