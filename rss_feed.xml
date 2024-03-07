@@ -5,6 +5,20 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Panama: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10430</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10430-20</guid>
+      <description>Panama: An Overview</description>
+    </item>
+    <item>
+      <title>The Temporary Assistance for Needy Families (TANF) Block Grant: Responses to Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32760</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32760-224</guid>
+      <description>The Temporary Assistance for Needy Families (TANF) Block Grant: Responses to Frequently Asked Questions</description>
+    </item>
+    <item>
       <title>Central Valley Project: Issues and Legislation</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45342</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
@@ -26,10 +40,17 @@
       <description>Indonesia</description>
     </item>
     <item>
+      <title>Northern Ireland: The Peace Process, Ongoing Challenges, and U.S. Interests</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46259</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46259-12</guid>
+      <description>Northern Ireland: The Peace Process, Ongoing Challenges, and U.S. Interests</description>
+    </item>
+    <item>
       <title>The Federal Employee Paid Parental Leave Benefit</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12420</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12420-3</guid>
+      <guid isPermaLink="false">IF12420-4</guid>
       <description>The Federal Employee Paid Parental Leave Benefit</description>
     </item>
     <item>
@@ -43,14 +64,14 @@
       <title>U.S. Capital Markets and China: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11803</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11803-3</guid>
+      <guid isPermaLink="false">IF11803-4</guid>
       <description>U.S. Capital Markets and China: Issues for Congress</description>
     </item>
     <item>
       <title>U.S. Indo-Pacific Command (INDOPACOM)</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12604</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12604-1</guid>
+      <guid isPermaLink="false">IF12604-3</guid>
       <description>U.S. Indo-Pacific Command (INDOPACOM)</description>
     </item>
     <item>
@@ -136,6 +157,13 @@
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47935-2</guid>
       <description>Changes to the Drinking Water State Revolving Fund (DWSRF) Program</description>
+    </item>
+    <item>
+      <title>NASA Appropriations and Authorizations: A Fact Sheet</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43419</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43419-98</guid>
+      <description>NASA Appropriations and Authorizations: A Fact Sheet</description>
     </item>
     <item>
       <title>Navy Columbia (SSBN-826) Class Ballistic Missile Submarine Program: Background and Issues for Congress</title>
@@ -248,13 +276,6 @@
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10713-8</guid>
       <description>Overview of Public and Private School Choice Options</description>
-    </item>
-    <item>
-      <title>The Temporary Assistance for Needy Families (TANF) Block Grant: Responses to Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL32760</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL32760-222</guid>
-      <description>The Temporary Assistance for Needy Families (TANF) Block Grant: Responses to Frequently Asked Questions</description>
     </item>
     <item>
       <title>U.S. Arms Sales and Human Rights: Legislative Basis and Frequently Asked Questions</title>
@@ -1590,7 +1611,7 @@
       <title>History, Evolution, and Practices of the President's State of the Union Address: Frequently Asked Questions</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44770</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44770-23</guid>
+      <guid isPermaLink="false">R44770-24</guid>
       <description>History, Evolution, and Practices of the President's State of the Union Address: Frequently Asked Questions</description>
     </item>
     <item>
@@ -1935,13 +1956,6 @@
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47664-5</guid>
       <description>Interior, Environment, and Related Agencies: Overview of FY2024 Appropriations</description>
-    </item>
-    <item>
-      <title>NASA Appropriations and Authorizations: A Fact Sheet</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43419</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43419-96</guid>
-      <description>NASA Appropriations and Authorizations: A Fact Sheet</description>
     </item>
     <item>
       <title>The Section 199A Deduction: How It Works and Illustrative Examples</title>
@@ -6989,20 +7003,6 @@
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12463-5</guid>
       <description>PEPFAR Extension Act of 2018: Expiring Authorities</description>
-    </item>
-    <item>
-      <title>Supreme Court Rules Bankruptcy Code Abrogates Tribal Sovereign Immunity</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11017</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11017-1</guid>
-      <description>Supreme Court Rules Bankruptcy Code Abrogates Tribal Sovereign Immunity</description>
-    </item>
-    <item>
-      <title>U.S. Regional Fishery Management Councils</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47645</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47645-3</guid>
-      <description>U.S. Regional Fishery Management Councils</description>
     </item>
   </channel>
 </rss>
