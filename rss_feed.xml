@@ -5,10 +5,45 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Complete Streets: A Primer</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47947</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47947-1</guid>
+      <description>Complete Streets: A Primer</description>
+    </item>
+    <item>
+      <title>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/98-684</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">98-684-182</guid>
+      <description>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</description>
+    </item>
+    <item>
+      <title>Process for U.S. Army Corps of Engineers (USACE) Projects</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47946</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47946-1</guid>
+      <description>Process for U.S. Army Corps of Engineers (USACE) Projects</description>
+    </item>
+    <item>
+      <title>Slower Population Growth, Economic Growth, and U.S. Fiscal Prospects</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12327</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12327-1</guid>
+      <description>Slower Population Growth, Economic Growth, and U.S. Fiscal Prospects</description>
+    </item>
+    <item>
+      <title>Social Security: The Government Pension Offset (GPO)</title>
+      <link>https://crsreports.congress.gov/product/pdf/RL/RL32453</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RL32453-41</guid>
+      <description>Social Security: The Government Pension Offset (GPO)</description>
+    </item>
+    <item>
       <title>Panama: An Overview</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10430</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10430-20</guid>
+      <guid isPermaLink="false">IF10430-21</guid>
       <description>Panama: An Overview</description>
     </item>
     <item>
@@ -40,10 +75,17 @@
       <description>Indonesia</description>
     </item>
     <item>
+      <title>Measuring Wages in the Agricultural Sector for the H-2A Visa Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47944</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47944-2</guid>
+      <description>Measuring Wages in the Agricultural Sector for the H-2A Visa Program</description>
+    </item>
+    <item>
       <title>Northern Ireland: The Peace Process, Ongoing Challenges, and U.S. Interests</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46259</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46259-12</guid>
+      <guid isPermaLink="false">R46259-13</guid>
       <description>Northern Ireland: The Peace Process, Ongoing Challenges, and U.S. Interests</description>
     </item>
     <item>
@@ -57,14 +99,14 @@
       <title>The Orphan Drug Act: Legal Overview and Policy Considerations </title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12605</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12605-1</guid>
+      <guid isPermaLink="false">IF12605-2</guid>
       <description>The Orphan Drug Act: Legal Overview and Policy Considerations </description>
     </item>
     <item>
       <title>U.S. Capital Markets and China: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11803</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11803-4</guid>
+      <guid isPermaLink="false">IF11803-5</guid>
       <description>U.S. Capital Markets and China: Issues for Congress</description>
     </item>
     <item>
@@ -113,7 +155,7 @@
       <title>K-12 Teacher Recruitment and Retention Policies in the Higher Education Act: In Brief</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45914</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45914-3</guid>
+      <guid isPermaLink="false">R45914-4</guid>
       <description>K-12 Teacher Recruitment and Retention Policies in the Higher Education Act: In Brief</description>
     </item>
     <item>
@@ -1144,13 +1186,6 @@
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12353-3</guid>
       <description>Judiciary Budget Request, FY2024</description>
-    </item>
-    <item>
-      <title>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/98-684</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">98-684-181</guid>
-      <description>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</description>
     </item>
     <item>
       <title>National Park Service (NPS) Appropriations: Ten-Year Trends</title>
@@ -6968,41 +7003,6 @@
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11526-8</guid>
       <description>U.S.-Kenya Trade Negotiations</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 31, 2023-August 6, 2023)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11018</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11018-3</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (July 31, 2023-August 6, 2023)</description>
-    </item>
-    <item>
-      <title>Protection of Undersea Telecommunication Cables: Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47648</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47648-3</guid>
-      <description>Protection of Undersea Telecommunication Cables: Issues for Congress</description>
-    </item>
-    <item>
-      <title>Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47644</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47644-2</guid>
-      <description>Artificial Intelligence: Overview, Recent Advances, and Considerations for the 118th Congress</description>
-    </item>
-    <item>
-      <title>China and the Middle East and North Africa (MENA)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12469</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12469-1</guid>
-      <description>China and the Middle East and North Africa (MENA)</description>
-    </item>
-    <item>
-      <title>PEPFAR Extension Act of 2018: Expiring Authorities</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12463</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12463-5</guid>
-      <description>PEPFAR Extension Act of 2018: Expiring Authorities</description>
     </item>
   </channel>
 </rss>
