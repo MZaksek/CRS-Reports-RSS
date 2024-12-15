@@ -5,52 +5,1340 @@
     <link>https://crsreports.congress.gov/</link>
     <description>RSS Feed for reports published by the Congressional Research Service.</description>
     <item>
+      <title>Bureau of Reclamation WaterSMART Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12414</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12414-2</guid>
+      <description>Bureau of Reclamation WaterSMART Program</description>
+    </item>
+    <item>
+      <title>House of Representatives Vacancies: How Are They Filled?</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11722</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11722-2</guid>
+      <description>House of Representatives Vacancies: How Are They Filled?</description>
+    </item>
+    <item>
+      <title>Inaugural Tickets: Past Practices and Considerations for 2025</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11688</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11688-4</guid>
+      <description>Inaugural Tickets: Past Practices and Considerations for 2025</description>
+    </item>
+    <item>
+      <title>Infrastructure Spending and the District</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12849</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12849-1</guid>
+      <description>Infrastructure Spending and the District</description>
+    </item>
+    <item>
+      <title>Iran and Nuclear Weapons Production</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12106</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12106-15</guid>
+      <description>Iran and Nuclear Weapons Production</description>
+    </item>
+    <item>
+      <title>National Statuary Hall Collection: Background and Legislative Options</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R42812</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R42812-38</guid>
+      <description>National Statuary Hall Collection: Background and Legislative Options</description>
+    </item>
+    <item>
+      <title>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS20643</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS20643-292</guid>
+      <description>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Special Rules in the House of Representatives: Purpose and Content</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48308</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48308-1</guid>
+      <description>Special Rules in the House of Representatives: Purpose and Content</description>
+    </item>
+    <item>
+      <title>Syria: Regime Change, Transition, and U.S. Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12469</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12469-4</guid>
+      <description>Syria: Regime Change, Transition, and U.S. Policy</description>
+    </item>
+    <item>
+      <title>U.S. Health Care Coverage and Spending</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10830</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10830-16</guid>
+      <description>U.S. Health Care Coverage and Spending</description>
+    </item>
+    <item>
+      <title>U.S.-China Science and Technology Cooperation Agreement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12510</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12510-9</guid>
+      <description>U.S.-China Science and Technology Cooperation Agreement</description>
+    </item>
+    <item>
+      <title>Water Resources Development Acts: Primer and Action in the 118th Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11322</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11322-11</guid>
+      <description>Water Resources Development Acts: Primer and Action in the 118th Congress</description>
+    </item>
+    <item>
+      <title>A Summary of Federal Education Laws Administered by the U.S. Department of Education</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10551</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10551-8</guid>
+      <description>A Summary of Federal Education Laws Administered by the U.S. Department of Education</description>
+    </item>
+    <item>
+      <title>Arctic National Wildlife Refuge: Status of Oil and Gas Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12006</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12006-15</guid>
+      <description>Arctic National Wildlife Refuge: Status of Oil and Gas Program</description>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Patent Law</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11251</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11251-2</guid>
+      <description>Artificial Intelligence and Patent Law</description>
+    </item>
+    <item>
+      <title>Defense Primer: Department of Defense Pre-Positioned Materiel</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11699</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11699-8</guid>
+      <description>Defense Primer: Department of Defense Pre-Positioned Materiel</description>
+    </item>
+    <item>
+      <title>Defense Primer: Department of the Navy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10484</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10484-40</guid>
+      <description>Defense Primer: Department of the Navy</description>
+    </item>
+    <item>
+      <title>Defense Primer: Geography, Strategy, and U.S. Force Design</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10485</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10485-34</guid>
+      <description>Defense Primer: Geography, Strategy, and U.S. Force Design</description>
+    </item>
+    <item>
+      <title>Defense Primer: Naval Forces</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10486-50</guid>
+      <description>Defense Primer: Naval Forces</description>
+    </item>
+    <item>
+      <title>Defense Primer: Navy Distributed Maritime Operations (DMO) Concept</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12599</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12599-8</guid>
+      <description>Defense Primer: Navy Distributed Maritime Operations (DMO) Concept</description>
+    </item>
+    <item>
+      <title>Defense Primer: The Defense Logistics Agency</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11543</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11543-10</guid>
+      <description>Defense Primer: The Defense Logistics Agency</description>
+    </item>
+    <item>
+      <title>Defense Primer: United States Transportation Command</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11479</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11479-11</guid>
+      <description>Defense Primer: United States Transportation Command</description>
+    </item>
+    <item>
+      <title>Disaster Relief Fund State of Play: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47676</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47676-14</guid>
+      <description>Disaster Relief Fund State of Play: In Brief</description>
+    </item>
+    <item>
+      <title>Expiring Provisions of P.L. 115-97 (the Tax Cuts and Jobs Act): Economic Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48286</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48286-4</guid>
+      <description>Expiring Provisions of P.L. 115-97 (the Tax Cuts and Jobs Act): Economic Issues</description>
+    </item>
+    <item>
+      <title>FY2025 NDAA: Summary of Proposed Funding Authorizations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12404</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12404-4</guid>
+      <description>FY2025 NDAA: Summary of Proposed Funding Authorizations</description>
+    </item>
+    <item>
+      <title>Ghana: Current Issues and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47329</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47329-11</guid>
+      <description>Ghana: Current Issues and U.S. Relations</description>
+    </item>
+    <item>
+      <title>Hospital Ownership: Medicare Sources of Information</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12848</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12848-1</guid>
+      <description>Hospital Ownership: Medicare Sources of Information</description>
+    </item>
+    <item>
+      <title>Made in China 2025 and Industrial Policies: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10964</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10964-12</guid>
+      <description>Made in China 2025 and Industrial Policies: Issues for Congress</description>
+    </item>
+    <item>
+      <title>Membership of the 118th Congress: A Profile</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47470</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47470-25</guid>
+      <description>Membership of the 118th Congress: A Profile</description>
+    </item>
+    <item>
+      <title>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11679</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11679-44</guid>
+      <description>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43546</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43546-114</guid>
+      <description>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Light Replenishment Oiler (TAOL) Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11674</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11674-49</guid>
+      <description>Navy Light Replenishment Oiler (TAOL) Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11826</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11826-33</guid>
+      <description>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11838</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11838-30</guid>
+      <description>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Proposed Changes to Statutory Process for Reexamination of Congressional Reporting Requirements</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12471</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12471-2</guid>
+      <description>Proposed Changes to Statutory Process for Reexamination of Congressional Reporting Requirements</description>
+    </item>
+    <item>
+      <title>Sustainable Aviation Fuel (SAF): An Overview of Current Laws and Legislation Introduced in the 118th Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12757</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12757-3</guid>
+      <description>Sustainable Aviation Fuel (SAF): An Overview of Current Laws and Legislation Introduced in the 118th Congress</description>
+    </item>
+    <item>
+      <title>Sustainable Aviation Fuel (SAF): Production Pathways </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12847</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12847-4</guid>
+      <description>Sustainable Aviation Fuel (SAF): Production Pathways </description>
+    </item>
+    <item>
+      <title>United Nations Membership: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48306</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48306-2</guid>
+      <description>United Nations Membership: In Brief</description>
+    </item>
+    <item>
+      <title>Argentina: Overview and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48303</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48303-6</guid>
+      <description>Argentina: Overview and U.S. Relations</description>
+    </item>
+    <item>
+      <title>Critical Minerals on the U.S. Outer Continental Shelf: The Bureau of Ocean Energy Management's Role and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48302</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48302-2</guid>
+      <description>Critical Minerals on the U.S. Outer Continental Shelf: The Bureau of Ocean Energy Management's Role and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Defense Primer: President's Constitutional Authority with Regard to the Armed Forces</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10534</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10534-11</guid>
+      <description>Defense Primer: President's Constitutional Authority with Regard to the Armed Forces</description>
+    </item>
+    <item>
+      <title>Desalination: Converting Saline Water into a Municipal Water Source</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12378</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12378-2</guid>
+      <description>Desalination: Converting Saline Water into a Municipal Water Source</description>
+    </item>
+    <item>
+      <title>F-35 Lightning II: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48304</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48304-4</guid>
+      <description>F-35 Lightning II: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Selected Issues in Tax Reform: The Estate and Gift Tax</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12846</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12846-1</guid>
+      <description>Selected Issues in Tax Reform: The Estate and Gift Tax</description>
+    </item>
+    <item>
+      <title>The Minority Business Development Agency's Rural Business Center Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12845</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12845-3</guid>
+      <description>The Minority Business Development Agency's Rural Business Center Program</description>
+    </item>
+    <item>
+      <title>A Guide to Major Congressional and Presidential Awards</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47020</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47020-9</guid>
+      <description>A Guide to Major Congressional and Presidential Awards</description>
+    </item>
+    <item>
+      <title>Defense Primer: Military Officers</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10685</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10685-17</guid>
+      <description>Defense Primer: Military Officers</description>
+    </item>
+    <item>
+      <title>FY2025 NDAA: Status of Legislative Activity</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12405</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12405-5</guid>
+      <description>FY2025 NDAA: Status of Legislative Activity</description>
+    </item>
+    <item>
+      <title>House Standing Committee Chairs and Ranking Members: 104th-117th Congresses</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47284</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47284-4</guid>
+      <description>House Standing Committee Chairs and Ranking Members: 104th-117th Congresses</description>
+    </item>
+    <item>
+      <title>Improper Payments: Ongoing Challenges and Recent Legislative Proposals</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48296</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48296-2</guid>
+      <description>Improper Payments: Ongoing Challenges and Recent Legislative Proposals</description>
+    </item>
+    <item>
+      <title>Regulation of U.S. Outbound Investment to China</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12629</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12629-7</guid>
+      <description>Regulation of U.S. Outbound Investment to China</description>
+    </item>
+    <item>
+      <title>Section 307 and Imports Produced by Forced Labor </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11360</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11360-15</guid>
+      <description>Section 307 and Imports Produced by Forced Labor </description>
+    </item>
+    <item>
+      <title>Social Security: Finances and Policy Options</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12844</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12844-1</guid>
+      <description>Social Security: Finances and Policy Options</description>
+    </item>
+    <item>
+      <title>State Laws Restricting or Prohibiting Abortion</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47595</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47595-17</guid>
+      <description>State Laws Restricting or Prohibiting Abortion</description>
+    </item>
+    <item>
+      <title>Statistics on Women in National Governments Around the World</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45483</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45483-31</guid>
+      <description>Statistics on Women in National Governments Around the World</description>
+    </item>
+    <item>
+      <title>The Backlog of Requests for Aid from the Federal Highway Administration's Emergency Relief Program</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48297</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48297-2</guid>
+      <description>The Backlog of Requests for Aid from the Federal Highway Administration's Emergency Relief Program</description>
+    </item>
+    <item>
+      <title>The Committee Markup Process in the Senate</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48298</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48298-2</guid>
+      <description>The Committee Markup Process in the Senate</description>
+    </item>
+    <item>
+      <title>Committee on Foreign Investment in the United States (CFIUS)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10177</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10177-36</guid>
+      <description>Committee on Foreign Investment in the United States (CFIUS)</description>
+    </item>
+    <item>
+      <title>Congressional Court Watcher: Circuit Splits from November 2024</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11250</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11250-1</guid>
+      <description>Congressional Court Watcher: Circuit Splits from November 2024</description>
+    </item>
+    <item>
+      <title>D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12470</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12470-3</guid>
+      <description>D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act</description>
+    </item>
+    <item>
+      <title>Federal Research and Development (R&amp;D) Funding: FY2025</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48307</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48307-2</guid>
+      <description>Federal Research and Development (R&amp;D) Funding: FY2025</description>
+    </item>
+    <item>
+      <title>Terrorist Financing: Hamas and Cryptocurrency Fundraising</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12537</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12537-3</guid>
+      <description>Terrorist Financing: Hamas and Cryptocurrency Fundraising</description>
+    </item>
+    <item>
+      <title>The Consumer Financial Protection Bureau Budget: Background, Trends, and Policy Options</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48295</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48295-2</guid>
+      <description>The Consumer Financial Protection Bureau Budget: Background, Trends, and Policy Options</description>
+    </item>
+    <item>
+      <title>The Federal Taxing Power: A Primer</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46551</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46551-3</guid>
+      <description>The Federal Taxing Power: A Primer</description>
+    </item>
+    <item>
+      <title>U.S. Anti-Personnel Landmine Use Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11440</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11440-11</guid>
+      <description>U.S. Anti-Personnel Landmine Use Policy</description>
+    </item>
+    <item>
+      <title>U.S.-China Trade Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11284</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11284-26</guid>
+      <description>U.S.-China Trade Relations</description>
+    </item>
+    <item>
+      <title>1963 March on Washington for Jobs and Freedom: Fact Sheet</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47655</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47655-3</guid>
+      <description>1963 March on Washington for Jobs and Freedom: Fact Sheet</description>
+    </item>
+    <item>
+      <title>Defense Primer: Concurrent Receipt of Military Retirement and VA Disability</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10594</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10594-12</guid>
+      <description>Defense Primer: Concurrent Receipt of Military Retirement and VA Disability</description>
+    </item>
+    <item>
+      <title>Defense Primer: Defense and Intelligence Unfunded Priorities</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11964</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11964-5</guid>
+      <description>Defense Primer: Defense and Intelligence Unfunded Priorities</description>
+    </item>
+    <item>
+      <title>Defense Primer: Defense Appropriations Process</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10514</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10514-15</guid>
+      <description>Defense Primer: Defense Appropriations Process</description>
+    </item>
+    <item>
+      <title>Defense Primer: Defense Working Capital Funds</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11233</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11233-11</guid>
+      <description>Defense Primer: Defense Working Capital Funds</description>
+    </item>
+    <item>
+      <title>Defense Primer: DOD Domestic School System</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10335</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10335-12</guid>
+      <description>Defense Primer: DOD Domestic School System</description>
+    </item>
+    <item>
+      <title>Defense Primer: DOD Transfer and Reprogramming Authorities</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11243</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11243-9</guid>
+      <description>Defense Primer: DOD Transfer and Reprogramming Authorities</description>
+    </item>
+    <item>
+      <title>Defense Primer: Junior Reserve Officers' Training Corps </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11313</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11313-17</guid>
+      <description>Defense Primer: Junior Reserve Officers' Training Corps </description>
+    </item>
+    <item>
+      <title>Defense Primer: Military Retirement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10483</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10483-17</guid>
+      <description>Defense Primer: Military Retirement</description>
+    </item>
+    <item>
+      <title>Defense Primer: Military Separation and Severance Pay</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12042</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12042-7</guid>
+      <description>Defense Primer: Military Separation and Severance Pay</description>
+    </item>
+    <item>
+      <title>Defense Primer: Military Service Academies</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11788</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11788-10</guid>
+      <description>Defense Primer: Military Service Academies</description>
+    </item>
+    <item>
+      <title>Defense Primer: Personnel Tempo (PERSTEMPO)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11007</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11007-15</guid>
+      <description>Defense Primer: Personnel Tempo (PERSTEMPO)</description>
+    </item>
+    <item>
+      <title>Defense Primer: Planning, Programming, Budgeting, and Execution (PPBE) Process</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10429</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10429-16</guid>
+      <description>Defense Primer: Planning, Programming, Budgeting, and Execution (PPBE) Process</description>
+    </item>
+    <item>
+      <title>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/98-684</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">98-684-198</guid>
+      <description>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</description>
+    </item>
+    <item>
+      <title>Montana's TikTok Ban Goes Before the Ninth Circuit</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11166</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11166-4</guid>
+      <description>Montana's TikTok Ban Goes Before the Ninth Circuit</description>
+    </item>
+    <item>
+      <title>The Army's Self-Propelled Howitzer Modernization (SPH-M) Effort</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12772</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12772-6</guid>
+      <description>The Army's Self-Propelled Howitzer Modernization (SPH-M) Effort</description>
+    </item>
+    <item>
+      <title>The Director of National Intelligence (DNI)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10470</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10470-17</guid>
+      <description>The Director of National Intelligence (DNI)</description>
+    </item>
+    <item>
+      <title>The Occupational Safety and Health Act of 1970 (OSH Act): A Legal Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48292</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48292-2</guid>
+      <description>The Occupational Safety and Health Act of 1970 (OSH Act): A Legal Overview</description>
+    </item>
+    <item>
+      <title>The U.S. Marine Corps Marine Littoral Regiment (MLR)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12200</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12200-14</guid>
+      <description>The U.S. Marine Corps Marine Littoral Regiment (MLR)</description>
+    </item>
+    <item>
+      <title>U.S.-China Competition in Emerging Technologies: LiDAR</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12473</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12473-6</guid>
+      <description>U.S.-China Competition in Emerging Technologies: LiDAR</description>
+    </item>
+    <item>
+      <title>U.S.-Mexico-Canada (USMCA) Trade Agreement</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10997</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10997-24</guid>
+      <description>U.S.-Mexico-Canada (USMCA) Trade Agreement</description>
+    </item>
+    <item>
+      <title>U.S.-North Korea Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10246</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10246-24</guid>
+      <description>U.S.-North Korea Relations</description>
+    </item>
+    <item>
+      <title>U.S.-Taiwan Trade and Economic Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10256</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10256-24</guid>
+      <description>U.S.-Taiwan Trade and Economic Relations</description>
+    </item>
+    <item>
+      <title>USMCA: Automotive Rules of Origin</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12082</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12082-8</guid>
+      <description>USMCA: Automotive Rules of Origin</description>
+    </item>
+    <item>
+      <title>Artemis: NASA's Program to Return Humans to the Moon</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11643</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11643-18</guid>
+      <description>Artemis: NASA's Program to Return Humans to the Moon</description>
+    </item>
+    <item>
+      <title>Bank Holding Companies: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48291</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48291-2</guid>
+      <description>Bank Holding Companies: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Budgetary Decisionmaking in Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11032</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11032-5</guid>
+      <description>Budgetary Decisionmaking in Congress</description>
+    </item>
+    <item>
+      <title>Defense Primer: U.S. Precision-Guided Munitions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11353</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11353-16</guid>
+      <description>Defense Primer: U.S. Precision-Guided Munitions</description>
+    </item>
+    <item>
+      <title>Federal Aviation Administration Oversight of Boeing</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12843</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12843-2</guid>
+      <description>Federal Aviation Administration Oversight of Boeing</description>
+    </item>
+    <item>
+      <title>Funding Limits on Federal Prosecutions of State-Legal Medical Marijuana</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10694</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB10694-5</guid>
+      <description>Funding Limits on Federal Prosecutions of State-Legal Medical Marijuana</description>
+    </item>
+    <item>
+      <title>India-U.S.: Major Arms Transfers and Military Exercises</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12438</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12438-23</guid>
+      <description>India-U.S.: Major Arms Transfers and Military Exercises</description>
+    </item>
+    <item>
+      <title>Israel: Major Issues and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44245</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44245-145</guid>
+      <description>Israel: Major Issues and U.S. Relations</description>
+    </item>
+    <item>
+      <title>Plastic Pollution and Policy Considerations: Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48293</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48293-4</guid>
+      <description>Plastic Pollution and Policy Considerations: Frequently Asked Questions</description>
+    </item>
+    <item>
+      <title>Syria: Conflict Resurgence </title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12467</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12467-4</guid>
+      <description>Syria: Conflict Resurgence </description>
+    </item>
+    <item>
+      <title>Temporary Protected Status and Deferred Enforced Departure</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS20844</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS20844-78</guid>
+      <description>Temporary Protected Status and Deferred Enforced Departure</description>
+    </item>
+    <item>
+      <title>CrowdStrike IT Outage: Impacts to Public Safety Systems and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12717</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12717-2</guid>
+      <description>CrowdStrike IT Outage: Impacts to Public Safety Systems and Considerations for Congress</description>
+    </item>
+    <item>
+      <title>Cybersecurity and Digital Health Information </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12591</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12591-3</guid>
+      <description>Cybersecurity and Digital Health Information </description>
+    </item>
+    <item>
+      <title>Defense Primer: U.S. Space Command</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12840</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12840-8</guid>
+      <description>Defense Primer: U.S. Space Command</description>
+    </item>
+    <item>
+      <title>Enhanced Premium Tax Credit Expiration: Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48290</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48290-2</guid>
+      <description>Enhanced Premium Tax Credit Expiration: Frequently Asked Questions</description>
+    </item>
+    <item>
+      <title>Lebanese Hezbollah</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10703</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10703-14</guid>
+      <description>Lebanese Hezbollah</description>
+    </item>
+    <item>
+      <title>Market-Based Greenhouse Gas Emission Reduction Legislation: 108th Through 118th Congresses</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45472</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45472-26</guid>
+      <description>Market-Based Greenhouse Gas Emission Reduction Legislation: 108th Through 118th Congresses</description>
+    </item>
+    <item>
+      <title>Mexico's Migration Control Efforts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10215</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10215-29</guid>
+      <description>Mexico's Migration Control Efforts</description>
+    </item>
+    <item>
+      <title>Nicaragua: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48294</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48294-2</guid>
+      <description>Nicaragua: In Brief</description>
+    </item>
+    <item>
+      <title>Patent-Eligible Subject Matter Reform: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12563</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12563-3</guid>
+      <description>Patent-Eligible Subject Matter Reform: An Overview</description>
+    </item>
+    <item>
+      <title>Research Security Policies: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12589</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12589-3</guid>
+      <description>Research Security Policies: An Overview</description>
+    </item>
+    <item>
+      <title>The POWER Initiative: Energy Transition as Economic Development</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R46015</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R46015-11</guid>
+      <description>The POWER Initiative: Energy Transition as Economic Development</description>
+    </item>
+    <item>
+      <title>Types of Private Sector Defined Contribution Plans</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12839</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12839-3</guid>
+      <description>Types of Private Sector Defined Contribution Plans</description>
+    </item>
+    <item>
+      <title>U.S.-Papua New Guinea Relations: Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11255</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11255-11</guid>
+      <description>U.S.-Papua New Guinea Relations: Issues for Congress</description>
+    </item>
+    <item>
+      <title>Appellate Courts Divided Over School Employee Discrimination Lawsuits and Title IX</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11248</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11248-2</guid>
+      <description>Appellate Courts Divided Over School Employee Discrimination Lawsuits and Title IX</description>
+    </item>
+    <item>
+      <title>Child Migrants at the Border: The Flores Settlement Agreement and Other Legal Developments</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11799</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11799-2</guid>
+      <description>Child Migrants at the Border: The Flores Settlement Agreement and Other Legal Developments</description>
+    </item>
+    <item>
+      <title>Class-Wide Scheduling of Fentanyl-Related Substances (FRS)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12468</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12468-1</guid>
+      <description>Class-Wide Scheduling of Fentanyl-Related Substances (FRS)</description>
+    </item>
+    <item>
+      <title>Columbia River Treaty</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R43287</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R43287-30</guid>
+      <description>Columbia River Treaty</description>
+    </item>
+    <item>
+      <title>Congressional Oversight and Investigations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10015</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10015-6</guid>
+      <description>Congressional Oversight and Investigations</description>
+    </item>
+    <item>
+      <title>Defense Primer: Military Enlisted Personnel</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10684</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10684-18</guid>
+      <description>Defense Primer: Military Enlisted Personnel</description>
+    </item>
+    <item>
+      <title>Funding the State Administration of Unemployment Compensation (UC) Benefits</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10838</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10838-10</guid>
+      <description>Funding the State Administration of Unemployment Compensation (UC) Benefits</description>
+    </item>
+    <item>
+      <title>H5N1 HPAI Continues to Spread in Dairy Herds</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12837</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12837-3</guid>
+      <description>H5N1 HPAI Continues to Spread in Dairy Herds</description>
+    </item>
+    <item>
+      <title>Indian Water Rights Settlements</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R44148</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R44148-32</guid>
+      <description>Indian Water Rights Settlements</description>
+    </item>
+    <item>
+      <title>Interagency Working Group (IWG) on Coal and Power Plant Communities and Economic Revitalization Activities, 2023-2024</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12465</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12465-2</guid>
+      <description>Interagency Working Group (IWG) on Coal and Power Plant Communities and Economic Revitalization Activities, 2023-2024</description>
+    </item>
+    <item>
+      <title>Nuclear Energy: Overview of Congressional Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R42853</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R42853-39</guid>
+      <description>Nuclear Energy: Overview of Congressional Issues</description>
+    </item>
+    <item>
+      <title>Presidential Transitions: Security Clearance Background Investigations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12836</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12836-1</guid>
+      <description>Presidential Transitions: Security Clearance Background Investigations</description>
+    </item>
+    <item>
+      <title>Pricing and March-In Rights Under the Bayh-Dole Act</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12582</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12582-3</guid>
+      <description>Pricing and March-In Rights Under the Bayh-Dole Act</description>
+    </item>
+    <item>
+      <title>Selected Issues in Tax Policy: Section 199A Deduction for Pass-Through Business Income</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12838</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12838-1</guid>
+      <description>Selected Issues in Tax Policy: Section 199A Deduction for Pass-Through Business Income</description>
+    </item>
+    <item>
+      <title>Stun Guns, TASERs, and other Conducted Energy Devices: Issues for Congress </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12841</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12841-3</guid>
+      <description>Stun Guns, TASERs, and other Conducted Energy Devices: Issues for Congress </description>
+    </item>
+    <item>
+      <title>The Advisory Committee on Immunization Practices (ACIP)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12317</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12317-3</guid>
+      <description>The Advisory Committee on Immunization Practices (ACIP)</description>
+    </item>
+    <item>
+      <title>The Child Care and Development Block Grant: In Brief</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47312</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47312-10</guid>
+      <description>The Child Care and Development Block Grant: In Brief</description>
+    </item>
+    <item>
+      <title>The Rice's Whale: Conservation Efforts, Implications for Ocean Sectors, and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12835</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12835-2</guid>
+      <description>The Rice's Whale: Conservation Efforts, Implications for Ocean Sectors, and Considerations for Congress</description>
+    </item>
+    <item>
+      <title>Clean Vehicle Tax Credit Transfers to Car Dealers</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12570</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12570-2</guid>
+      <description>Clean Vehicle Tax Credit Transfers to Car Dealers</description>
+    </item>
+    <item>
+      <title>DOD Replicator Initiative: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12611</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12611-8</guid>
+      <description>DOD Replicator Initiative: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Fact Sheet: Congressional Votes Relating to the Israel-Hamas Conflict</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48289</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48289-4</guid>
+      <description>Fact Sheet: Congressional Votes Relating to the Israel-Hamas Conflict</description>
+    </item>
+    <item>
+      <title>FEMA: Increased Demand and Capacity Strains</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12834</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12834-5</guid>
+      <description>FEMA: Increased Demand and Capacity Strains</description>
+    </item>
+    <item>
+      <title>Human Rights in China and U.S. Policy</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48288</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48288-2</guid>
+      <description>Human Rights in China and U.S. Policy</description>
+    </item>
+    <item>
+      <title>Hypersonic Weapons: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45811</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45811-43</guid>
+      <description>Hypersonic Weapons: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Laos</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10236</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10236-8</guid>
+      <description>Laos</description>
+    </item>
+    <item>
+      <title>Political Rebalance in Tokyo and U.S.-Japan Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12466</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12466-15</guid>
+      <description>Political Rebalance in Tokyo and U.S.-Japan Relations</description>
+    </item>
+    <item>
+      <title>Post-Disaster and Pre-Disaster Hazard Mitigation Assistance </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12833</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12833-2</guid>
+      <description>Post-Disaster and Pre-Disaster Hazard Mitigation Assistance </description>
+    </item>
+    <item>
+      <title>Sri Lanka: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10213</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10213-26</guid>
+      <description>Sri Lanka: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>The Dark Web: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12172</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12172-3</guid>
+      <description>The Dark Web: An Overview</description>
+    </item>
+    <item>
+      <title>The Impact of the 'Securing the Border' Rule on Migrant Encounters and Processing</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12417</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12417-4</guid>
+      <description>The Impact of the 'Securing the Border' Rule on Migrant Encounters and Processing</description>
+    </item>
+    <item>
+      <title>The North Atlantic Right Whale: Conservation Trade-Offs with Selected Marine Sectors and Considerations for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12776</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12776-4</guid>
+      <description>The North Atlantic Right Whale: Conservation Trade-Offs with Selected Marine Sectors and Considerations for Congress</description>
+    </item>
+    <item>
+      <title>Gene-Edited Plants: Regulation and Issues for Congress </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12618</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12618-3</guid>
+      <description>Gene-Edited Plants: Regulation and Issues for Congress </description>
+    </item>
+    <item>
+      <title>Current Status of Federal Disaster Relief Accounts</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12811</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12811-4</guid>
+      <description>Current Status of Federal Disaster Relief Accounts</description>
+    </item>
+    <item>
+      <title>Defense Primer: Cyberspace Operations</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10537</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10537-12</guid>
+      <description>Defense Primer: Cyberspace Operations</description>
+    </item>
+    <item>
+      <title>Defense Primer: Operations in the Information Environment</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10771</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10771-11</guid>
+      <description>Defense Primer: Operations in the Information Environment</description>
+    </item>
+    <item>
+      <title>Defense Primer: What Is Irregular Warfare?</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12565</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12565-5</guid>
+      <description>Defense Primer: What Is Irregular Warfare?</description>
+    </item>
+    <item>
+      <title>DOE's Carbon Capture and Storage (CCS) and Carbon Removal Programs</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11861</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11861-10</guid>
+      <description>DOE's Carbon Capture and Storage (CCS) and Carbon Removal Programs</description>
+    </item>
+    <item>
+      <title>Fiji: Background and Issues Facing Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12831</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12831-2</guid>
+      <description>Fiji: Background and Issues Facing Congress</description>
+    </item>
+    <item>
+      <title>Use of Force in Cyberspace</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11995</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11995-7</guid>
+      <description>Use of Force in Cyberspace</description>
+    </item>
+    <item>
+      <title>Deficits, Debt, and the Debt Limit in 2025</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12830</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12830-2</guid>
+      <description>Deficits, Debt, and the Debt Limit in 2025</description>
+    </item>
+    <item>
+      <title>Afghan Women and Girls: Status and Congressional Action </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11646</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11646-14</guid>
+      <description>Afghan Women and Girls: Status and Congressional Action </description>
+    </item>
+    <item>
+      <title>Caribbean Basin Security Initiative</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10789</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10789-32</guid>
+      <description>Caribbean Basin Security Initiative</description>
+    </item>
+    <item>
+      <title>The Evolving Strategy to Combat Transnational Organized Crime</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12829</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12829-2</guid>
+      <description>The Evolving Strategy to Combat Transnational Organized Crime</description>
+    </item>
+    <item>
+      <title>The Intelligence Community's Foreign Malign Influence Center</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12470</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12470-6</guid>
+      <description>The Intelligence Community's Foreign Malign Influence Center</description>
+    </item>
+    <item>
+      <title>Cluster Munitions: Background and Issues for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/RS/RS22907</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">RS22907-51</guid>
+      <description>Cluster Munitions: Background and Issues for Congress</description>
+    </item>
+    <item>
+      <title>Colombia: Background and U.S. Relations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48287</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48287-2</guid>
+      <description>Colombia: Background and U.S. Relations</description>
+    </item>
+    <item>
+      <title>Considerations for a Federal Criminal Prohibition on Hazing</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11247</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">LSB11247-2</guid>
+      <description>Considerations for a Federal Criminal Prohibition on Hazing</description>
+    </item>
+    <item>
+      <title>Disclosure of International Travel by Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10142</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10142-4</guid>
+      <description>Disclosure of International Travel by Congress</description>
+    </item>
+    <item>
+      <title>Immigration Courts: Decline in New Cases at the End of FY2024</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12463</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12463-2</guid>
+      <description>Immigration Courts: Decline in New Cases at the End of FY2024</description>
+    </item>
+    <item>
+      <title>Legislative Evolution of U.S. Secret Service</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48138</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48138-4</guid>
+      <description>Legislative Evolution of U.S. Secret Service</description>
+    </item>
+    <item>
+      <title>Marginal Effective Tax Rates on Investment and the Expiring 2017 Tax Cuts</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48153</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48153-4</guid>
+      <description>Marginal Effective Tax Rates on Investment and the Expiring 2017 Tax Cuts</description>
+    </item>
+    <item>
+      <title>Marine Debris: NOAA's Role</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10967</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10967-10</guid>
+      <description>Marine Debris: NOAA's Role</description>
+    </item>
+    <item>
+      <title>Moldova: An Overview</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10894</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10894-23</guid>
+      <description>Moldova: An Overview</description>
+    </item>
+    <item>
+      <title>Overview of Dairy Cooperatives</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48285</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48285-2</guid>
+      <description>Overview of Dairy Cooperatives</description>
+    </item>
+    <item>
+      <title>Russia's Nuclear and Coercive Signaling During the War in Ukraine</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN12464</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN12464-1</guid>
+      <description>Russia's Nuclear and Coercive Signaling During the War in Ukraine</description>
+    </item>
+    <item>
+      <title>The Congressional Budget Resolution: Frequently Asked Questions</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48284</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48284-5</guid>
+      <description>The Congressional Budget Resolution: Frequently Asked Questions</description>
+    </item>
+    <item>
+      <title>The International Emergency Economic Powers Act (IEEPA) and Tariffs: Historical Background and Key Issues</title>
+      <link>https://crsreports.congress.gov/product/pdf/IN/IN11129</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IN11129-12</guid>
+      <description>The International Emergency Economic Powers Act (IEEPA) and Tariffs: Historical Background and Key Issues</description>
+    </item>
+    <item>
+      <title>The U.S. Army's Small Uncrewed Aircraft Systems</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12668</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12668-2</guid>
+      <description>The U.S. Army's Small Uncrewed Aircraft Systems</description>
+    </item>
+    <item>
+      <title>Tornadoes: Background and Forecasting</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12695</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12695-3</guid>
+      <description>Tornadoes: Background and Forecasting</description>
+    </item>
+    <item>
+      <title>U.S. Interest in Seabed Mining in Areas Beyond National Jurisdiction: Brief Background and Recent Developments</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12608</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12608-6</guid>
+      <description>U.S. Interest in Seabed Mining in Areas Beyond National Jurisdiction: Brief Background and Recent Developments</description>
+    </item>
+    <item>
+      <title>Congressional Votes on Free Trade Agreements and Trade Promotion Authority</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R45846</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R45846-12</guid>
+      <description>Congressional Votes on Free Trade Agreements and Trade Promotion Authority</description>
+    </item>
+    <item>
+      <title>Consumer-Style Protections for Small Businesses: Issues and Options for Congress</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48281</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48281-2</guid>
+      <description>Consumer-Style Protections for Small Businesses: Issues and Options for Congress</description>
+    </item>
+    <item>
+      <title>Defense Primer: FY2024 Department of Defense Audit Results</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12627</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12627-7</guid>
+      <description>Defense Primer: FY2024 Department of Defense Audit Results</description>
+    </item>
+    <item>
+      <title>Direct Loan Program Student Loans: Loan Types and Limits</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12828</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12828-1</guid>
+      <description>Direct Loan Program Student Loans: Loan Types and Limits</description>
+    </item>
+    <item>
+      <title>GILTI: Proposed Changes in the Taxation of Global Intangible Low-Taxed Income</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF11943</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF11943-5</guid>
+      <description>GILTI: Proposed Changes in the Taxation of Global Intangible Low-Taxed Income</description>
+    </item>
+    <item>
+      <title>Reauthorization of the U.S. Fire Administration and of the Assistance to Firefighters Grant (AFG) and Staffing for Adequate Fire and Emergency Response (SAFER) Programs</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48283</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R48283-4</guid>
+      <description>Reauthorization of the U.S. Fire Administration and of the Assistance to Firefighters Grant (AFG) and Staffing for Adequate Fire and Emergency Response (SAFER) Programs</description>
+    </item>
+    <item>
+      <title>The Accessibility of Federal Information and Data: A Brief Overview of Section 508 of the Rehabilitation Act</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12093</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12093-6</guid>
+      <description>The Accessibility of Federal Information and Data: A Brief Overview of Section 508 of the Rehabilitation Act</description>
+    </item>
+    <item>
+      <title>The Pacific Deterrence Initiative</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12303</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12303-4</guid>
+      <description>The Pacific Deterrence Initiative</description>
+    </item>
+    <item>
+      <title>Defense Primer: Future Years Defense Program (FYDP)</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF10831</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF10831-16</guid>
+      <description>Defense Primer: Future Years Defense Program (FYDP)</description>
+    </item>
+    <item>
       <title>Defense Primer: Reserve Forces</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10540</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10540-16</guid>
+      <guid isPermaLink="false">IF10540-18</guid>
       <description>Defense Primer: Reserve Forces</description>
     </item>
     <item>
       <title>Elder Financial Exploitation</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12462</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12462-1</guid>
+      <guid isPermaLink="false">IN12462-2</guid>
       <description>Elder Financial Exploitation</description>
     </item>
     <item>
-      <title>Ghana: Current Issues and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47329</link>
+      <title>Iran: Congressional Reporting Requirements</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R48282</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47329-6</guid>
-      <description>Ghana: Current Issues and U.S. Relations</description>
+      <guid isPermaLink="false">R48282-2</guid>
+      <description>Iran: Congressional Reporting Requirements</description>
+    </item>
+    <item>
+      <title>Natural Disasters and the Homeowners Insurance Market </title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12832</link>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12832-1</guid>
+      <description>Natural Disasters and the Homeowners Insurance Market </description>
     </item>
     <item>
       <title>Rights-of-Way for Access On and Through Tribal Lands</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12825</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12825-1</guid>
+      <guid isPermaLink="false">IF12825-2</guid>
       <description>Rights-of-Way for Access On and Through Tribal Lands</description>
     </item>
     <item>
       <title>Russia's Nuclear Weapons</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12672</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12672-5</guid>
+      <guid isPermaLink="false">IF12672-7</guid>
       <description>Russia's Nuclear Weapons</description>
     </item>
     <item>
       <title>Seabed Mining in Areas Beyond National Jurisdiction: Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47324</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47324-10</guid>
+      <guid isPermaLink="false">R47324-11</guid>
       <description>Seabed Mining in Areas Beyond National Jurisdiction: Issues for Congress</description>
     </item>
     <item>
       <title>Solar Photovoltaics (PV): Status and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R48280</link>
       <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48280-1</guid>
+      <guid isPermaLink="false">R48280-2</guid>
       <description>Solar Photovoltaics (PV): Status and Issues for Congress</description>
     </item>
     <item>
@@ -85,7 +1373,7 @@
       <title>Corps Water Infrastructure Financing Program (CWIFP)</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12021</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12021-7</guid>
+      <guid isPermaLink="false">IN12021-8</guid>
       <description>Corps Water Infrastructure Financing Program (CWIFP)</description>
     </item>
     <item>
@@ -94,6 +1382,13 @@
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R48277-2</guid>
       <description>CRS Model Estimates of Marginal Effective Tax Rates on Investment Under Current Law</description>
+    </item>
+    <item>
+      <title>Current Employment Survey Benchmark Revisions</title>
+      <link>https://crsreports.congress.gov/product/pdf/IF/IF12827</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">IF12827-2</guid>
+      <description>Current Employment Survey Benchmark Revisions</description>
     </item>
     <item>
       <title>Defense Primer: Military Commissaries and Exchanges</title>
@@ -138,34 +1433,6 @@
       <description>U.S.-Panama Security Cooperation</description>
     </item>
     <item>
-      <title>Defense Primer: Department of the Navy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10484</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10484-39</guid>
-      <description>Defense Primer: Department of the Navy</description>
-    </item>
-    <item>
-      <title>Defense Primer: Geography, Strategy, and U.S. Force Design</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10485</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10485-33</guid>
-      <description>Defense Primer: Geography, Strategy, and U.S. Force Design</description>
-    </item>
-    <item>
-      <title>Defense Primer: Naval Forces</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10486</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10486-49</guid>
-      <description>Defense Primer: Naval Forces</description>
-    </item>
-    <item>
-      <title>Defense Primer: Navy Distributed Maritime Operations (DMO) Concept</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12599</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12599-7</guid>
-      <description>Defense Primer: Navy Distributed Maritime Operations (DMO) Concept</description>
-    </item>
-    <item>
       <title>Navy Constellation (FFG-62) Class Frigate Program: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R44972</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
@@ -192,13 +1459,6 @@
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">RL34391-277</guid>
       <description>Coast Guard Polar Security Cutter (Polar Icebreaker) Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Committee on Foreign Investment in the United States (CFIUS)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10177</link>
-      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10177-34</guid>
-      <description>Committee on Foreign Investment in the United States (CFIUS)</description>
     </item>
     <item>
       <title>Consumer and Credit Reporting, Scoring, and Related Policy Issues</title>
@@ -253,14 +1513,14 @@
       <title>Poverty in the United States in 2023</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R48279</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48279-2</guid>
+      <guid isPermaLink="false">R48279-4</guid>
       <description>Poverty in the United States in 2023</description>
     </item>
     <item>
       <title>Selected Issues in Tax Policy: The Child Tax Credit</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12820</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12820-1</guid>
+      <guid isPermaLink="false">IF12820-2</guid>
       <description>Selected Issues in Tax Policy: The Child Tax Credit</description>
     </item>
     <item>
@@ -330,15 +1590,15 @@
       <title>Federal Rental Assistance and Affordability</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12824</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12824-1</guid>
+      <guid isPermaLink="false">IF12824-2</guid>
       <description>Federal Rental Assistance and Affordability</description>
     </item>
     <item>
-      <title>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/98-684</link>
+      <title>Presidential Transitions: A New Administration's Potential Impact on Pending Supreme Court Cases</title>
+      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11249</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">98-684-196</guid>
-      <description>Latin America and the Caribbean: Fact Sheet on Leaders and Elections</description>
+      <guid isPermaLink="false">LSB11249-1</guid>
+      <description>Presidential Transitions: A New Administration's Potential Impact on Pending Supreme Court Cases</description>
     </item>
     <item>
       <title>Thanksgiving: Fact Sheet</title>
@@ -495,13 +1755,6 @@
       <description>Supplemental Nutrition Assistance Program (SNAP): A Primer on Eligibility and Benefits</description>
     </item>
     <item>
-      <title>The International Emergency Economic Powers Act (IEEPA) and Tariffs: Historical Background and Key Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11129</link>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11129-11</guid>
-      <description>The International Emergency Economic Powers Act (IEEPA) and Tariffs: Historical Background and Key Issues</description>
-    </item>
-    <item>
       <title>The Social Security Fairness Act of 2023 (H.R. 82): Background for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12451</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
@@ -535,6 +1788,13 @@
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12558-4</guid>
       <description>Indefinite Delivery, Indefinite Quantity Contracts</description>
+    </item>
+    <item>
+      <title>SBA COVID-19 EIDL Financial Relief: Policy Options and Considerations</title>
+      <link>https://crsreports.congress.gov/product/pdf/R/R47509</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">R47509-4</guid>
+      <description>SBA COVID-19 EIDL Financial Relief: Policy Options and Considerations</description>
     </item>
     <item>
       <title>An Overview of the HOME Investment Partnerships Program</title>
@@ -810,13 +2070,6 @@
       <description>Labor, Health and Human Services, and Education: FY2024 Appropriations</description>
     </item>
     <item>
-      <title>Membership of the 118th Congress: A Profile</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47470</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47470-24</guid>
-      <description>Membership of the 118th Congress: A Profile</description>
-    </item>
-    <item>
       <title>Pensions and Individual Retirement Accounts (IRAs): Investment Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47996</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
@@ -836,13 +2089,6 @@
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11736-5</guid>
       <description>Reinstatement of Removal Orders: An Introduction</description>
-    </item>
-    <item>
-      <title>Sri Lanka: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10213</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10213-25</guid>
-      <description>Sri Lanka: Background and Issues for Congress</description>
     </item>
     <item>
       <title>The National Earthquake Hazards Reduction Program (NEHRP): Overview and Issues for Congress</title>
@@ -880,13 +2126,6 @@
       <description>Connecting Grantseekers with Federal Assistance for Storm Shelters and Safe Rooms</description>
     </item>
     <item>
-      <title>Current Status of Federal Disaster Relief Accounts</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12811</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12811-2</guid>
-      <description>Current Status of Federal Disaster Relief Accounts</description>
-    </item>
-    <item>
       <title>Defense Primer: Hypersonic Boost-Glide Weapons</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11459</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
@@ -899,13 +2138,6 @@
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12803-2</guid>
       <description>Defense Primer: United States Military Aviation</description>
-    </item>
-    <item>
-      <title>DOD Replicator Initiative: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12611</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12611-7</guid>
-      <description>DOD Replicator Initiative: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Election Day: Frequently Asked Questions</title>
@@ -953,7 +2185,7 @@
       <title>U.S.-EU Trade and Technology Council: Background and Issues</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12575</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12575-5</guid>
+      <guid isPermaLink="false">IF12575-8</guid>
       <description>U.S.-EU Trade and Technology Council: Background and Issues</description>
     </item>
     <item>
@@ -1004,13 +2236,6 @@
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12454-1</guid>
       <description>Student Loan Debt Relief: The Biden Administration's Second Proposed Rule</description>
-    </item>
-    <item>
-      <title>The Impact of the 'Securing the Border' Interim Final Rule on Migrant Encounters and Processing</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12417</link>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12417-3</guid>
-      <description>The Impact of the 'Securing the Border' Interim Final Rule on Migrant Encounters and Processing</description>
     </item>
     <item>
       <title>Central American Migration: Root Causes and U.S. Policy</title>
@@ -1093,15 +2318,8 @@
       <title>Escalation of the Israel-Iran Conflict</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12347</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12347-7</guid>
+      <guid isPermaLink="false">IN12347-8</guid>
       <description>Escalation of the Israel-Iran Conflict</description>
-    </item>
-    <item>
-      <title>Iran and Nuclear Weapons Production</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12106</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12106-13</guid>
-      <description>Iran and Nuclear Weapons Production</description>
     </item>
     <item>
       <title>Stealing Trade Secrets and Economic Espionage: An Abridged Overview of the Economic Espionage Act</title>
@@ -1391,13 +2609,6 @@
       <description>The 2024 Federal Aviation Administration Reauthorization</description>
     </item>
     <item>
-      <title>The North Atlantic Right Whale: Conservation Trade-Offs with Selected Marine Sectors and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12776</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12776-3</guid>
-      <description>The North Atlantic Right Whale: Conservation Trade-Offs with Selected Marine Sectors and Considerations for Congress</description>
-    </item>
-    <item>
       <title>The Role of Business Incubators and Accelerators in Entrepreneurship Support</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12794</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
@@ -1417,13 +2628,6 @@
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46943-5</guid>
       <description>Voter Registration Records and List Maintenance for Federal Elections</description>
-    </item>
-    <item>
-      <title>Cluster Munitions: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS22907</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22907-49</guid>
-      <description>Cluster Munitions: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Diplomatic Security, Embassy Construction, and the Role of Congress</title>
@@ -1559,13 +2763,6 @@
       <description>Farm Bill Primer: Budget Dynamics</description>
     </item>
     <item>
-      <title>FY2025 NDAA: Status of Legislative Activity</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12405</link>
-      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12405-3</guid>
-      <description>FY2025 NDAA: Status of Legislative Activity</description>
-    </item>
-    <item>
       <title>Israel and Hamas: Killing of Hamas Leader Yahya Sinwar</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12446</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
@@ -1632,7 +2829,7 @@
       <title>Federal Reserve Board: Current and Historical Membership</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R48233</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48233-2</guid>
+      <guid isPermaLink="false">R48233-3</guid>
       <description>Federal Reserve Board: Current and Historical Membership</description>
     </item>
     <item>
@@ -1662,20 +2859,6 @@
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46491-36</guid>
       <description>Resources for Tracking Federal COVID-19 Spending</description>
-    </item>
-    <item>
-      <title>Section 307 and Imports Produced by Forced Labor </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11360</link>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11360-14</guid>
-      <description>Section 307 and Imports Produced by Forced Labor </description>
-    </item>
-    <item>
-      <title>The Army's Self-Propelled Howitzer Modernization (SPH-M) Effort</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12772</link>
-      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12772-4</guid>
-      <description>The Army's Self-Propelled Howitzer Modernization (SPH-M) Effort</description>
     </item>
     <item>
       <title>The Terminal High Altitude Area Defense (THAAD) System</title>
@@ -1793,7 +2976,7 @@
       <title>Federal Student Loans Made Through the William D. Ford Federal Direct Loan Program: Terms and Conditions for Borrowers</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R45931</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45931-15</guid>
+      <guid isPermaLink="false">R45931-17</guid>
       <description>Federal Student Loans Made Through the William D. Ford Federal Direct Loan Program: Terms and Conditions for Borrowers</description>
     </item>
     <item>
@@ -1951,13 +3134,6 @@
       <description>Army Security Force Assistance Brigades (SFABs)</description>
     </item>
     <item>
-      <title>Disaster Relief Fund State of Play: In Brief</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47676</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47676-11</guid>
-      <description>Disaster Relief Fund State of Play: In Brief</description>
-    </item>
-    <item>
       <title>Federal Student Aid Authorized by Title IV of the Higher Education Act</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12780</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
@@ -1984,13 +3160,6 @@
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R47439-4</guid>
       <description>Special Event Security and National Special Security Events: A Summary and Issues for Congressional Consideration</description>
-    </item>
-    <item>
-      <title>The U.S. Marine Corps Marine Littoral Regiment (MLR)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12200</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12200-12</guid>
-      <description>The U.S. Marine Corps Marine Littoral Regiment (MLR)</description>
     </item>
     <item>
       <title>2023 Premium Tax Credit Tool: An Interactive Tool for Congressional Users</title>
@@ -2206,7 +3375,7 @@
       <title>Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47828</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47828-30</guid>
+      <guid isPermaLink="false">R47828-31</guid>
       <description>Israel and Hamas Conflict In Brief: Overview, U.S. Policy, and Options for Congress</description>
     </item>
     <item>
@@ -2425,13 +3594,6 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10590-47</guid>
       <description>Child Welfare: Purposes, Federal Programs, and Funding</description>
-    </item>
-    <item>
-      <title>Columbia River Treaty</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43287</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43287-28</guid>
-      <description>Columbia River Treaty</description>
     </item>
     <item>
       <title>Congressional Rules and Practices Concerning User Fees and Other Nonrevenue Collections in the Federal Budget</title>
@@ -2714,13 +3876,6 @@
       <description>NASA Appropriations and Authorizations: Fact Sheet</description>
     </item>
     <item>
-      <title>National Statuary Hall Collection: Background and Legislative Options</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42812</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42812-37</guid>
-      <description>National Statuary Hall Collection: Background and Legislative Options</description>
-    </item>
-    <item>
       <title>Salaries of Members of Congress: Congressional Votes, 1990-2024</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/97-615</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
@@ -2861,13 +4016,6 @@
       <description>Social Security Benefit Taxation Highlights</description>
     </item>
     <item>
-      <title>Temporary Protected Status and Deferred Enforced Departure</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS20844</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS20844-76</guid>
-      <description>Temporary Protected Status and Deferred Enforced Departure</description>
-    </item>
-    <item>
       <title>The U.S. Defense Industrial Base: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R47751</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
@@ -2887,20 +4035,6 @@
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12427-1</guid>
       <description>Why Is the Federal Reserve Reducing Interest Rates?</description>
-    </item>
-    <item>
-      <title>Arctic National Wildlife Refuge: Status of Oil and Gas Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12006</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12006-12</guid>
-      <description>Arctic National Wildlife Refuge: Status of Oil and Gas Program</description>
-    </item>
-    <item>
-      <title>Lebanese Hezbollah</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10703</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10703-11</guid>
-      <description>Lebanese Hezbollah</description>
     </item>
     <item>
       <title>Military Survivor Benefit Plan: Background and Issues for Congress</title>
@@ -3057,13 +4191,6 @@
       <description>An Introduction to Poverty Measurement</description>
     </item>
     <item>
-      <title>Defense Primer: Military Service Academies</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11788</link>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11788-9</guid>
-      <description>Defense Primer: Military Service Academies</description>
-    </item>
-    <item>
       <title>Defense Production for Ukraine: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R48182</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
@@ -3214,7 +4341,7 @@
       <title>Turkey (Türkiye)-U.S. Relations: Timeline and Brief Historical Context</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10487</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10487-15</guid>
+      <guid isPermaLink="false">IF10487-16</guid>
       <description>Turkey (Türkiye)-U.S. Relations: Timeline and Brief Historical Context</description>
     </item>
     <item>
@@ -3330,13 +4457,6 @@
       <description>Constitution and Citizenship Day Speech Resources: Fact Sheet</description>
     </item>
     <item>
-      <title>Defense Primer: United States Transportation Command</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11479</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11479-10</guid>
-      <description>Defense Primer: United States Transportation Command</description>
-    </item>
-    <item>
       <title>FY2025 NDAA: Military Basic Pay Reform Proposal</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12367</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
@@ -3426,13 +4546,6 @@
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12758-2</guid>
       <description>Medicare Coverage of GLP-1 Drugs</description>
-    </item>
-    <item>
-      <title>Sustainable Aviation Fuel (SAF): An Overview of Current Laws and Legislation Introduced in the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12757</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12757-1</guid>
-      <description>Sustainable Aviation Fuel (SAF): An Overview of Current Laws and Legislation Introduced in the 118th Congress</description>
     </item>
     <item>
       <title>The Fair Labor Standards Act (FLSA) Exemption for Executive, Administrative, and Professional (EAP) Employees</title>
@@ -3617,20 +4730,6 @@
       <description>Education Department Updates Title IX Regulations: Protections for Pregnant Students and Employees</description>
     </item>
     <item>
-      <title>Montana's TikTok Ban Goes Before the Ninth Circuit</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11166</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11166-3</guid>
-      <description>Montana's TikTok Ban Goes Before the Ninth Circuit</description>
-    </item>
-    <item>
-      <title>The Intelligence Community's Foreign Malign Influence Center</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12470</link>
-      <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12470-4</guid>
-      <description>The Intelligence Community's Foreign Malign Influence Center</description>
-    </item>
-    <item>
       <title>Veterans Benefits Administration (VBA): Pension Programs</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46511</link>
       <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
@@ -3690,7 +4789,7 @@
       <title>The Congressional Review Act (CRA): A Brief Overview</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF10023</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10023-10</guid>
+      <guid isPermaLink="false">IF10023-11</guid>
       <description>The Congressional Review Act (CRA): A Brief Overview</description>
     </item>
     <item>
@@ -3897,32 +4996,11 @@
       <description>Arbitration Law Update: The Supreme Court's October 2023 Term</description>
     </item>
     <item>
-      <title>Defense Primer: Department of Defense Pre-Positioned Materiel</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11699</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11699-7</guid>
-      <description>Defense Primer: Department of Defense Pre-Positioned Materiel</description>
-    </item>
-    <item>
-      <title>Defense Primer: The Defense Logistics Agency</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11543</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11543-9</guid>
-      <description>Defense Primer: The Defense Logistics Agency</description>
-    </item>
-    <item>
       <title>Fourth Circuit Holds That Certain Medicaid and State-Funded Health Plans Discriminate by Refusing to Cover Treatments for Gender Dysphoria</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11092</link>
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11092-2</guid>
       <description>Fourth Circuit Holds That Certain Medicaid and State-Funded Health Plans Discriminate by Refusing to Cover Treatments for Gender Dysphoria</description>
-    </item>
-    <item>
-      <title>Moldova: An Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10894</link>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10894-20</guid>
-      <description>Moldova: An Overview</description>
     </item>
     <item>
       <title>The Child Support Enforcement (CSE) Program</title>
@@ -4163,13 +5241,6 @@
       <description>Defense Primer: Lowest Price Technically Acceptable Contracts</description>
     </item>
     <item>
-      <title>FY2025 NDAA: Summary of Proposed Funding Authorizations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12404</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12404-2</guid>
-      <description>FY2025 NDAA: Summary of Proposed Funding Authorizations</description>
-    </item>
-    <item>
       <title>Introduction to Financial Services: International Regulation</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12741</link>
       <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
@@ -4247,13 +5318,6 @@
       <description>Decennial Census and Apportionment: Frequently Asked Questions</description>
     </item>
     <item>
-      <title>Hypersonic Weapons: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45811</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45811-41</guid>
-      <description>Hypersonic Weapons: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Omnibus Appropriations: Overview of Recent Practice</title>
       <link>https://crsreports.congress.gov/product/pdf/IN/IN12324</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
@@ -4287,13 +5351,6 @@
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10803-26</guid>
       <description>Global Human Rights: International Religious Freedom Policy</description>
-    </item>
-    <item>
-      <title>Marginal Effective Tax Rates on Investment and the Expiring 2017 Tax Cuts</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48153</link>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48153-2</guid>
-      <description>Marginal Effective Tax Rates on Investment and the Expiring 2017 Tax Cuts</description>
     </item>
     <item>
       <title>U.S. Army's Maneuver Short-Range Air Defense (M-SHORAD) System</title>
@@ -4343,13 +5400,6 @@
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12396-3</guid>
       <description>Recent Developments in the Democratic Presidential Nominating Process</description>
-    </item>
-    <item>
-      <title>Regulation of U.S. Outbound Investment to China</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12629</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12629-5</guid>
-      <description>Regulation of U.S. Outbound Investment to China</description>
     </item>
     <item>
       <title>China's Economy: Current Trends and Issues</title>
@@ -4420,13 +5470,6 @@
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12327-6</guid>
       <description>U.S. Trade Policy: Future Direction and Key Economic Debates</description>
-    </item>
-    <item>
-      <title>U.S.-Taiwan Trade and Economic Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10256</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10256-23</guid>
-      <description>U.S.-Taiwan Trade and Economic Relations</description>
     </item>
     <item>
       <title>Unemployment Insurance: Legislative Issues in the 118th Congress</title>
@@ -4511,13 +5554,6 @@
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12735-2</guid>
       <description>U.S. Extended Deterrence and Regional Nuclear Capabilities</description>
-    </item>
-    <item>
-      <title>U.S.-China Trade Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11284</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11284-24</guid>
-      <description>U.S.-China Trade Relations</description>
     </item>
     <item>
       <title>Extreme Heat and Climate Change</title>
@@ -4632,13 +5668,6 @@
       <description>Multiyear Procurement (MYP) and Block Buy Contracting in Defense Acquisition: Background and Issues for Congress</description>
     </item>
     <item>
-      <title>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11679</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11679-43</guid>
-      <description>Navy DDG(X) Next-Generation Destroyer Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/RL/RL32109</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
@@ -4646,46 +5675,11 @@
       <description>Navy DDG-51 and DDG-1000 Destroyer Programs: Background and Issues for Congress</description>
     </item>
     <item>
-      <title>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS20643</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS20643-291</guid>
-      <description>Navy Ford (CVN-78) Class Aircraft Carrier Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R43546</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R43546-113</guid>
-      <description>Navy John Lewis (TAO-205) Class Oiler Shipbuilding Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy Light Replenishment Oiler (TAOL) Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11674</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11674-48</guid>
-      <description>Navy Light Replenishment Oiler (TAOL) Program: Background and Issues for Congress</description>
-    </item>
-    <item>
       <title>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R46374</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R46374-68</guid>
       <description>Navy Medium Landing Ship (LSM) (Previously Light Amphibious Warship [LAW]) Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11826</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11826-32</guid>
-      <description>Navy Next-Generation Attack Submarine (SSN[X]) Program: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11838</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11838-29</guid>
-      <description>Navy TAGOS-25 Ocean Surveillance Shipbuilding Program: Background and Issues for Congress</description>
     </item>
     <item>
       <title>Title V State Maternal and Child Health (MCH) Block Grants</title>
@@ -4742,13 +5736,6 @@
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IN12354-3</guid>
       <description>Venezuela's 2024 Presidential Election</description>
-    </item>
-    <item>
-      <title>Water Resources Development Acts: Primer and Action in the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11322</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11322-10</guid>
-      <description>Water Resources Development Acts: Primer and Action in the 118th Congress</description>
     </item>
     <item>
       <title>Canada's Digital Services Tax Act: Issues Facing Congress</title>
@@ -4954,13 +5941,6 @@
       <description>Space Resource Extraction: Overview and Issues for Congress</description>
     </item>
     <item>
-      <title>State Laws Restricting or Prohibiting Abortion</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47595</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47595-15</guid>
-      <description>State Laws Restricting or Prohibiting Abortion</description>
-    </item>
-    <item>
       <title>The Supreme Court's Narrow Construction of Federal Criminal Laws: 2023 Term</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11212</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
@@ -4980,13 +5960,6 @@
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF10211-19</guid>
       <description>Foreign Leaders Addressing Congress</description>
-    </item>
-    <item>
-      <title>IT Outage from CrowdStrike's Update: Impacts to Certain Public Safety Systems and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12717</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12717-1</guid>
-      <description>IT Outage from CrowdStrike's Update: Impacts to Certain Public Safety Systems and Considerations for Congress</description>
     </item>
     <item>
       <title>Smithsonian Institution: Background, Entities, and Leadership</title>
@@ -5015,13 +5988,6 @@
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF11234-6</guid>
       <description>Antitrust Law: An Introduction</description>
-    </item>
-    <item>
-      <title>Legislative Evolution of U.S. Secret Service</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48138</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48138-2</guid>
-      <description>Legislative Evolution of U.S. Secret Service</description>
     </item>
     <item>
       <title>National Park Service Deferred Maintenance: Overview and Issues</title>
@@ -5276,13 +6242,6 @@
       <description>Congressional Gold Medals: Background, Legislative Process, and Issues for Congress</description>
     </item>
     <item>
-      <title>Defense Primer: Planning, Programming, Budgeting, and Execution (PPBE) Process</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10429</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10429-14</guid>
-      <description>Defense Primer: Planning, Programming, Budgeting, and Execution (PPBE) Process</description>
-    </item>
-    <item>
       <title>Lebanon	</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF11617</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
@@ -5309,13 +6268,6 @@
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">R41074-14</guid>
       <description>Architect of the Capitol Appointment Procedure: Evolution and Recent Changes</description>
-    </item>
-    <item>
-      <title>Defense Primer: U.S. Precision-Guided Munitions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11353</link>
-      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11353-14</guid>
-      <description>Defense Primer: U.S. Precision-Guided Munitions</description>
     </item>
     <item>
       <title>Dispute Settlement in the WTO and U.S. Trade Agreements</title>
@@ -5556,13 +6508,6 @@
       <description>2024 Presidential Nominating Process: Frequently Asked Questions</description>
     </item>
     <item>
-      <title>Israel: Major Issues and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44245</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44245-143</guid>
-      <description>Israel: Major Issues and U.S. Relations</description>
-    </item>
-    <item>
       <title>Legislative Scheduling of Controlled Substances</title>
       <link>https://crsreports.congress.gov/product/pdf/IF/IF12709</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
@@ -5694,13 +6639,6 @@
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12704-1</guid>
       <description>Core Based Statistical Areas</description>
-    </item>
-    <item>
-      <title>Marine Debris: NOAA's Role</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10967</link>
-      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10967-9</guid>
-      <description>Marine Debris: NOAA's Role</description>
     </item>
     <item>
       <title>Wastewater Discharge Standards for Steam Electric Power Plants</title>
@@ -5934,13 +6872,6 @@
       <description>Central Valley Project: Issues and Legislation</description>
     </item>
     <item>
-      <title>Defense Primer: DOD Domestic School System</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10335</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10335-11</guid>
-      <description>Defense Primer: DOD Domestic School System</description>
-    </item>
-    <item>
       <title>Federal Material Witness Statute: A Legal Overview of 18 U.S.C.  Sect.  3144</title>
       <link>https://crsreports.congress.gov/product/pdf/R/R41903</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
@@ -5953,13 +6884,6 @@
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">LSB11183-3</guid>
       <description>Medication Abortion Access Remains Unchanged as Supreme Court Rejects Legal Challenge on Standing Grounds</description>
-    </item>
-    <item>
-      <title>Tornadoes: Background and Forecasting</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12695</link>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12695-1</guid>
-      <description>Tornadoes: Background and Forecasting</description>
     </item>
     <item>
       <title>Transportation, Housing and Urban Development, and Related Agencies (THUD) Appropriations for FY2024</title>
@@ -6004,13 +6928,6 @@
       <description>The Unified Agenda of Federal Regulatory and Deregulatory Actions: An Overview</description>
     </item>
     <item>
-      <title>Use of Force in Cyberspace</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11995</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11995-5</guid>
-      <description>Use of Force in Cyberspace</description>
-    </item>
-    <item>
       <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 17-June 23, 2024)</title>
       <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11182</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
@@ -6030,13 +6947,6 @@
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12694-3</guid>
       <description>Defense Primer: Agile Combat Employment (ACE) Concept</description>
-    </item>
-    <item>
-      <title>Defense Primer: Personnel Tempo (PERSTEMPO)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11007</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11007-13</guid>
-      <description>Defense Primer: Personnel Tempo (PERSTEMPO)</description>
     </item>
     <item>
       <title>Department of Defense Contractors and Efforts to Mitigate Foreign Influence</title>
@@ -6093,916 +7003,6 @@
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       <guid isPermaLink="false">IF12693-2</guid>
       <description>Supplemental Security Income (SSI) Overpayments Due to Earnings</description>
-    </item>
-    <item>
-      <title>U.S.-Ukraine Bilateral Security Agreement</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12385</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12385-1</guid>
-      <description>U.S.-Ukraine Bilateral Security Agreement</description>
-    </item>
-    <item>
-      <title>Europe: Fact Sheet on Parliamentary and Presidential Elections</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46858</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46858-18</guid>
-      <description>Europe: Fact Sheet on Parliamentary and Presidential Elections</description>
-    </item>
-    <item>
-      <title>Joint Congressional Committee on Inaugural Ceremonies: History, Membership, and Inaugural Activities</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42603</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42603-12</guid>
-      <description>Joint Congressional Committee on Inaugural Ceremonies: History, Membership, and Inaugural Activities</description>
-    </item>
-    <item>
-      <title>Stafford Act Declarations for Extreme Heat</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12384</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12384-2</guid>
-      <description>Stafford Act Declarations for Extreme Heat</description>
-    </item>
-    <item>
-      <title>The Biden Administration's Proclamation and Rule, Securing the Border, and DHS Operational Constraints</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12383</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12383-1</guid>
-      <description>The Biden Administration's Proclamation and Rule, Securing the Border, and DHS Operational Constraints</description>
-    </item>
-    <item>
-      <title>The Supreme Court Invalidates the ATF's Bump-Stock Ban </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10920</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10920-3</guid>
-      <description>The Supreme Court Invalidates the ATF's Bump-Stock Ban </description>
-    </item>
-    <item>
-      <title>What Time Is It for the ACCA?: Supreme Court Clarifies When State Drug Offenses Qualify as 'Serious Drug Offenses' </title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11179</link>
-      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11179-1</guid>
-      <description>What Time Is It for the ACCA?: Supreme Court Clarifies When State Drug Offenses Qualify as 'Serious Drug Offenses' </description>
-    </item>
-    <item>
-      <title>Department of State, Foreign Operations, and Related Programs Appropriations: A Guide to Component Accounts</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R40482</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R40482-37</guid>
-      <description>Department of State, Foreign Operations, and Related Programs Appropriations: A Guide to Component Accounts</description>
-    </item>
-    <item>
-      <title>Foreign Holdings of Federal Debt</title>
-      <link>https://crsreports.congress.gov/product/pdf/RS/RS22331</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RS22331-49</guid>
-      <description>Foreign Holdings of Federal Debt</description>
-    </item>
-    <item>
-      <title>Proposal to Create a U.S. Army Drone Corps</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12382</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12382-2</guid>
-      <description>Proposal to Create a U.S. Army Drone Corps</description>
-    </item>
-    <item>
-      <title>The Department of Labor's 2024 Final Rule on Investment Advice in Private Sector Pension Plans and Individual Retirement Accounts</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48108</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48108-2</guid>
-      <description>The Department of Labor's 2024 Final Rule on Investment Advice in Private Sector Pension Plans and Individual Retirement Accounts</description>
-    </item>
-    <item>
-      <title>Work and Social Security Disability Benefits: Addressing Challenges and Creating Opportunities</title>
-      <link>https://crsreports.congress.gov/product/pdf/TE/TE10103</link>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">TE10103-2</guid>
-      <description>Work and Social Security Disability Benefits: Addressing Challenges and Creating Opportunities</description>
-    </item>
-    <item>
-      <title>Can Retribution Justify the Revocation of Supervised Release? Courts Disagree.</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB10929</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB10929-3</guid>
-      <description>Can Retribution Justify the Revocation of Supervised Release? Courts Disagree.</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 10-June 16, 2024)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11180</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11180-2</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 10-June 16, 2024)</description>
-    </item>
-    <item>
-      <title>Hemp Provisions in the House Farm Bill and FY2025 Agriculture Appropriations Bill</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12381</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12381-3</guid>
-      <description>Hemp Provisions in the House Farm Bill and FY2025 Agriculture Appropriations Bill</description>
-    </item>
-    <item>
-      <title>International Agreement on Plastic Pollution: Negotiations </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12690</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12690-2</guid>
-      <description>International Agreement on Plastic Pollution: Negotiations </description>
-    </item>
-    <item>
-      <title>National Level Exercises: History, Authorities, and Congressional Considerations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11879</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11879-3</guid>
-      <description>National Level Exercises: History, Authorities, and Congressional Considerations</description>
-    </item>
-    <item>
-      <title>PACs and Super PACs in Federal Election Campaigns: Legal Framework</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12691</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12691-1</guid>
-      <description>PACs and Super PACs in Federal Election Campaigns: Legal Framework</description>
-    </item>
-    <item>
-      <title>SBA Disaster Loan Limits: Policy Options and Considerations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47245</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47245-6</guid>
-      <description>SBA Disaster Loan Limits: Policy Options and Considerations</description>
-    </item>
-    <item>
-      <title>Selected Tribal Lands in 118th Congressional Districts</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48107</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48107-7</guid>
-      <description>Selected Tribal Lands in 118th Congressional Districts</description>
-    </item>
-    <item>
-      <title>The Americans with Disabilities Act (ADA) and Public Accommodations in Web Services</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48104</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48104-2</guid>
-      <description>The Americans with Disabilities Act (ADA) and Public Accommodations in Web Services</description>
-    </item>
-    <item>
-      <title>Automobiles, Air Pollution, and Climate Change</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12433</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12433-4</guid>
-      <description>Automobiles, Air Pollution, and Climate Change</description>
-    </item>
-    <item>
-      <title>Desalination: Converting Saline Water into a Municipal Water Source</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12378</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12378-1</guid>
-      <description>Desalination: Converting Saline Water into a Municipal Water Source</description>
-    </item>
-    <item>
-      <title>Employment and Training Services for Noncustodial Parents in the Child Support Program: Background and Summary of Proposed Rule</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12379</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12379-3</guid>
-      <description>Employment and Training Services for Noncustodial Parents in the Child Support Program: Background and Summary of Proposed Rule</description>
-    </item>
-    <item>
-      <title>Medicaid Coverage for Former Foster Youth Up to Age 26</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11010</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11010-5</guid>
-      <description>Medicaid Coverage for Former Foster Youth Up to Age 26</description>
-    </item>
-    <item>
-      <title>Modernization of the Community Reinvestment Act</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48096</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48096-3</guid>
-      <description>Modernization of the Community Reinvestment Act</description>
-    </item>
-    <item>
-      <title>Project Safe Childhood and the National Strategy for Child Exploitation Prevention and Interdiction</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12688</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12688-1</guid>
-      <description>Project Safe Childhood and the National Strategy for Child Exploitation Prevention and Interdiction</description>
-    </item>
-    <item>
-      <title>Recovering Funds from Parties Liable: Stafford Act Authorities</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12689</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12689-3</guid>
-      <description>Recovering Funds from Parties Liable: Stafford Act Authorities</description>
-    </item>
-    <item>
-      <title>The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA): Overview and U.S. Funding Prohibition</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12316</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12316-6</guid>
-      <description>The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA): Overview and U.S. Funding Prohibition</description>
-    </item>
-    <item>
-      <title>Banking Legislation in the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12376</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12376-2</guid>
-      <description>Banking Legislation in the 118th Congress</description>
-    </item>
-    <item>
-      <title>Defense Primer: Junior Reserve Officers' Training Corps </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11313</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11313-16</guid>
-      <description>Defense Primer: Junior Reserve Officers' Training Corps </description>
-    </item>
-    <item>
-      <title>Foreign Ownership, Control, and Influence (FOCI) Risks in the Food and Agriculture Sector</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48094</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48094-4</guid>
-      <description>Foreign Ownership, Control, and Influence (FOCI) Risks in the Food and Agriculture Sector</description>
-    </item>
-    <item>
-      <title>India's Domestic Political Setting</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10298</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10298-27</guid>
-      <description>India's Domestic Political Setting</description>
-    </item>
-    <item>
-      <title>Juneteenth: Fact Sheet</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44865</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44865-30</guid>
-      <description>Juneteenth: Fact Sheet</description>
-    </item>
-    <item>
-      <title>Mountain Valley Pipeline: Past the Finish Line</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12032</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12032-14</guid>
-      <description>Mountain Valley Pipeline: Past the Finish Line</description>
-    </item>
-    <item>
-      <title>Voluntary Carbon Credit Markets and the Commodity Futures Trading Commission</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48095</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48095-2</guid>
-      <description>Voluntary Carbon Credit Markets and the Commodity Futures Trading Commission</description>
-    </item>
-    <item>
-      <title>Connecting Constituents with Federal Programs for Public Parks</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12687</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12687-2</guid>
-      <description>Connecting Constituents with Federal Programs for Public Parks</description>
-    </item>
-    <item>
-      <title>Federal-Tribal Consultation: Background and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48093</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48093-2</guid>
-      <description>Federal-Tribal Consultation: Background and Issues for Congress</description>
-    </item>
-    <item>
-      <title>Natural Disasters and the Homeowners Insurance Market</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12375</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12375-1</guid>
-      <description>Natural Disasters and the Homeowners Insurance Market</description>
-    </item>
-    <item>
-      <title>The Biden Administration's June 2024 Proclamation and Rule, Securing the Border</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11178</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11178-2</guid>
-      <description>The Biden Administration's June 2024 Proclamation and Rule, Securing the Border</description>
-    </item>
-    <item>
-      <title>Understanding the Content of an Appropriations Bill</title>
-      <link>https://crsreports.congress.gov/product/pdf/IG/IG10056</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IG10056-1</guid>
-      <description>Understanding the Content of an Appropriations Bill</description>
-    </item>
-    <item>
-      <title>Analysis of the Adult Activities Allotment Formula under the Workforce Innovation and Opportunity Act</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48100</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48100-4</guid>
-      <description>Analysis of the Adult Activities Allotment Formula under the Workforce Innovation and Opportunity Act</description>
-    </item>
-    <item>
-      <title>Can Tax Policy Increase Saving? </title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48092</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48092-2</guid>
-      <description>Can Tax Policy Increase Saving? </description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 3-June 9, 2024)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11177</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11177-2</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (June 3-June 9, 2024)</description>
-    </item>
-    <item>
-      <title>Contributions to Defined Contribution Retirement Plans</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48091</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48091-4</guid>
-      <description>Contributions to Defined Contribution Retirement Plans</description>
-    </item>
-    <item>
-      <title>Elections and Campaign Finance Policy: A CRS Podcast Series</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12037</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12037-5</guid>
-      <description>Elections and Campaign Finance Policy: A CRS Podcast Series</description>
-    </item>
-    <item>
-      <title>Exchange Rates and Currency Manipulation</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10049</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10049-23</guid>
-      <description>Exchange Rates and Currency Manipulation</description>
-    </item>
-    <item>
-      <title>Timing of the President's Budget Submission to Congress: FY2010-FY2025</title>
-      <link>https://crsreports.congress.gov/product/pdf/IG/IG10055</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IG10055-1</guid>
-      <description>Timing of the President's Budget Submission to Congress: FY2010-FY2025</description>
-    </item>
-    <item>
-      <title>Forest Service: FY2024 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12396</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12396-3</guid>
-      <description>Forest Service: FY2024 Appropriations</description>
-    </item>
-    <item>
-      <title>Funding for Wildfire Management: FY2024 Appropriations for the Forest Service and Department of the Interior</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12398</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12398-3</guid>
-      <description>Funding for Wildfire Management: FY2024 Appropriations for the Forest Service and Department of the Interior</description>
-    </item>
-    <item>
-      <title>Identifying Minors Online</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47884</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47884-8</guid>
-      <description>Identifying Minors Online</description>
-    </item>
-    <item>
-      <title>India's 2024 National Election</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12686</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12686-3</guid>
-      <description>India's 2024 National Election</description>
-    </item>
-    <item>
-      <title>Interior, Environment, and Related Agencies: Overview of FY2024 Appropriations</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47664</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47664-7</guid>
-      <description>Interior, Environment, and Related Agencies: Overview of FY2024 Appropriations</description>
-    </item>
-    <item>
-      <title>Petroleum-Equivalent Fuel Economy of Electric Vehicles: In Brief</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48086</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48086-5</guid>
-      <description>Petroleum-Equivalent Fuel Economy of Electric Vehicles: In Brief</description>
-    </item>
-    <item>
-      <title>Russia's War on Ukraine: U.S. Policy and the Role of Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12277</link>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12277-9</guid>
-      <description>Russia's War on Ukraine: U.S. Policy and the Role of Congress</description>
-    </item>
-    <item>
-      <title>Appropriations Duration of Availability: One-Year, Multi-Year, and No-Year Funds</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48087</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48087-2</guid>
-      <description>Appropriations Duration of Availability: One-Year, Multi-Year, and No-Year Funds</description>
-    </item>
-    <item>
-      <title>Columbia River System Operations and the Future of the Lower Snake River Dams</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48089</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48089-4</guid>
-      <description>Columbia River System Operations and the Future of the Lower Snake River Dams</description>
-    </item>
-    <item>
-      <title>Department of Energy's Office of Intelligence and Counterintelligence (OICI)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12684</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12684-2</guid>
-      <description>Department of Energy's Office of Intelligence and Counterintelligence (OICI)</description>
-    </item>
-    <item>
-      <title>Enhanced Geothermal Systems (EGS): Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48090</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48090-2</guid>
-      <description>Enhanced Geothermal Systems (EGS): Frequently Asked Questions</description>
-    </item>
-    <item>
-      <title>South Africa's May 2024 Elections</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12374</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12374-4</guid>
-      <description>South Africa's May 2024 Elections</description>
-    </item>
-    <item>
-      <title>Suspending the Tax-Exempt Status of Terrorist and Terrorist Supporting Organizations: H.R. 6408 in Context</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11176</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11176-2</guid>
-      <description>Suspending the Tax-Exempt Status of Terrorist and Terrorist Supporting Organizations: H.R. 6408 in Context</description>
-    </item>
-    <item>
-      <title>Connecting Constituents with Federal Assistance for Businesses</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12449</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12449-8</guid>
-      <description>Connecting Constituents with Federal Assistance for Businesses</description>
-    </item>
-    <item>
-      <title>Defense Primer: Department of Defense Contractors</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10600</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10600-17</guid>
-      <description>Defense Primer: Department of Defense Contractors</description>
-    </item>
-    <item>
-      <title>Federal Contracting by Veteran-Owned Small Businesses: An Overview and Analysis of Contemporary Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47226</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47226-12</guid>
-      <description>Federal Contracting by Veteran-Owned Small Businesses: An Overview and Analysis of Contemporary Issues</description>
-    </item>
-    <item>
-      <title>Independence Day Speech Resources: Fact Sheet</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44076</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44076-19</guid>
-      <description>Independence Day Speech Resources: Fact Sheet</description>
-    </item>
-    <item>
-      <title>Mexico's 2024 Elections</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12356</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12356-2</guid>
-      <description>Mexico's 2024 Elections</description>
-    </item>
-    <item>
-      <title>Panama: Country Overview and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10430</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10430-22</guid>
-      <description>Panama: Country Overview and U.S. Relations</description>
-    </item>
-    <item>
-      <title>Pandemic and All-Hazards Preparedness Act: An Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12683</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12683-2</guid>
-      <description>Pandemic and All-Hazards Preparedness Act: An Overview</description>
-    </item>
-    <item>
-      <title>Political Status of Puerto Rico: Brief Background and Recent Developments for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44721</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44721-8</guid>
-      <description>Political Status of Puerto Rico: Brief Background and Recent Developments for Congress</description>
-    </item>
-    <item>
-      <title>Section 1071: Small Business Lending Data Collection and Reporting</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47788</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47788-5</guid>
-      <description>Section 1071: Small Business Lending Data Collection and Reporting</description>
-    </item>
-    <item>
-      <title>Service-Disabled Veteran-Owned Small Business Contracting Program Changes</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12313</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12313-3</guid>
-      <description>Service-Disabled Veteran-Owned Small Business Contracting Program Changes</description>
-    </item>
-    <item>
-      <title>Statehood Process and Political Status of U.S. Territories: Brief Policy Background</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11792</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11792-5</guid>
-      <description>Statehood Process and Political Status of U.S. Territories: Brief Policy Background</description>
-    </item>
-    <item>
-      <title>The Minority Business Development Agency: An Overview of Its History and Programs</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46816</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46816-13</guid>
-      <description>The Minority Business Development Agency: An Overview of Its History and Programs</description>
-    </item>
-    <item>
-      <title>U.S.-Mexico Trade Relations </title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11175</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11175-8</guid>
-      <description>U.S.-Mexico Trade Relations </description>
-    </item>
-    <item>
-      <title>Contingency Management for Substance Use Disorders</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12681</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12681-1</guid>
-      <description>Contingency Management for Substance Use Disorders</description>
-    </item>
-    <item>
-      <title>Education Department Finalizes New Title IX Regulations: Sexual Orientation and Gender Identity</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11175</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11175-1</guid>
-      <description>Education Department Finalizes New Title IX Regulations: Sexual Orientation and Gender Identity</description>
-    </item>
-    <item>
-      <title>Electoral College Overview</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12682</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12682-2</guid>
-      <description>Electoral College Overview</description>
-    </item>
-    <item>
-      <title>The U.S.-Mexico Genetically Engineered Corn Dispute</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48083</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48083-3</guid>
-      <description>The U.S.-Mexico Genetically Engineered Corn Dispute</description>
-    </item>
-    <item>
-      <title>The Women-Owned Small Business Contract Program: Legislative and Program History</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R46322</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R46322-16</guid>
-      <description>The Women-Owned Small Business Contract Program: Legislative and Program History</description>
-    </item>
-    <item>
-      <title>U.S. Intelligence Community Establishment Provisions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10527</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10527-10</guid>
-      <description>U.S. Intelligence Community Establishment Provisions</description>
-    </item>
-    <item>
-      <title>Defense Primer: Military Officers</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10685</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10685-16</guid>
-      <description>Defense Primer: Military Officers</description>
-    </item>
-    <item>
-      <title>Introduction to U.S. Economy: Monetary Policy</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11751</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11751-5</guid>
-      <description>Introduction to U.S. Economy: Monetary Policy</description>
-    </item>
-    <item>
-      <title>Livestock Forage Disaster Program (LFP): Drought and Wildfire Assistance</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48082</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48082-3</guid>
-      <description>Livestock Forage Disaster Program (LFP): Drought and Wildfire Assistance</description>
-    </item>
-    <item>
-      <title>Regional Economic Performance Since the Pandemic</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12373</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12373-1</guid>
-      <description>Regional Economic Performance Since the Pandemic</description>
-    </item>
-    <item>
-      <title>Regulation of Commercial Human Spaceflight Safety: Overview and Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48050</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48050-5</guid>
-      <description>Regulation of Commercial Human Spaceflight Safety: Overview and Issues for Congress</description>
-    </item>
-    <item>
-      <title>The Board of Veterans' Appeals: A Brief Introduction</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12680</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12680-2</guid>
-      <description>The Board of Veterans' Appeals: A Brief Introduction</description>
-    </item>
-    <item>
-      <title>The Social Security Trust Funds in 2024 and Beyond</title>
-      <link>https://crsreports.congress.gov/product/pdf/TE/TE10102</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">TE10102-1</guid>
-      <description>The Social Security Trust Funds in 2024 and Beyond</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 28-June 2, 2024)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11173</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11173-1</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 28-June 2, 2024)</description>
-    </item>
-    <item>
-      <title>Executive Order 14035 Implementation: Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48080</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48080-2</guid>
-      <description>Executive Order 14035 Implementation: Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce</description>
-    </item>
-    <item>
-      <title>Land Disposal Authorities and Processes of the Bureau of Land Management</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48079</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48079-2</guid>
-      <description>Land Disposal Authorities and Processes of the Bureau of Land Management</description>
-    </item>
-    <item>
-      <title>Military Retirement: Background and Recent Developments</title>
-      <link>https://crsreports.congress.gov/product/pdf/RL/RL34751</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">RL34751-43</guid>
-      <description>Military Retirement: Background and Recent Developments</description>
-    </item>
-    <item>
-      <title>Presidential Candidate and Nominating Convention Security</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11555</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11555-8</guid>
-      <description>Presidential Candidate and Nominating Convention Security</description>
-    </item>
-    <item>
-      <title>Sources of Federal Funding for Health Care Facilities: Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48081</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48081-4</guid>
-      <description>Sources of Federal Funding for Health Care Facilities: Frequently Asked Questions</description>
-    </item>
-    <item>
-      <title>The Army's M-1E3 Abrams Tank Modernization Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12495</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12495-5</guid>
-      <description>The Army's M-1E3 Abrams Tank Modernization Program</description>
-    </item>
-    <item>
-      <title>Veterans' Educational Assistance Programs and Benefits: A Primer</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R42785</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R42785-19</guid>
-      <description>Veterans' Educational Assistance Programs and Benefits: A Primer</description>
-    </item>
-    <item>
-      <title>Campaign Finance Law and the U.S. Supreme Court</title>
-      <link>https://crsreports.congress.gov/product/pdf/IG/IG10054</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IG10054-3</guid>
-      <description>Campaign Finance Law and the U.S. Supreme Court</description>
-    </item>
-    <item>
-      <title>Connecting Older Adults and Individuals with Disabilities to Health Services: Resources for Congressional Offices</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11694</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11694-14</guid>
-      <description>Connecting Older Adults and Individuals with Disabilities to Health Services: Resources for Congressional Offices</description>
-    </item>
-    <item>
-      <title>Integrating Federal Estimates of Income, Consumption, and Wealth: Policy Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12371</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12371-2</guid>
-      <description>Integrating Federal Estimates of Income, Consumption, and Wealth: Policy Issues</description>
-    </item>
-    <item>
-      <title>PPBE Reform Commission Final Report Recommendations: Issues for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12372</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12372-2</guid>
-      <description>PPBE Reform Commission Final Report Recommendations: Issues for Congress</description>
-    </item>
-    <item>
-      <title>The American Privacy Rights Act</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11161</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11161-2</guid>
-      <description>The American Privacy Rights Act</description>
-    </item>
-    <item>
-      <title>The World Bank</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11361</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11361-14</guid>
-      <description>The World Bank</description>
-    </item>
-    <item>
-      <title>USDA's Latest Update to Nutrition Standards for School Meals</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R47522</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R47522-4</guid>
-      <description>USDA's Latest Update to Nutrition Standards for School Meals</description>
-    </item>
-    <item>
-      <title>Bank Resilience and Regulatory Improvement Act (H.R. 8337)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12678</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12678-2</guid>
-      <description>Bank Resilience and Regulatory Improvement Act (H.R. 8337)</description>
-    </item>
-    <item>
-      <title>India-U.S.: Major Arms Transfers and Military Exercises</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12438</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12438-7</guid>
-      <description>India-U.S.: Major Arms Transfers and Military Exercises</description>
-    </item>
-    <item>
-      <title>NOAA's Commercial Data Program: Background and Considerations for Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12671</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12671-4</guid>
-      <description>NOAA's Commercial Data Program: Background and Considerations for Congress</description>
-    </item>
-    <item>
-      <title>Overview of Tribal Child Support Enforcement (CSE) Program Financing</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12164</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12164-5</guid>
-      <description>Overview of Tribal Child Support Enforcement (CSE) Program Financing</description>
-    </item>
-    <item>
-      <title>Restrictions on the Use of Journalists for Intelligence Purposes</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12369</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12369-1</guid>
-      <description>Restrictions on the Use of Journalists for Intelligence Purposes</description>
-    </item>
-    <item>
-      <title>The Internal Revenue Service's Free File Program (FFP): Current Status and Policy Issues</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11808</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11808-10</guid>
-      <description>The Internal Revenue Service's Free File Program (FFP): Current Status and Policy Issues</description>
-    </item>
-    <item>
-      <title>Defense Primer: 80th Anniversary of D-Day, June 6, 1944</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12370</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12370-1</guid>
-      <description>Defense Primer: 80th Anniversary of D-Day, June 6, 1944</description>
-    </item>
-    <item>
-      <title>Farm Bills: Major Legislative Actions, 1965-2024</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R45210</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R45210-20</guid>
-      <description>Farm Bills: Major Legislative Actions, 1965-2024</description>
-    </item>
-    <item>
-      <title>Judiciary Appropriations, FY2024</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48077</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48077-2</guid>
-      <description>Judiciary Appropriations, FY2024</description>
-    </item>
-    <item>
-      <title>Maldives: Background and Issues Facing Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12677</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12677-2</guid>
-      <description>Maldives: Background and Issues Facing Congress</description>
-    </item>
-    <item>
-      <title>Motorized Recreation on Federal Lands</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R48076</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R48076-2</guid>
-      <description>Motorized Recreation on Federal Lands</description>
-    </item>
-    <item>
-      <title>Sanctions in the FY2024 Emergency Supplemental Appropriation, P.L. 118-50</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12676</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12676-1</guid>
-      <description>Sanctions in the FY2024 Emergency Supplemental Appropriation, P.L. 118-50</description>
-    </item>
-    <item>
-      <title>The Biden Administration's New Restrictions on Firearms Sales</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12679</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12679-2</guid>
-      <description>The Biden Administration's New Restrictions on Firearms Sales</description>
-    </item>
-    <item>
-      <title>The Hur Tapes and the President's Claim of Executive Privilege</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11172</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11172-1</guid>
-      <description>The Hur Tapes and the President's Claim of Executive Privilege</description>
-    </item>
-    <item>
-      <title>The SBA's 8(a) Business Development Program</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12458</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12458-5</guid>
-      <description>The SBA's 8(a) Business Development Program</description>
-    </item>
-    <item>
-      <title>The United States-Mexico-Canada Agreement (USMCA)</title>
-      <link>https://crsreports.congress.gov/product/pdf/R/R44981</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">R44981-25</guid>
-      <description>The United States-Mexico-Canada Agreement (USMCA)</description>
-    </item>
-    <item>
-      <title>U.S.-European Relations in the 118th Congress</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF12302</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF12302-4</guid>
-      <description>U.S.-European Relations in the 118th Congress</description>
-    </item>
-    <item>
-      <title>Climate Change, Slow-Onset Disasters, and the Federal Emergency Management Agency</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11696</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11696-5</guid>
-      <description>Climate Change, Slow-Onset Disasters, and the Federal Emergency Management Agency</description>
-    </item>
-    <item>
-      <title>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 20-May 27, 2024)</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11171</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11171-1</guid>
-      <description>Congressional Court Watcher: Recent Appellate Decisions of Interest to Lawmakers (May 20-May 27, 2024)</description>
-    </item>
-    <item>
-      <title>Courts Disagree as to Whether the Federal Felon-in-Possession Firearm Prohibition Violates the Second Amendment</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11170</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11170-1</guid>
-      <description>Courts Disagree as to Whether the Federal Felon-in-Possession Firearm Prohibition Violates the Second Amendment</description>
-    </item>
-    <item>
-      <title>Defense Primer: Concurrent Receipt of Military Retirement and VA Disability</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF10594</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF10594-10</guid>
-      <description>Defense Primer: Concurrent Receipt of Military Retirement and VA Disability</description>
-    </item>
-    <item>
-      <title>Ecuador: Country Overview and U.S. Relations</title>
-      <link>https://crsreports.congress.gov/product/pdf/IF/IF11218</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IF11218-16</guid>
-      <description>Ecuador: Country Overview and U.S. Relations</description>
-    </item>
-    <item>
-      <title>Floodplain Buyouts: Federal Funding for Property Acquisition</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11911</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11911-5</guid>
-      <description>Floodplain Buyouts: Federal Funding for Property Acquisition</description>
-    </item>
-    <item>
-      <title>Georgia's Parliament Passes 'Transparency of Foreign Influence' Law</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12368</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12368-3</guid>
-      <description>Georgia's Parliament Passes 'Transparency of Foreign Influence' Law</description>
-    </item>
-    <item>
-      <title>HHS Finalizes Rule Addressing Section 1557 of the ACA's Incorporation of Title IX</title>
-      <link>https://crsreports.congress.gov/product/pdf/LSB/LSB11169</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">LSB11169-1</guid>
-      <description>HHS Finalizes Rule Addressing Section 1557 of the ACA's Incorporation of Title IX</description>
-    </item>
-    <item>
-      <title>National Flood Insurance Program Risk Rating 2.0: Frequently Asked Questions</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN11777</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN11777-7</guid>
-      <description>National Flood Insurance Program Risk Rating 2.0: Frequently Asked Questions</description>
-    </item>
-    <item>
-      <title>The Federal Flood Risk Management Standard (FFRMS)</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN12193</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN12193-2</guid>
-      <description>The Federal Flood Risk Management Standard (FFRMS)</description>
-    </item>
-    <item>
-      <title>The National Flood Insurance Program (NFIP), Reinsurance, and Catastrophe Bonds</title>
-      <link>https://crsreports.congress.gov/product/pdf/IN/IN10965</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid isPermaLink="false">IN10965-14</guid>
-      <description>The National Flood Insurance Program (NFIP), Reinsurance, and Catastrophe Bonds</description>
     </item>
   </channel>
 </rss>
